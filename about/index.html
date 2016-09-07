@@ -1,0 +1,8 @@
+---
+layout: default
+markdown: kramdown
+---
+
+{% capture my-include %}{% include about.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+

@@ -9,7 +9,10 @@ title: Alex Morley
         <link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
     <body>
-        <a class="twitter-timeline" data-height="20" data-width-"100" href="https://twitter.com/alex__morley">
+        {% capture my-include %}{% include main.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+        <a class="twitter-timeline" data-height="20%" data-width-"10%" href="https://twitter.com/alex__morley">
             My Tweets </a> 
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
         </script>
