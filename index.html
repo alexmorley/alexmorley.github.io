@@ -21,19 +21,21 @@ title: Alex Morley
     -ms-flex: 1;  /* IE 10 */    
     flex: 1;
 }
-</head>
-<body>
-<div id="main">
-<div>
-{% capture my-include %}{% include main.md %}{% endcapture %}
-{{ my-include | markdownify }}
-</div>
-<div>
-<a class="twitter-timeline" data-height="20%" data-width-"10%" href="https://twitter.com/alex__morley">
-My Tweets </a> 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8">
-</script>
-</div>
-</body>
+        </style>
+    </head>
+    <body>
+        <div id="main">
+            <div>
+                {% capture my-include %}{% include main.md %}{% endcapture %}
+                {{ my-include | markdownify }}
+            </div>
+            <div>
+                <a class="twitter-timeline" data-height="20%" data-width-"10%" href="https://twitter.com/alex__morley">
+                    My Tweets </a> 
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
+                </script>
+            </div>
+        </div>
+    </body>
 </html>
 
