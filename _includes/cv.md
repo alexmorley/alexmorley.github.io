@@ -1,5 +1,5 @@
 ## Formal Eduction
 
-| Dates         | Insitution    | Achievements
-|---------------|---------------|-------------
+| Dates         | Insitution    | Achievements|
+|---------------|---------------|-------------|
 {:.mbtablestyle} 
