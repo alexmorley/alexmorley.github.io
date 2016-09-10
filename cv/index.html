@@ -21,13 +21,18 @@ title: My CV
     <tr>
         <td></td>
         <td></td>
-        <td>Something Good</td>
-        <tr>
-            <td>2012 - 2015</td>
-            <td>University of Oxford</td>
-        </tr>
-    </table> 
+        <td>Poster Presentation at FENS 2016</td> 
+    </tr>
+    <tr>
+        <td>2012 - 2015</td>
+        <td>University of Oxford</td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>2:1 in Medical Sciences</td>
+    </tr>
+</table> 
 
-    {% capture my-include %}{% include cv.md %}{% endcapture %}
-    {{ my-include | markdownify }} 
+{% capture my-include %}{% include cv.md %}{% endcapture %}
+{{ my-include | markdownify }} 
 
