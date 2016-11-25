@@ -13,7 +13,7 @@ After delayed trains and a car with a flat battery I managed to miss the first s
 I did know it was going to be a good crowd when all of the screens I could see on people laptops were full of terminals and twitter!
 
 Key slide I did get to see from Niko's talk was this one:
-![Nico's slide](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Screenshot%20from%202016-11-25%2015:37:46.png)
+![Nico's slide](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Screenshot%20from%202016-11-25%2015:37:46.png "Hover text")
 Summary of preprint advantages: early citation, open access, free, early publication ... and more!
 Summary of preprint disadvantages: none... 
 
