@@ -27,22 +27,26 @@ Rik told us that last year they set up an Open Science commitee and that so far 
 
 The final option was chosen for a large project known as [Cam-CAN](http://www.cam-can.org/index.php?content=dataset), and over 90 requests were received within a week, which highlights both how useful these datasets could be, but also that managing detailed requests forms can be a lot of work!
 
+![Broken Link](https://raw.githubusercontent.com/alexmorley/alexmorley.github.io/master/images/Rik_Henson_Retro_Consent.png "Retrospective Consent")
 
-Another cool thing, which many people might not realise, is that making human data available retrospectively might be easier than you think.
+Another cool thing, which many people might not realise, is that making human data available retrospectively might be easier than you think -obviously you still need to be sure of this before you do it!
 
 Rik talked about a lot of cool stuff that I haven't mentioned (like MRC CBU "Technical Reports", Pre-Registration & Code-sharing), and there are loads of good resources on his [slides](http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/2016/09/Henson_CBUOpenScience_November2016.pdf) so check them out if you want to know more!
 
-- Nature Data Reports - Data Citable
 
-- Consent Forms: MRC CBU have new consent form which includes open data
-	- retrospective interpretation CamCAN - risk very low that anyone would object esp as anonomysied
-	- Data Protection act "research exemption"
+... Coming soon ...
 
-- CBU Data Repository 
-	- All papers will have to have data and scripts in Repository
-	- Checked by information officer
-	- Future use of data protected
-	- Where is this kept? University servers? Is it scitable?
-	- MRC CBSU bibliography search - you can make open, +minimal form, +fully managed access
-	- 90 requests for CAMCan in first week!
-	- MRC CBU Technical Reports - Purchase DOIs
+## All the other talks ...
+Ok I'm now super tired and I've still got to write about the OpenConCam event that happened on Thursday so I'll just briefly mention what the other brilliant speakers were chatting about!
+
+## Tibor Auer - Brain Imaging Data Structure, BIDS and pieces
+
+## Camille Maumet NIDM-Results
+
+## Marta Teperek - Making Research Data the New Water
+
+## Kirstie Whitaker - Showing your working
+
+## Chris Chamber Pre-Registration and Registered Reports
+
+## Elizabeth Byrne - My Experience of Pre-Registering during my PhD
