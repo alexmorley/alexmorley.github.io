@@ -1,4 +1,4 @@
 # This is my personal website
 Shameful self-promotion ... and a blog!
 
-Check it out at [alexmorley.me](https://alexmorley.me)
+Check it out at [alexmorley.me](http://alexmorley.me)
