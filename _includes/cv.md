@@ -3,12 +3,12 @@
 
 ### Programming
 
-#### Confident with: (use on a day-to-day basis)
-- Julia
+#### Confident with & use on a day-to-day basis
+- [Julia](http://julialang.org) (The future of scientific programming IMO)
 - Bash / Shell Scripting
-- Version Control (git and Github)
+- Version Control (git and [Github](https://github.com/alexmorley))
 
-#### Know at least the basics well
+#### Working knowledge of:
 - R
 - Python
 - MATLAB
@@ -16,6 +16,7 @@
 - Continuous Integration (Travis CI)
 
 ### Teaching
+
 #### University Level
 - Day-to-day supervision of an Final Honours School Project
 	- taught programming and analysis skills
@@ -29,4 +30,5 @@
 	- Small group teaching (> 50 hours)
 - 11+ and 13+ - (> 200 hours)
 
-### [blogging](http://alexmorley.me/scienceblog/) 
+### [Blogging](http://alexmorley.me/scienceblog/)
+- Still learning, but I think it's important! 
