@@ -39,11 +39,13 @@ Rik talked about a lot of cool stuff that I haven't mentioned (like MRC CBU "Tec
 ## All the other talks ...
 Ok I'm now super tired and I've still got to write about the OpenConCam event that happened on Thursday so I'll just briefly mention what the other brilliant speakers were chatting about!
 
-## Tibor Auer - Brain Imaging Data Structure, BIDS and pieces
+## Tibor Auer & Camille Maumet - Brain Imaging Data Structure - BIDS & NIDM-Results
+Tibor and Camille both gave super fascinating talks about standard formats for sharing in neuro-imaging. They are both part of the INCF community which has brought scientists together from across the globe to collaberate and create standard solutions to the diversity of tools that are used in this field. Not being an imager myself I won't go on about the details but I really do appreciate that, whatever your field is it is important to try and seek out best practice for storing your data. It can be tempting to re-invent the wheel and create something fancy yourself, but it will only make yours, and others, lives harder in the future.
 
-## Camille Maumet NIDM-Results
+Camille also touched on something that hit a chord with me. For now, even if your field is some way off having a gold standard for sharing your raw data, then it is still possible to take the smaller, but equally important, step of sharing your results. Even just a tabular file with all of your data points is so much richer than giving means and/or p-values. It made me cringe the other day to hear that some people doing large-scale meta-analysis have had to build tools to read the points from the graphs in a pdf document!
 
 ## Marta Teperek - Making Research Data the New Water
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Marta_T_Data_Like_Water.png "Research Data Like Water")
 
 ## Kirstie Whitaker - Showing your working
 
