@@ -6,7 +6,7 @@ date: 2016-11-24
 
 Today I went to a satellite event for [Open Con 2016](http://www.opencon2016.org) in Cambridge, mainly because a it has some awesome speakers like Erin Mckiernan but also because I somehow seemed to have missed the fact that there was a similar event in Oxford the week before (woops...). What is Open Con? Well in the organisers words Open Con is: 
 
-> a platform for the next generation to learn about Open Access, Open Education, and Open Data, develop critical skills, and catalyze action toward a more open system for sharing the world’s information—from scholarly and scientific research, to educational materials, to digital research data...
+> *a platform for the next generation to learn about Open Access, Open Education, and Open Data, develop critical skills, and catalyze action toward a more open system for sharing the world’s information—from scholarly and scientific research, to educational materials, to digital research data...*
 
 Quite a tall brief for a one-day satellite event to fill, but I really have come away properly invigorated to work on some projects I have had on the backburner, as well as some new collaberations with some awesome Cambridge folk.
 
