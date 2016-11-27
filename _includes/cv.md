@@ -2,17 +2,18 @@
 ## Experience
 
 ### Programming
+
+#### Confident with: (use on a day-to-day basis)
+- Julia
+- Bash / Shell Scripting
+- Version Control (git and Github)
+
 #### Know at least the basics well
 - R
 - Python
 - MATLAB
 - C
 - Continuous Integration (Travis CI)
-
-#### Pretty confident with: (use on a day-to-day basis)
-- Julia
-- Bash / Shell Scripting
-- Version Control (git and Github)
 
 ### Teaching
 #### University Level
@@ -26,4 +27,6 @@
 - GCSE Biology, Chemistry, Physics and Maths
 	- One-one (> 100 hours)
 	- Small group teaching (> 50 hours)
-- 11+ and 13+ - (> 200 hours) 
+- 11+ and 13+ - (> 200 hours)
+
+### [blogging](http://alexmorley.me/scienceblog/) 

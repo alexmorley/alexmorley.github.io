@@ -4,7 +4,7 @@ title: "MRC CBU Open Science Day 2016"
 date: 2016-11-22
 ---
 
-Hi there! I wrote some notes about cool things I learnt at the Open Science day at the MRC CBU. 
+Hi there! I wrote some notes about cool things I learnt at the Open Science day at the [MRC CBU](http://www.mrc-cbu.cam.ac.uk/openscience2016). 
  
  
 ## Reproducibility, PrePrints, and why you shouldn't drive...
