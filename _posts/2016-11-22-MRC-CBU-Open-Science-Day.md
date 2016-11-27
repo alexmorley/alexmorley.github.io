@@ -54,9 +54,9 @@ This was one of my contenders for slide of the day. It's very easy to get lost i
 
 
 ## Chris Chamber Pre-Registration and Registered Reports
-![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_The_Problem.png "The Problem")
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_The_Problem.png?raw=true "The Problem")
 
 And one of the solutions (a project that Chris himself set-up, even though the idea has been around since the 70s!)...
-![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_Reg_Reports.png "Registered Reports")
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_Reg_Reports.png?raw=true "Registered Reports")
 
 ## Elizabeth Byrne - My Experience of Pre-Registering during my PhD
