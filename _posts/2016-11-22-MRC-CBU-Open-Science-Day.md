@@ -45,7 +45,7 @@ Tibor and Camille both gave super fascinating talks about standard formats for s
 Camille also touched on something that hit a chord with me. For now, even if your field is some way off having a gold standard for sharing your raw data, then it is still possible to take the smaller, but equally important, step of sharing your results. Even just a tabular file with all of your data points is so much richer than giving means and/or p-values. It made me cringe the other day to hear that some people doing large-scale meta-analysis have had to build tools to read the points from the graphs in a pdf document!
 
 ## Marta Teperek - Making Research Data the New Water
-![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Marta_T_Data_Like_Water.png "Research Data Like Water")
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Marta_T_Data_Like_Water.png?raw=true "Research Data Like Water")
 
 ## Kirstie Whitaker - Showing your working
 
