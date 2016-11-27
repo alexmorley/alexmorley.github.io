@@ -46,11 +46,17 @@ Camille also touched on something that hit a chord with me. For now, even if you
 
 ## Marta Teperek - Making Research Data the New Water
 ![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Marta_T_Data_Like_Water.png?raw=true "Research Data Like Water")
-In this slide Marta described what an ideal research data cycle might look like. We could spend a FAIR bit of time discussing any of these but I'd just like to mention the "recognition and reward" aspect. The fact remains that we have been saying for a super long time that people should be recognised more for their data and while a little progress has been made, it might still be a little while before grant panels etc. really get their head around this. For me there are two important things to consider: the first is make sure that your data *is citable* because if it's not, then you are unlikely to get the credit that you want. The other is that, in my opinion at least, you should be, in most situations, obliged to share your data if you are publicly-funded (i.e. most of us). And even if you aren't I'm not sure why you should expect the rest of the scientific community to beleive your results if you can't show your working... whichbrings me nice onto...
+In this slide Marta described what an ideal research data cycle might look like. We could spend a FAIR bit of time discussing any of these but I'd just like to mention the "recognition and reward" aspect. The fact remains that we have been saying for a super long time that people should be recognised more for their data and while a little progress has been made, it might still be a little while before grant panels etc. really get their head around this. For me there are two important things to consider: the first is make sure that your data *is citable* because if it's not, then you are unlikely to get the credit that you want. The other is that, in my opinion at least, you should be, in most situations, obliged to share your data if you are publicly-funded (i.e. most of us). And even if you aren't I'm not sure why you should expect the rest of the scientific community to beleive your results if you can't show your working... which brings me nicely onto...
 
 ## Kirstie Whitaker - Showing your working
-![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Kirstie_W_Repro_Repl_Rob_Gen.png "Is this research ... ?")
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/Kirstie_W_Repro_Repl_Rob_Gen.png?raw=true "Is this research ... ?")
+This was one of my contenders for slide of the day. It's very easy to get lost in these terms but this little table is so great! Also, a little soberingly, for any piece of research to be really useful it has to be generaliseable i.e. someone else can produce qualitatively similar results with a new dataset and using different software; at the moment however a lot of research isn't even reproducible using the same code, and the same data - which to me is a pretty low bar! See e.g. [this study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038234) where changing the operating system (same software version and data) changed brain volume estimates by ~5% ...
+
 
 ## Chris Chamber Pre-Registration and Registered Reports
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_The_Problem.png "The Problem")
+
+And one of the solutions (a project that Chris himself set-up, even though the idea has been around since the 70s!)...
+![Ooops, no image for you, link to the slides above](https://github.com/alexmorley/alexmorley.github.io/blob/master/images/C_Chambers_Reg_Reports.png "Registered Reports")
 
 ## Elizabeth Byrne - My Experience of Pre-Registering during my PhD
