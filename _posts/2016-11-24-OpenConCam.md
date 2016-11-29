@@ -21,4 +21,12 @@ And if you wondering whether your journal is going to let you do this, or whethe
 
 Erin also told us that for now we still need to talk about impact factor, even if we know its flawed -which it is, and you should sign the [SF Dora commitment](http://www.ascb.org/dora) if you agree. While we still need to keep pushing for progress meeting people/institutions closer to where they are now can make a big difference in terms of impact. 
 
-More coming soon...
+"Don't let the good be the enemy of the perfect" is a sentement that somewhat came through from Erin's talk but was said more explicitly by Laura James -previously CEO of the [Open Knowledge Foundation](https://okfn.org)- and it's something I have mixed feelings about. It's clearly a broad concept and it's something I often tangle with when thinking about politics politics as well as science politics. Young folk are often charged with being too idealistic but its often the case that if you want to see a small change, you need to aim for a much bigger one.
+
+The thing that Laura said which really did hit home for someone who's been swept up in Open ideals recently is that we have to remember that Open is ultimately a means to an end. To her, it shouldn't be hard & fast principle for how to undertake any project but used wherever it will make things better. It's still hard for me to think of many places in Science that wouldn't benefit from being more Open, but I will remember now to keep in mind *why* I want these areas to be more open; what is the end-goal and how will Open make that more achievable.
+
+During the afternoon session we got into groups and each discussed a single topic related to Open Access. I chose one entitled *"Making a paper OA is not necessarily sharing it -perhaps we should be writing in a more understandable way"*. When I read the first part of the questions I thought, sure making OA isn't even close to sharing it, you also need to share the results, data and steps in between (usually code). I have thought for some time that publicly-funded work should be publicly accessible. But, what the author of this question was hitting on, is that *publicly accessible* also means that we have to communicate what our work means. After all shouldn't we have to justify to the taxpayer why we are spending *their* money on our research.
+
+It is of course, worth mentioning that with this ever-increasing pile of things scientists are expected to do it is important that funders/institutions provide, and reasearchers take advantage of, sufficient support. This could be in the form of training, journalists, data-management experts etc.
+
+
