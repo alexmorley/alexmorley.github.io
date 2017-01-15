@@ -17,3 +17,10 @@ Englighted opinions on both neuroscience & acedemia, Mark's blog does a great jo
 ## by Prof. Dorothy Bishop
 
 One of many blogs written by proffessor of developmental neuropsychology Dorothy Bishop this one contains "ramblings on acedemic-related matters". I first started reading Dorothy's blog as I began to take a serious interest in the publishing and reproducibility crisis that science is currently facing. More interesting for those outside the scientific community might be her regular posts delving into general biological stuff such as the [x and y of sex differences](http://deevybee.blogspot.co.uk/2011/05/x-and-y-of-sex-differences.html) or [a common misunderstanding of natural selection](http://deevybee.blogspot.co.uk/2017/01/a-common-misunderstanding-of-natural.html).
+
+<a href="http://ivory.idyll.org/blog"><img src="https://raw.githubusercontent.com/alexmorley/alexmorley.github.io/master/images/ctitusbrownblogtitle.png>"></a>
+
+
+<a href="http://bjoern.brembs.net"><img src="http://bjoern.brembs.net/wp/wp-content/uploads/2013/06/bloglogo_transparent.png" style="width:1731;height:455;"></a>
+
+Bjoern is a professor of neurogenetics at the Universität Regensburg and writes a great blog about both insect behaviour ([Why Did The Moth Fly Into The Flame?](http://bjoern.brembs.net/2016/12/why-did-the-moth-fly-into-the-flame/)) as well as some obligatory progressive articles about the state of science and publishing ([Sci-Hub As Necessary, Effective Civil Disobedience](http://bjoern.brembs.net/2016/02/sci-hub-as-necessary-effective-civil-disobedience/)). This one is probably more for those already involved in acedemia in some form or another, but nonetheless a great way to while away an hour or two while waiting for your immuno/code/mouse/PI to finish running.
