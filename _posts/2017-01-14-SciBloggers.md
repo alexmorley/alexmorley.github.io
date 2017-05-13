@@ -4,8 +4,8 @@ title: "Top Ten Science Blogs/Bloggers of 2016"
 date: 2017-01-14
 ---
 
-## The most prestigious list of blogs that I tuned into last year, and will continue to watch closely for 2017.
-### \(I'm going to be adding to this list over the next few days so please let me know if you've got any suggestions!)
+## List of blogs that I tuned into last year, and will continue to watch closely for 2017.
+### (I'm going to be adding to this list over the next few days so please let me know if you've got any suggestions!)
 
 
 # <a class="link u-baseColor--link is-touched" href="https://medium.com/the-spike" title="The Spike" aria-label="The Spike"><img class="collectionHeader-logoImage js-collectionHeaderLogoImage" src="https://cdn-images-1.medium.com/max/350/1*SXgKbsryKflVpOZrHXY3Eg@2x.png" data-image-id="1*SXgKbsryKflVpOZrHXY3Eg@2x.png" alt="The Spike" data-width="1731" data-height="455"></a>
