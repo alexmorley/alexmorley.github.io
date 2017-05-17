@@ -14,7 +14,11 @@ Tmux is short for terminal multiplexer and while that sounds like some sci-fi st
 - Who's it for?: Everyone who uses the cmd-line regularly
 
 ### VIM (Text Editor)
-I'm not going to go into this one alot because you can just google "text editor for programming" and read all the (sometimes heated) arguments about which ones best over there. What I will say is that it is useful actually just choosing something, rather than sticking with nano or whatever came installed on your computer. If your going to write code then something with syntax highlighting is a minimal requirement.
+I'm not going to go into this one alot because you can just google "text editor for programming" and read all the (sometimes heated) arguments about which ones best over there. What I will say is that it is a good idea to actually choose a text-editor, rather than sticking with nano or whatever came installed on your computer. If your going to write code then something with syntax highlighting is a minimal requirement.
 - Intial Time Investment: some -vim has a bit of steep learning curve
 - Cmd-line or GUI: Both
 - Who's it for?: people who value not having to move their fingers very far.
+- Other options: Emacs, atom, gedit
+
+### Git & Github (Version Control & Code Sharing)
+Version control is one of those things that once you've been using it for a while, you'll wonder how you ever worked without it.
