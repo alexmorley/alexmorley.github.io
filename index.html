@@ -1,68 +1,27 @@
 ---
 layout: default
-title: Alex Morley
+title: Home
 ---
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Got my own website</title>
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
-        <style>
-#main {
-    width: 70%;
-    height: 10%;
-    position: fixed;
-    left: 0
-    border: 1px solid black;
-    display: -webkit-flex; /* Safari */
-    display: flex;
-}
 
-#main div {
-    -webkit-flex: 1;  /* Safari 6.1+ */
-    -ms-flex: 1;  /* IE 10 */    
-    flex: 1;
-}
+{% include intro.html %}
 
-.sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 30%; /* 0 width - change this with JavaScript */
-    z-index: 1; /* Stay on top */
-    position: fixed;
-    top: 0;
-    right: 0;
-    /*background-color: #111; /* Black*/
-    /*overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
-    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
-}
+<section class="post-list">
+  <div class="container">
+    {% for post in site.posts %}
+      {% unless post.next %}
+        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
+        {% endif %}
+      {% endunless %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      </article>
+    {% endfor %}
+  </div>
 
-div.custom {
-    max-width: 70%;
-}
-
-        </style>
-    </head>
-    <body>
-        <div>
-            <div class="custom">
-          
-                {% capture my-include %}{% include main.md %}{% endcapture %}
-                {{ my-include | markdownify }}
-
-            </div>
-            <div class="github-card" data-github="alexmorley" data-width="400" data-height="" data-theme="default"></div>
-            <script src="http://lab.lepture.com/github-cards/widget.js"></script>
-            <a href="http://stackexchange.com/users/7161599">
-                <img src="http://stackexchange.com/users/flair/7161599.png" width="208" height="58" alt="Stack Exchange Profile" title="My Stack Exchange">
-            </a>
-        </div>
-    </body>
-    <div class="sidenav">
-        <a class="twitter-timeline" data-height="100%" data-width-"10%" href="https://twitter.com/alex__morley">
-            My Tweets </a> 
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
-        </script>
-    </div>
-</html>
-
+</section>

@@ -1,10 +1,58 @@
-name: alexmorley
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
+# SEO settings
+title: "Alex"
+title2: "Morley" # default: ""
+description: "A site for me."
+keywords: "neuroscience, tech, programming, open science, open source, oss, foss"
+url: http://alexmorley.me # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/alexmorley/alexmorley.github.io
+disqus_shortname: "alexmorley"
+twitter_username: "alex__morley"
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Alex Morley"
+  job      : "Neuroscience PhD Student"
+  bio      : "Taking a break from med-school. Apparently a computer geek."
+  thumb    : /images/author.jpg
+  email    : alex0morley@gmail.com
+  url      : http://alexmorley.me
+  github   : http://github.com/alexmorley
+  twitter  : http://twitter.com/alex__morley
+  facebook : https://www.facebook.com/alexander.morley
+
+# social settings
+og_locale: "en_UK"
+twitter_card: "summary_large_image"
+twitter_site: "@alex__morley"
+
 gems:
-    - jekyll-sitemap
+  - bourbon
+  - jekyll-paginate
 
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
 
-# deployment
-host: localhost
-port: 8897
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
