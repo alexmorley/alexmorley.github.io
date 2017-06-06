@@ -18,7 +18,7 @@ Tmux is short for terminal multiplexer and while that sounds like some sci-fi st
 
 ### VIM (Text Editor)
 I'm not going to go into this one alot because you can just google "text editor for programming" and read all the (sometimes heated) arguments about which ones best over there. What I will say is that it is a good idea to actually choose a text-editor, rather than sticking with nano or whatever came installed on your computer. If your going to write code then something with syntax highlighting is a minimal requirement.
-- *Initial Time Investment*: some -vim has a bit of steep learning curve
+- **Initial Time Investment**: some -vim has a bit of steep learning curve
 - **Cmd-line or GUI**: Both
 - **Who's it for?**: people who value not having to move their fingers very far.
 - **Other options**: Emacs, atom, gedit
