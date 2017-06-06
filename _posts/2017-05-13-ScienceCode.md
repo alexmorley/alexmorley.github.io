@@ -29,5 +29,5 @@ Version control is one of those things that once you've been using it for a whil
 Convinced? Already wanted to try but not sure where to start? My two top tips are 1) use a graphical interface to start with, even if you are comfortable on the command line. If you can visualise what the different commands for git are doing you will master it much faster, otherwise, for me at least, everything remains too abstract. 2) Go through a full tutorial or guide, my favourite being Software Carpentry's [git-novice](https://swcarpentry.github.io/git-novice).
 - **Initial Time Investment**: easy to get started & for it to be useful. Years to master.
 - **Cmd-line or GUI**: Both
-- **Who's it for?**: Everyone who programmes as part of their reserach.
+- **Who's it for?**: Everyone who programs as part of their reserach.
 - **Other options**: Mercurial & Bitbucket
