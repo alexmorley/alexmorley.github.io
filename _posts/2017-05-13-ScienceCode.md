@@ -8,7 +8,7 @@ date: 2017-05-13
 I spent a lot of time when I started my PhD nerding out on which tools I should use now that I was going to be programming on a daily basis. Here are a few things I still use, things that didn't work out, and things that I wish I'd worked out earlier.
 
 Oh and just to show that I really do use these tools for just about everything I do now: here's a screenshot of me writing this post.
-<img src="../../assets/images.sshot-tools.png">
+<img src="../../assets/images/sshot-tools.png">
 
 ### TMUX (or screen)
 Tmux is short for terminal multiplexer and while that sounds like some sci-fi stuff it's basically just a piece of software that manages all of your terminal windows for you. If you spend a lot of time at the command-line, this is a must have. In each "tmux session" you can split your terminals into windows and panes that you can label and jump around easily, which is really nice when your working on projects that have lot's of different components. But the real reason I use this is that is because I can set up a session on one of our remote servers I know that whether I restart my desktop computer, want to work from home or anything else I can just log into the server and carry on where I left off.
