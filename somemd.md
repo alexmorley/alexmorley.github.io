@@ -1,6 +1,0 @@
----
-layyout: post
-title: "Goes Here"
-date: 2016-09-07
----
-
