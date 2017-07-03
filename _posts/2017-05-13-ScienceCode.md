@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm a scientist not a programmer. Which tools will really help me writing code?"
+title: "I am a scientist not a programmer. Which tools will really help me writing code?"
 date: 2017-05-13
 ---
 
