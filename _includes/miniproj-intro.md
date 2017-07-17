@@ -1,0 +1,1 @@
+Here are a few side projects that I've been working on when I need a break from PhD stuff. I try to mostly do stuff that uses a tool or language I'm not familiar with so some of this is a little rough around the edges.
