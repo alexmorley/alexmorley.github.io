@@ -1,1 +1,1 @@
-Here are a few side projects that I've been working on when I need a break from PhD stuff. I try to mostly do stuff that uses a tool or language I'm not familiar with so some of this is a little rough around the edges.
+Here are a few side projects that I've been working on when I need a break from PhD stuff. The links will either take you through to an embedded web-page or a github repo. For these projects I mostly use tools/languages that I'm not super familiar with so lots of this is a bit rough around the edges.

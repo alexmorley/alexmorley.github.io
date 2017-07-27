@@ -4,4 +4,4 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-watch"
 gem "kramdown"
-
+gem "rb-fsevent", "~> 0.9.0"
