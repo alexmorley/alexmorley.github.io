@@ -1,0 +1,3 @@
+[submodule "mini-projects/coc-builder"]
+	path = mini-projects/coc-builder
+	url = https://github.com/alexmorley/CodeOfConduct.Builder
