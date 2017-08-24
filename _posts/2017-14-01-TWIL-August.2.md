@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWIL: This Week I Learned:"
+title: "TWIL: This Week I Learned"
 date: 2017-08-14
 ---
 
