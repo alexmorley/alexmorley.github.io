@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIL: Today I Learned what TIL means."
+title: "TWIL: This Week I Learned: what TIL means."
 date: 2017-08-01
 ---
 
@@ -20,3 +20,9 @@ $$ W(o)ah = \int{C(\dot{u}, l) dt} \sum{tuff} $$
 I guess I had forgotten this one because I used to use it a bit but ctl-R for searching through your .bash_history is 👌.
 
 Also Vitor re-learned, and then taught me, what an ANCOVA is - basically just significance testing to compare multiple regressions.
+
+### Wednesday
+Learned the basics of using AJAX with JQuery for my [Code of Conduct Builder](https://github.com/alexmorley/CodeOfConduct.Builder) project.
+
+### Thursday
+Off to brighton... byeeee!
