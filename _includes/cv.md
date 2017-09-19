@@ -1,28 +1,32 @@
-
 ## Experience
 
 ### Programming
 
 #### Confident with & use on a day-to-day basis
 - [Julia](http://julialang.org)
-- Bash / Shell Scripting
+- Python
+- Bash / Shell Scripting / Awk
 - Version Control (git and [Github](https://github.com/alexmorley))
 
 #### Working knowledge of (e.g. would use for collaberative projects):
 - R
-- Python
 - MATLAB
-- C
+- C/C++
+- Front-end (JS, HTML & CSS)
+- Back-end (PHP)
 - Continuous Integration (Travis CI)
+
+#### Won't use even if you pay me
+- Prolog
 
 ### Teaching
 
-#### University Level
+#### Programming/Analysis
 - Day-to-day supervision of an Final Honours School Project
 	- taught programming and analysis skills
-- Hopefully will be teaching some undergraduate medicial/biomedical sciences tutorials this academic year (2016/17)
+- Completed Software Carpentry Instructors Course
 
-#### School Level
+#### School/College
 - BMAT/UKCAT/TSA Skills teaching (> 100 hours)
 - A-level Biology, Chemistry and Maths (> 100 hours)
 - GCSE Biology, Chemistry, Physics and Maths
