@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Levelling-Up your Open Science game"
-date: 2017-07-31
+date: 2017-10-01
 ---
 
 > "[While] technological solutions are maturing, cultural or ideological change is frequently the bottleneck" Open Science MOOC - Force11 [Abstract](https://docs.google.com/document/d/1eO1OlJX_5owiaE2gPeEQl5OfSQtjLhtkhlo6UZs1hQQ)
