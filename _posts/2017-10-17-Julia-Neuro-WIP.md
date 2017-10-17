@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Julia Neuro (WIP)"
-date: 2017-17-10
+date: 2017-10-17
 ---
 
 ### WIP (I'm still writing this post but feel free to follow along :) )
