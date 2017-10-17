@@ -12,7 +12,7 @@ Nonetheless, because the language is still pretty new there are still relatively
 
 I've copied a draft proposal for the project below; and more info can be found at the projects [website](https://julianeuro.github.io/) or on [github](https://github.com/JuliaNeuro).
 
-[![Julia Neuro](https://julianeuro.github.io/assets/julianeurologo.png)](https://julianeuro.github.io/))
+[![Julia Neuro](https://julianeuro.github.io/assets/julianeurologo.png)](https://julianeuro.github.io/)
 
 
 ## Proposal
