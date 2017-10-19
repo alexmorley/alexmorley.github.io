@@ -5,8 +5,7 @@ date: 2017-10-17
 ---
 
 [![Julia Neuro](https://julianeuro.github.io/assets/julianeurologo.png)](https://julianeuro.github.io/)
-
-### WIP (I'm still writing this post but feel free to follow along :) )
+## Julia for Neuroscience
 
 Since the start of my PhD Julia has been my programming language of choice for doing anything analysis related and a whole lot more. If you haven't come across it yet then the tl;dr is that Julia solves the "two-language problem" - i.e. we can quickly prototype an analysis in the same language we use for writing a super-performant version. If you want to know more about why Julia Computing (who support enterprise use of the language) just got more than $4 million in funding then have a look [here](https://juliacomputing.com/press/2017/06/19/seed-funding.html).
 
