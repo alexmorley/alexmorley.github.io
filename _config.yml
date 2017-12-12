@@ -2,7 +2,7 @@
 # SEO settings
 title: "Alex"
 title2: "Morley" # default: ""
-description: "A site for me."
+description: "A site for me, for you. Neuro/Tech/Open/Inclusivity."
 keywords: "neuroscience, tech, programming, open science, open source, oss, foss"
 url: http://alexmorley.me # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
