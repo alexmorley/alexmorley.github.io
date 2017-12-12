@@ -10,6 +10,8 @@ date: 2017-10-01
 
 So when one of the editors from the BNA newsletter asked me to write about my take on Open Science at the moment I jumped at the oppurtunity to briefly introduce three of my favourite projects & explain what I think they get right!*
 
+<iframe src="https://drive.google.com/open?id=0By8OCp4WlQtuTG5BemNfZmlhWlBleVBIX3B1a3RkSmM3blhB"></iframe>
+
 <br>
 #### Networked Communities - Building the Cultural & Educational Resources Required for a Successful Transition to Open Science.
 *To be published in the British Neuroscience Newsletter's autumn edition*
