@@ -10,11 +10,9 @@ date: 2017-10-01
 
 So when one of the editors from the BNA newsletter asked me to write about my take on Open Science at the moment I jumped at the oppurtunity to briefly introduce three of my favourite projects & explain what I think they get right!*
 
-<iframe src="https://drive.google.com/open?id=0By8OCp4WlQtuTG5BemNfZmlhWlBleVBIX3B1a3RkSmM3blhB"></iframe>
-
 <br>
 #### Networked Communities - Building the Cultural & Educational Resources Required for a Successful Transition to Open Science.
-*To be published in the British Neuroscience Newsletter's autumn edition*
+*Published in the British Neuroscience Newsletter's autumn edition available [here](https://drive.google.com/open?id=0By8OCp4WlQtuTG5BemNfZmlhWlBleVBIX3B1a3RkSmM3blhB)*
 
 The tools many of us use on a daily basis would have barely been imaginable this time last century. But the ways in which we report our findings and judge our peers have barely changed at all. Driven by concerns over reproducibility, as well as by a plethora of technological advances such as the widespread availability of the internet, the best research practices are rapidly being remoulded. While these changes, reflected in a movement often referred to as “Open Science”, are increasingly being included in research evaluation frameworks, many universities are failing to provide the training or incentives that would enable young researchers to keep pace.
 
