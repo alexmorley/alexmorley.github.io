@@ -79,7 +79,7 @@
   <meta content="13655521" name="octolytics-dimension-user_id" /><meta content="alexmorley" name="octolytics-dimension-user_login" /><meta content="67443105" name="octolytics-dimension-repository_id" /><meta content="alexmorley/alexmorley.github.io" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="67443105" name="octolytics-dimension-repository_network_root_id" /><meta content="alexmorley/alexmorley.github.io" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/alexmorley/alexmorley.github.io/blob/master/mini-projects/cycle/paths.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/alexmorley/alexmorley.github.io/blob/master/projects/cycle/paths.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -153,7 +153,7 @@
             <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/alexmorley/alexmorley.github.io/search" class="js-site-search-form" data-scoped-search-url="/alexmorley/alexmorley.github.io/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/alexmorley/alexmorley.github.io/blob/master/mini-projects/cycle/paths.js" class="header-search-scope no-underline">This repository</a>
+        <a href="/alexmorley/alexmorley.github.io/blob/master/projects/cycle/paths.js" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -172,7 +172,7 @@
 
         <span class="d-inline-block">
             <div class="header-navlink px-0 py-2 m-0">
-              <a class="text-bold text-white no-underline" href="/login?return_to=%2Falexmorley%2Falexmorley.github.io%2Fblob%2Fmaster%2Fmini-projects%2Fcycle%2Fpaths.js" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+              <a class="text-bold text-white no-underline" href="/login?return_to=%2Falexmorley%2Falexmorley.github.io%2Fblob%2Fmaster%2Fprojects%2Fcycle%2Fpaths.js" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
                 <span class="text-gray">or</span>
                 <a class="text-bold text-white no-underline" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
             </div>
@@ -322,7 +322,7 @@
   <div class="repository-content">
 
     
-  <a href="/alexmorley/alexmorley.github.io/blob/c316f6db9bda8310af8be1b7ec32a2c7ba430950/mini-projects/cycle/paths.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/alexmorley/alexmorley.github.io/blob/c316f6db9bda8310af8be1b7ec32a2c7ba430950/projects/cycle/paths.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:61272564f56982ef9e7614e789bd5f91 -->
 
@@ -366,7 +366,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/alexmorley/alexmorley.github.io/blob/cycle-the-world/mini-projects/cycle/paths.js"
+               href="/alexmorley/alexmorley.github.io/blob/cycle-the-world/projects/cycle/paths.js"
                data-name="cycle-the-world"
                data-skip-pjax="true"
                rel="nofollow">
@@ -376,7 +376,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/alexmorley/alexmorley.github.io/blob/master/mini-projects/cycle/paths.js"
+               href="/alexmorley/alexmorley.github.io/blob/master/projects/cycle/paths.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -386,7 +386,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/alexmorley/alexmorley.github.io/blob/update-13-March/mini-projects/cycle/paths.js"
+               href="/alexmorley/alexmorley.github.io/blob/update-13-March/projects/cycle/paths.js"
                data-name="update-13-March"
                data-skip-pjax="true"
                rel="nofollow">
@@ -423,7 +423,7 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io"><span>alexmorley.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io/tree/master/mini-projects"><span>mini-projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io/tree/master/mini-projects/cycle"><span>cycle</span></a></span><span class="separator">/</span><strong class="final-path">paths.js</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io"><span>alexmorley.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/alexmorley/alexmorley.github.io/tree/master/projects/cycle"><span>cycle</span></a></span><span class="separator">/</span><strong class="final-path">paths.js</strong>
     </div>
   </div>
 
@@ -466,9 +466,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/alexmorley/alexmorley.github.io/raw/master/mini-projects/cycle/paths.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/alexmorley/alexmorley.github.io/blame/master/mini-projects/cycle/paths.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/alexmorley/alexmorley.github.io/commits/master/mini-projects/cycle/paths.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/alexmorley/alexmorley.github.io/raw/master/projects/cycle/paths.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/alexmorley/alexmorley.github.io/blame/master/projects/cycle/paths.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/alexmorley/alexmorley.github.io/commits/master/projects/cycle/paths.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
 

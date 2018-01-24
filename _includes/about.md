@@ -16,4 +16,4 @@ I mean there are loads of reasons for moving forward from the out-dated let's sh
 ### Source
 It's what the internet was made for right? But I think the real attraction for me -and one of the greatest challenges for OSS development- is the communities that develop around these projects. Right now, lot's of projects aren't as diverse or inclusive as they should aim to be -any community without active management will soak up the biases of the society in which it is created*. But these challenges are slowly being met and hopefully this will help Open Source technologies become the levellers that they have the potential to be.
 
-\* which is why we need [Codes of Conduct](/mini-projects/coc-builder/)!
+\* which is why we need [Codes of Conduct](/projects/coc-builder/)!
