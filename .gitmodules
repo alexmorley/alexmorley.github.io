@@ -1,0 +1,3 @@
+[submodule "projects/RSECloudComputingFellowship"]
+	path = projects/RSECloudComputingFellowship
+	url = https://github.com/alexmorley/RSECloudComputingFellowship
