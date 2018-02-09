@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mind-The-Gap"
+title: "Mind The Gap"
 author: "Alex Morley"
 date: 2018-02-09
 ---
