@@ -3,13 +3,12 @@ layout: post
 title: MountainLabStudy
 ---
 
-# MountainLab Study
 ## A full-stack infrastructure/ecosystem for organising reproducible analytical pipelines in the cloud 
 
 ![Network Overview](img/MountainLabOnline.svg)
 
 ## Intro
-
+Mountainlab is 
 
 ## Overview
 
