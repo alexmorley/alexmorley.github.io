@@ -1,1 +1,1 @@
-Here are a few side projects that I've been working on when I need a break from PhD stuff. The links will either take you through to an embedded web-page or a github repo. For these projects I mostly use tools/languages that I'm not super familiar with so lots of this is a bit rough around the edges.
+Hey! Here are links to some projects I've been working on recently.
