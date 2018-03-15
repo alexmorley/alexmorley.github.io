@@ -3,4 +3,4 @@
 	url = https://github.com/alexmorley/RSECloudComputingFellowship
 [submodule "projects/SSIFellowship"]
 	path = projects/SSIFellowship
-	url = git@github.com:alexmorley/SSIFellowship.git
+	url = https://github.com/alexmorley/SSIFellowship
