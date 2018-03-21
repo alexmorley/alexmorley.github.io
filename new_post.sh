@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [[ $# -eq 0 ]] ; then
+    echo 'Usage: \n newpost.sh name-of-new-post'
+    exit 0
+fi
+
+
 filename=_posts/`date +%Y-%m-%d`-$1.md
 touch $filename
 
