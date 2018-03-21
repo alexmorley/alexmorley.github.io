@@ -16,8 +16,12 @@ MLStudy is cloud-based and is entirely built on "web-native" technologies - main
 ## Components
 ### MountainLab - Piplelines
 
+Tech: javascript, python
+
 
 ### ML-Study - User interface
+
+Tech: nodejs, javascript, webpack
 
 
 ### Docstor - Database
