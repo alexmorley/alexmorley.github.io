@@ -4,9 +4,8 @@ title: "Alex"
 title2: "Morley" # default: ""
 description: "A site for me, for you. Neuro/Tech/Open/Inclusivity."
 keywords: "neuroscience, tech, programming, open science, open source, oss, foss"
-url: http://alexmorley.me # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+url: https://alexmorley.me # site url
+baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/alexmorley/alexmorley.github.io
@@ -34,9 +33,9 @@ author:
   bio      : "Taking a break from med-school. Apparently a computer geek."
   thumb    : /images/author.jpg
   email    : alex0morley@gmail.com
-  url      : http://alexmorley.me
-  github   : http://github.com/alexmorley
-  twitter  : http://twitter.com/alex__morley
+  url      : https://alexmorley.me
+  github   : https://github.com/alexmorley
+  twitter  : https://twitter.com/alex__morley
   facebook : https://www.facebook.com/alexander.morley
 
 # social settings
