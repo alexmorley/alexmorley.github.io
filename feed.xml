@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex</title>
+    <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Mar 2018 15:08:56 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Mar 2018 15:08:56 +0000</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>every-data-scientist-should-know</title>
+        <description>&lt;p&gt;OK so my job title isn’t actually “data scientist”. But by the end of this year it might be, and while a lot of what I do research-wise is pretty much “data science” there are also a fair few aspects that get ignored in acedemia. While trying to keep growing as a software developer I was super happy to come across &lt;a href=&quot;https://github.com/mtdvio/every-programmer-should-know&quot;&gt;every-programmer-should-know&lt;/a&gt; - a github repo that acts as a highly curated list of things that are super useful to know as a programmer.&lt;/p&gt;
+
+&lt;p&gt;So, while trying to fill in a few of the (many) gaps in my data-sci skill stack I decided to create a s/programmer/data-scientist version of the list! I’ve started filling it in with a few of my favourite resources but I don’t have enough experience to really fill this out. So if you’ve got an awesome resource that covers something new then add it to the list; or if you’ve found something that you feel is better than what I’ve put there already then replace it! I will try to spend a some time to give every PR a proper look through.&lt;/p&gt;
+
+&lt;p&gt;PS. By “should-know” I don’t really mean “should”. I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\&lt;em&gt;(ツ)&lt;/em&gt;/¯&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2018/every-data-scientist-should-know/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/every-data-scientist-should-know/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Golden Rules For Data (and Code) Management</title>
+        <description>&lt;p&gt;If Nature News and Comment are writing about it, it must be the next big thing eh?&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“Data management is inevitably going to be an essential skill in the open-science era.&amp;quot; &lt;a href=&quot;https://t.co/SrjnAW46na&quot;&gt;https://t.co/SrjnAW46na&lt;/a&gt;&lt;/p&gt;&amp;mdash; Nature News &amp;amp; Comment (@NatureNews) &lt;a href=&quot;https://twitter.com/NatureNews/status/974339459381645314?ref_src=twsrc%5Etfw&quot;&gt;15 March 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Hot topic or not managing your data properly is super important for scientific/commercial integrity, and most importantly, your own sanity. It’s so important that my department invited their most bestest PhD student to give &lt;a href=&quot;/projects/SSIFellowship/data-talk&quot;&gt;a talk&lt;/a&gt; on it at our last training day.&lt;/p&gt;
+
+&lt;p&gt;If you couldn’t be bothered to flick through all ten slides then here are said Golden Rules, according to yours truly:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Don’t Touch the Raw Data&lt;/strong&gt; - back it up and keep read-only copy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Have a plan!&lt;/strong&gt; - Decide where your data is going to be stored, what its called, when/if it needs to be deleted BEFORE you start collecting it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Document Everything&lt;/strong&gt; - You know who the worst person at replying to emails is about what the sampling frequency of channel X was. Nope not him, it actually yourself from a year ago. Keep the documentation with the data!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Create the data you want to see in the word&lt;/strong&gt; - Imagine someone was about to give you a dataset that you needed to analyse well in order to get that job you’ve been dreaming about. What would you want it to look like? That’s how yours should look.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Try not to re-invent the wheel.&lt;/strong&gt; Before you start creating some crazy new schema, storage format or naming protocol - have a quick google, ask your colleagues. Something that’s already being used is likely going to be better in the long run even if you think there’s a better solution.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2018/GoldenRulesForDataManagement/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/GoldenRulesForDataManagement/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mind The Gap</title>
+        <description>&lt;h2 id=&quot;mind-the-gap---guest-post-at-software-saved&quot;&gt;Mind the gap - Guest post at &lt;a href=&quot;https://software.ac.uk/blog/2018-02-09-bridging-gap-convincing-researchers-different-backgrounds-adopt-good-enough&quot;&gt;Software Saved&lt;/a&gt;.&lt;/h2&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Off of the back of a discussion that was part of the interview process &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; we wrote a blog post! Check it at &lt;a href=&quot;https://t.co/3up1eYfGOL&quot;&gt;https://t.co/3up1eYfGOL&lt;/a&gt; ⌨️💻👨‍🔬👩‍🔬 &lt;a href=&quot;https://t.co/NUPM7mzuwI&quot;&gt;https://t.co/NUPM7mzuwI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/961903586081943553?ref_src=twsrc%5Etfw&quot;&gt;9 February 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;During the interview process for the Software Sustainability Institute’s Fellowship programme we broke out into discussion groups in order to exchange ideas one hurdles that need to be overcome for better integration and recognition of the software within research. Out of one of these groups we dissected out the issues that come up when software engineers and researchers do work on the same project. We tried to tease out exactly how and why different expectations about the main outcomes, or goals, of the project might lead to difficulty. Importantly, we also had a stab at how these conflicts can be avoided/resolved going forward.&lt;/p&gt;
+
+&lt;p&gt;Sound interesting? Read &lt;a href=&quot;https://software.ac.uk/blog/2018-02-09-bridging-gap-convincing-researchers-different-backgrounds-adopt-good-enough&quot;&gt;the post&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2018/Mind-The-Gap/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/Mind-The-Gap/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Sustainability Fellowship Application - Update!</title>
+        <description>&lt;h2 id=&quot;update---i-got-it-&quot;&gt;Update - I got it! 🎉&lt;/h2&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Pretty psyched for this! Awesome to become an &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; Fellow with such a wicked group of people. 💻🎉💪 &lt;a href=&quot;https://t.co/mIoFBMiOtC&quot;&gt;https://t.co/mIoFBMiOtC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/939093232318930946?ref_src=twsrc%5Etfw&quot;&gt;8 December 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://software.ac.uk/fellows/alexander-morley&quot;&gt;Here&lt;/a&gt; is the link to my profile on the SSI page. More info on my plans coming soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;application-post&quot;&gt;Application Post&lt;/h2&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;*Phew* &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; Fellow application submitted with time to spare.&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/917523404483387392?ref_src=twsrc%5Etfw&quot;&gt;9 October 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/SSI-Fellowship-Update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Update/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Julia Neuro</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://julianeuro.github.io/&quot;&gt;&lt;img src=&quot;https://julianeuro.github.io/assets/julianeurologo.png&quot; alt=&quot;Julia Neuro&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;julia-for-neuroscience&quot;&gt;Julia for Neuroscience&lt;/h2&gt;
+
+&lt;p&gt;Since the start of my PhD Julia has been my programming language of choice for doing anything analysis related and a whole lot more. If you haven’t come across it yet then the &lt;strong&gt;tl;dr&lt;/strong&gt; is that Julia solves the “two-language problem” - i.e. we can quickly prototype an analysis in the same language we use for writing a super-performant version. If you want to know more about why Julia Computing (who support enterprise use of the language) just got more than $4 million in funding then have a look &lt;a href=&quot;https://juliacomputing.com/press/2017/06/19/seed-funding.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; … Julia solves the “two-language problem”: It’s Fast &amp;amp; Easy/Concise!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nonetheless, because the language is still pretty new there are still relatively few (cf. Python) well-developed, actively maintained &amp;amp; user-friendly packages for sub-domains like neuroscience. So this coming SFN (Society for Neuroscience conference) a few neuroscientists who have already cottoned on to Julia’s potential in our field will be meeting to have a chat about how to move forward in collating &amp;amp; supporting the maintenance of key neuro-relevant packages for Julia. Exact day/time TBD but if you want to be kept in the loop then please get in touch (email: &lt;a href=&quot;mailto:alex0morley@gmail.com&quot;&gt;alex0morley@gmail.com&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I’ve copied a draft proposal for the project below; and more info can be found at the project’s &lt;a href=&quot;https://julianeuro.github.io/&quot;&gt;website&lt;/a&gt; or on &lt;a href=&quot;https://github.com/JuliaNeuro&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Building a community of both julia users &amp;amp; developers around the field of neuroscience.&lt;/strong&gt;
+Most of the mathematical and analytical techniques that are used in neuroscience are covered under other Julia umbrellas (e.g. Digital Signal Processing, Image Analysis, ML etc.). Thus the aim of this group would be to serve as a hub to show/and develop these in neuro-specific use cases. This might be especially important for attracting new neuroscientists to Julia who might otherwise consider themselves uncatered for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Julia Neuro Could (potentially) Provide:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A channel/tag on the julia discourse group for neuroscience related questions
+-or a gitter/slack channel for collaboration on package-development&lt;/li&gt;
+  &lt;li&gt;Build a bank of tutorials (notebooks) that use julia for neuroscience (these can either be new or translations of old tutorials written in other languages)
+Exposure&lt;/li&gt;
+  &lt;li&gt;A github organisation to host repositories that facilitate any neuroscience related analyses.&lt;/li&gt;
+  &lt;li&gt;A website providing exposure for neuroscience-related packages packages + links to funding, meetups etc.&lt;/li&gt;
+  &lt;li&gt;Building up a list (&amp;amp; a highlights roll) of use-cases for julia in neuroscience. i.e. papers &amp;amp; analyses that have been developed in the language, along with stories of how the specifics of julia-lang helped/hindered along the way.
+Funding?&lt;/li&gt;
+  &lt;li&gt;Obtain and distribute funding for the development &amp;amp; maintenance of neuroscience packages written in Julia&lt;/li&gt;
+  &lt;li&gt;Ditto for meetups&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/Julia-Neuro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Julia-Neuro/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Sustainability Fellowship Application</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;*Phew* &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; Fellow application submitted with time to spare.&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/917523404483387392?ref_src=twsrc%5Etfw&quot;&gt;9 October 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/SSI-Fellowship-Application/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Application/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Levelling-Up your Open Science game</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“[While] technological solutions are maturing, cultural or ideological change is frequently the bottleneck” Open Science MOOC - Force11 &lt;a href=&quot;https://docs.google.com/document/d/1eO1OlJX_5owiaE2gPeEQl5OfSQtjLhtkhlo6UZs1hQQ&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;As the principles of open science gain traction amongst many researchers across the globe and the failures of parts of the current system become more and more difficult to ignore the bottleneck is starting to move from scientists&lt;/em&gt; &lt;strong&gt;wanting&lt;/strong&gt; &lt;em&gt;to work openly to scientists&lt;/em&gt; &lt;strong&gt;being able&lt;/strong&gt; *to do so. Thus, although this was hardly a concious decision on my part, I have found myself somewhat involved with a few different projects aiming to fill the gap in training scientists in 21st century research practices.&lt;/p&gt;
+
+&lt;p&gt;So when one of the editors from the BNA newsletter asked me to write about my take on Open Science at the moment I jumped at the oppurtunity to briefly introduce three of my favourite projects &amp;amp; explain what I think they get right!*&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;networked-communities---building-the-cultural--educational-resources-required-for-a-successful-transition-to-open-science&quot;&gt;Networked Communities - Building the Cultural &amp;amp; Educational Resources Required for a Successful Transition to Open Science.&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Published in the British Neuroscience Newsletter’s autumn edition available &lt;a href=&quot;https://drive.google.com/open?id=0By8OCp4WlQtuTG5BemNfZmlhWlBleVBIX3B1a3RkSmM3blhB&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The tools many of us use on a daily basis would have barely been imaginable this time last century. But the ways in which we report our findings and judge our peers have barely changed at all. Driven by concerns over reproducibility, as well as by a plethora of technological advances such as the widespread availability of the internet, the best research practices are rapidly being remoulded. While these changes, reflected in a movement often referred to as “Open Science”, are increasingly being included in research evaluation frameworks, many universities are failing to provide the training or incentives that would enable young researchers to keep pace.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, in many online spaces and non-traditional organizations opportunities for training and networking are flourishing. My introduction to Open Science involved stumbling across the Mozilla Science Lab’s &lt;a href=&quot;http://www.science.mozilla.org&quot;&gt;website&lt;/a&gt; a few years ago. They support Open Science advocates through “fellowships, mentorship and project-based learning”. For me, the key to their influence in this sphere so far has been their success in facilitating truly inclusive and diverse online communities.&lt;/p&gt;
+
+&lt;p&gt;The benefits of such networked communities are apparent even for developing skills in the classroom. &lt;a href=&quot;http://www.software-carpentry.org&quot;&gt;Software Carpentry&lt;/a&gt; has grown from the frustration of a few computer scientists trying to teach engineers how to parallelize their programs to a global organisation running intensive two-day workshops for tens of thousands of scientists every year. The development of their teaching materials in an open and collaborative environment has led to their continuous refinement by a diverse community. Its impact is visible in lessons having been altered to fit within an evidence-based educational psychology framework. Too many curricula are created without the recognition of how much research has been done on how people learn!&lt;/p&gt;
+
+&lt;p&gt;While the Mozilla Science Lab, Software Carpentry, and a multitude of other online resources and communities continue to support scientists’ educational needs, as of yet, there is no one-stop-shop for learning about Open Science. In a massive collaborative project led by paleontologist Jon Tennant, we are proposing the development of a new Open Science Massive Open Online Course (MOOC; &lt;a href=&quot;www.goo.gl/WP9WBw&quot;&gt;website&lt;/a&gt;), which will be designed to equip researchers with those skills that are needed to excel in a modern research setting. It aims to foster students’ agency over their self-representation and identity on the Web, and to create individuals with the ability to collaborate openly. Both these skills are crucial for the participation of future scientists in a global research environment.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/OpenScienceTraining/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/OpenScienceTraining/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stories from the Converted- How I moved on from Matlab</title>
+        <description>&lt;p&gt;I’m not going to go off on one today about why I feel scientific software needs to be open, or rant about all of things I hate about matlab. I never really gave it a chance tbqh so I’m far from impartial when discussing its relative merits or pitfalls. If you wanted to read why maybe it’s not a great thing to teach students then I recommend &lt;a href=&quot;http://neuroplausible.com/matlab&quot;&gt;this post&lt;/a&gt; from Olivia Guest*.&lt;/p&gt;
+
+&lt;p&gt;* who also came up with the idea to share these stories&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I feel like somebody should collect these stories to help others. ✨&lt;/p&gt;&amp;mdash; Olivia Guest (@o_guest) &lt;a href=&quot;https://twitter.com/o_guest/status/908637034964832256&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Instead, I’m just going to share stories/tweets/quotes from people who used to use Matlab, but have now moved on, or are in the process of it. Maybe at some point “for balance” (as if I’m writing for the BBC) I’ll include some stories from people who never switched (or if I can find them people who went the other way). But maybe not. Got a better/different reason. @ me on twitter or comment below and I’ll add it to this post.&lt;/p&gt;
+
+&lt;p&gt;First a convert of Open Science. A good reason me thinks.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I first renounced matlab when embraced &lt;a href=&quot;https://twitter.com/hashtag/openscience?src=hash&quot;&gt;#openscience&lt;/a&gt;. I tried octave but it can&amp;#39;t cope. Then I fell in love with python &amp;amp; no going back.🐍💓&lt;/p&gt;&amp;mdash; Caspar Addyman (@czzpr) &lt;a href=&quot;https://twitter.com/czzpr/status/908635915995795462&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;What’s so good about “open” eh? Err well these things for starters 👇.(I promise you this guy hasn’t received any money from the folks who develop Python.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Some MATLAB toolboxes are not open source, which prevents you to check exactly how they are implemented and precludes you to code costumed versions of existing libraries to tackle your own necessities. Python offers incredibly flexible tools, easy interface to other languages, great portability and a huge helpful community. All that for free! The MATLAB-to-Python transition experience might include a couple of months of painful learning, but after the crossing the gains are so immense I ask myself: how come I haven’t moved to Python earlier?&lt;/p&gt;
+
+  &lt;p&gt;— Vitor Lopes dos Santos (Postdoc) who works on oscillations and neuronal dynamics in rodent electrophysiology data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speed, speed, speed.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;for me it was when &lt;a href=&quot;https://twitter.com/mikedewar&quot;&gt;@mikedewar&lt;/a&gt; wrote a .py script in 2 mins which ran in 20 s, performing the analysis that took me a week to run in matlab&lt;/p&gt;&amp;mdash; Tom Stafford (@tomstafford) &lt;a href=&quot;https://twitter.com/tomstafford/status/908636451000274944&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;and more speed.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Matlab is so incredibly slow”&lt;/p&gt;
+
+  &lt;p&gt;— Vadim Koren (PhD candidate) who switched to R after his masters.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks to the work of all the great people trying to create Open and (way better) neuro-imaging specific packages. e.g. &lt;a href=&quot;https://twitter.com/ChrisFiloG&quot;&gt;Chris Gorgolewski&lt;/a&gt; &amp;amp; co.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;First used Matlab because it was needed for neuroimaging (SPM)...&lt;/p&gt;&amp;mdash; Tom Hartley (@tom_hartley) &lt;a href=&quot;https://twitter.com/tom_hartley/status/908637545671602177&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Fri, 15 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/Stories-from-the-Converted/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Stories-from-the-Converted/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>TWIL: This Week I Learned</title>
+        <description>&lt;h2 id=&quot;this-week-i-learned&quot;&gt;This week I learned&lt;/h2&gt;
+
+&lt;h3 id=&quot;monday&quot;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;How to nest tmux shells. Seriously useful when working from home. Check out this gist for the low-down.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/alexmorley/1523245c08ee4c6a418d398c5c78c75d.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;Lot’s about Tensor Decompositions… probably more than I’ll ever need to know.&lt;/p&gt;
+
+&lt;h3 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;I learned how to lead climb! Forgot what I did the rest of the day.&lt;/p&gt;
+
+&lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;Git tips.&lt;/p&gt;
+
+&lt;p&gt;Overwrite local changes with remote: &lt;code class=&quot;highlighter-rouge&quot;&gt;git fetch --all; git reset --hard $remote/$branch&lt;/code&gt;
+Pick &amp;amp; Squash (I always forget this one): &lt;code class=&quot;highlighter-rouge&quot;&gt;git rebase -i HEAD~$ncommits&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;friday&quot;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;Starting to get a hold of how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;@generated&lt;/code&gt; functions properly in julia for writing fast code that works on arrays with unknown dimensions.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/TWIL-August.2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/TWIL-August.2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>TWIL: This Week I Learned: what TIL means.</title>
+        <description>&lt;p&gt;&lt;strong&gt;Today I learned what TIL means.&lt;/strong&gt; Actually I found that out what a few weeks back. But I still haven’t looked up what “TFW” means… Anyway here’s a post a plan to do weekly (let’s see how that goes) where I write down something I learned each day. Might be boring, might not. No ones forcing you to read this anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;monday&quot;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;Learnt a few more introductory LaTeX commands:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\includegraphics{}&lt;/code&gt; to insert my the first couple of figures.&lt;/li&gt;
+  &lt;li&gt;Learnt how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;~\autocite{}&lt;/code&gt; &amp;amp; Overleaf/Zotero integration to easily include references in my LaTeX project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And how to use $ \LaTeX{} $ in markdown and render it using html &amp;amp; Jekyll (i.e. on this site).&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;W(o)ah = \int{C(\dot{u}, l) dt} \sum{tuff}&lt;/script&gt;
+
+&lt;h3 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;I guess I had forgotten this one because I used to use it a bit but ctl-R for searching through your .bash_history is 👌.&lt;/p&gt;
+
+&lt;p&gt;Also Vitor re-learned, and then taught me, what an ANCOVA is - basically just significance testing to compare multiple regressions.&lt;/p&gt;
+
+&lt;h3 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;Learned the basics of using AJAX with JQuery for my &lt;a href=&quot;https://github.com/alexmorley/CodeOfConduct.Builder&quot;&gt;Code of Conduct Builder&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;Off to brighton… byeeee!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/TWIL-August.1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/TWIL-August.1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
