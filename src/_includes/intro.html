@@ -1,0 +1,11 @@
+<section class="intro">
+  <div class="container">
+    <p class="lead">Hi, I'm <strong class="author-name" itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>. <br>
+    {{ site.author.bio }}</p>
+    {% if jekyll.environment != "text-only" %}
+        I've tried to make this site as accessible as possible but if you have any problems there's a <a href="./textonly"> text only version</a> as well.
+    {% else %}
+    You are viewing the text only version of this site. For the more "stylish" version <a href="http://alexmorley.me"> click here</a>.
+    {% endif %}
+  </div>
+</section>

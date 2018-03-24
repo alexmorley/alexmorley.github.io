@@ -18,8 +18,9 @@ permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-source: ./
+source: ./src
 destination: ./_site
+keep_files: [textonly]
 
 # Sass configuration
 sass:
