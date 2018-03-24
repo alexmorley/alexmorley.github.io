@@ -1,6 +1,6 @@
 // Typography
-$base-font-family: consolas, monaco, courier, "courier new", fixed-width;
-$heading-font-family: $base-font-family;
+$base-font-family: times-new-roman; //sans-serif; //consolas, monaco, courier, "courier new", fixed-width;
+$heading-font-family: courier;////$base-font-family;
 
 // Font Sizes
 $base-font-size: 1em;
@@ -21,12 +21,12 @@ $action-color: $primary-color;
 $white-color: #fff;
 $black-color: #000;
 $blue-color: #0086B3;
-$dark-gray-color: #333;
-$medium-gray-color: #999;
+$dark-gray-color: #000;
+$medium-gray-color: #777;
 $light-gray-color: #ccc;
 
 // Font Colors
-$base-font-color: rgba($dark-gray-color, .8);
+$base-font-color: rgba($dark-gray-color, .95);
 
 // Border
 $base-border-color: $light-gray-color;

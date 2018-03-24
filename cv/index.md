@@ -5,10 +5,12 @@ title: CV
 <div class="container">
 <h1>{{ page.title }}</h1>
 <ul class="normal"> 
-    <a href="{{ normal.url }}" title="{{ normal.title }}">{{ normal.title }}</a></li>
+    <a href="{{ normal.url }}" title="{{ normal.title }}">{{ normal.title }}</a>
 </ul>
 
 <table style="width:100%" href="/css/table.css">
+  <col width="150">
+  <col width="150">
     <tr>
         <th>Dates</th>
         <th>Institution</th>
