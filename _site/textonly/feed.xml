@@ -3,10 +3,17 @@
   <channel>
     <title>Alex</title>
     <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
+<<<<<<< HEAD:_site/textonly/feed.xml
     <link>https://alexmorley.metextonly/</link>
     <atom:link href="https://alexmorley.metextonly/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 26 Mar 2018 14:22:23 +0100</pubDate>
     <lastBuildDate>Mon, 26 Mar 2018 14:22:23 +0100</lastBuildDate>
+=======
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Mar 2018 16:24:12 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Mar 2018 16:24:12 +0000</lastBuildDate>
+>>>>>>> 995d2430e5c06b50dd9cff6f8fe86fa5592f8d58:feed.xml
     <generator>Jekyll v3.5.1</generator>
     
       <item>
