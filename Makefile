@@ -1,3 +1,5 @@
+all: install build buildtext
+
 install:
 	bundle install
 
