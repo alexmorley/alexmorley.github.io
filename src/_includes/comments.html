@@ -1,4 +1,5 @@
 <aside id="comments" class="disqus">
+{% if jekyll.environment != "text-only" %}
 
   <div class="container">
     <h3><i class="icon icon-comments-o"></i> Comments</h3>
@@ -22,5 +23,9 @@
       Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
     </noscript>
   </div>
+{% else %}
+<br><br>    
+<i>Comments powered by Disqus are available on the <a href="https://alexmorley.me">"stylish" version</a> of the site.</i>
+{% endif %}
 
 </aside>
