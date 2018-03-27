@@ -9,12 +9,7 @@ OK so my job title isn't actually "data scientist". But by the end of this year 
 
 So, while trying to fill in a few of the (many) gaps in my data-sci skill stack I decided to create a s/programmer/data-scientist version of the list! I've started filling it in with a few of my favourite resources but I don't have enough experience to really fill this out. So if you've got an awesome resource that covers something new then add it to the list; or if you've found something that you feel is better than what I've put there already then replace it! I will try to spend a some time to give every PR a proper look through.
 
-<<<<<<< HEAD
-Link live at [every-data-scientist-should-know](https://github.com/alexmorley/every-data-scientist-should-know).
+Anyway here it is at [every-data-scientist-should-know](https://github.com/alexmorley/every-data-scientist-should-know), let me know what you think!
 
-PS. By "should-know" I don't really mean "should". I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\\\_(ツ)\_/¯
-=======
-Anyway here it is [every-data-scientist-should-know](https://github.com/alexmorley/every-data-scientist-should-know), let me know what you think!
-
-PS. By "should-know" I don't really mean "should". I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\\_(ツ)_/¯
->>>>>>> 835e0c68f10f8cb1dc25647973354188e9fb5d5c
+    PS. By "should-know" I don't really mean "should". I mean, you can learn whatever you feel like.
+    I just stole the title from someone else ¯\\\_(ツ)\_/¯
