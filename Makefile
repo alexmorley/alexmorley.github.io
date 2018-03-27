@@ -8,12 +8,12 @@ build:
 	JEKYLL_ENV=text-only bundle exec jekyll build --config _config.yml,_config-text.yml --destination=_site/textonly/
 
 serve:
-	bundle exec jekyll serve
+	JEKYLL_ENV=development bundle exec jekyll serve --unpublished
 
 buildtext:
 	JEKYLL_ENV=text-only bundle exec jekyll build --config _config.yml,_config-text.yml --destination=_site/textonly/
 
 deploy:
 	git add -A .
-	git commit -m "updates..."
-	git subtree push --prefix _site origin master
+	git commit -m "pre-deploy commit"
+	git push origin `git subtree split --prefix _site development`:refs/heads/master --force
