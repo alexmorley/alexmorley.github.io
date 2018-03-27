@@ -6,7 +6,7 @@ if [[ $# -eq 0 ]] ; then
 fi
 
 
-filename=_posts/`date +%Y-%m-%d`-$1.md
+filename=src/_posts/`date +%Y-%m-%d`-$1.md
 touch $filename
 
 cat >> $filename << EOF
