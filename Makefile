@@ -3,10 +3,9 @@ all: install build buildtext
 install:
 	bundle install
 
-build: 
+build: buildtext 
 	bundle exec jekyll build
-	JEKYLL_ENV=text-only bundle exec jekyll build --config _config.yml,_config-text.yml --destination=_site/textonly/
-
+	
 serve:
 	bundle exec jekyll serve
 
