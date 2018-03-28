@@ -5,8 +5,8 @@
     <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Mar 2018 17:38:57 +0100</pubDate>
-    <lastBuildDate>Wed, 28 Mar 2018 17:38:57 +0100</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 17:41:25 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 17:41:25 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -15,28 +15,9 @@
 
 &lt;p&gt;So, while trying to fill in a few of the (many) gaps in my data-sci skill stack I decided to create a s/programmer/data-scientist version of the list! I’ve started filling it in with a few of my favourite resources but I don’t have enough experience to really fill this out. So if you’ve got an awesome resource that covers something new then add it to the list; or if you’ve found something that you feel is better than what I’ve put there already then replace it! I will try to spend a some time to give every PR a proper look through.&lt;/p&gt;
 
-&lt;p&gt;«««&amp;lt; HEAD
-Link live at &lt;a href=&quot;https://github.com/alexmorley/every-data-scientist-should-know&quot;&gt;every-data-scientist-should-know&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Anyway here it is at &lt;a href=&quot;https://github.com/alexmorley/every-data-scientist-should-know&quot;&gt;every-data-scientist-should-know&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;ps-by-should-know-i-dont-really-mean-should-i-mean-you-can-learn-whatever-you-feel-like-i-just-stole-the-title-from-someone-else-_ツ_&quot;&gt;PS. By “should-know” I don’t really mean “should”. I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\_(ツ)_/¯&lt;/h1&gt;
-&lt;p&gt;Anyway here it is &lt;a href=&quot;https://github.com/alexmorley/every-data-scientist-should-know&quot;&gt;every-data-scientist-should-know&lt;/a&gt;, let me know what you think!&lt;/p&gt;
-
-&lt;p&gt;PS. By “should-know” I don’t really mean “should”. I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\&lt;em&gt;(ツ)&lt;/em&gt;/¯&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              &lt;p&gt;835e0c68f10f8cb1dc25647973354188e9fb5d5c&lt;/p&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;PS. By “should-know” I don’t really mean “should”. I mean, you can learn whatever you feel like, I just stole the title from someone else ¯\_(ツ)_/¯&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
         <link>https://alexmorley.me/2018/every-data-scientist-should-know/</link>
