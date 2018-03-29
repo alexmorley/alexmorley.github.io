@@ -6,17 +6,25 @@ date: 2018-03-27
 published: false
 ---
 
-Share your data. Share your code. Write some tests. Stop using proprietary formats /software. There are (to my mind) a lot of obvious benefits to doing these things in their own right, not least that they are pretty much essential to ensure the integrity of any research. Without data & code how do I know that you haven't made a mistake, fudged a figure, or just chosen only the very specific result that supports your hypothesis. Professional software developers don't trust themselves to write bug-free code, so I never understood why scientists get a pass on this.
+### tl;dr
+- Continuous Research is a new paradigm for Scientific Computing taking inspiration from the use of Continuous Delivery in software development
+- Continuous Research will support explicit comparisons betwen datasets, analyses & hypotheses by using a shared pipleine (network) approach
+- A simple goal of science is to build a theory about how something works. Continious Research keeps track of how much support there is for a particular theory, and make it easier to see exactly what exactly the next experiments/analyses need to be done.
 
-But today isn't about moaning about the problems with *not sharing* but about sharing a blue-sky project made possible by everyone who *is sharing* and moving research into the 21st century.
 
+Share your data. Share your code. Write some tests. Stop using proprietary formats /software. There are a lot of obvious benefits to doing these things in their own right, not least that they are pretty much essential to ensure the integrity of any research. Without data & code how do I know that you haven't made a mistake, fudged a figure, or just chosen only the very specific result that supports your hypothesis. Professional software developers don't trust themselves to write bug-free code, so I never understood why scientists get a pass on this.
+
+But this isn't about moaning about the *problems with not sharing* but instead to tell you about a (intentionally amibitious) project to showcase *what we can do* when we share. This is about trying to really push research into the 21st centure.
+
+### Background of Continuous Delivery
 The requirement to maintain large, distributed, and complex projects, along with the high availability of low-cost computing has driven the widespread adoption of "Continuous Delivery" in software development. The mechanics can be complex, but the principle is simple: automated tests are frequently run against the software so that even when a brand new feature is added, you can be sure that the software is still (at least close to) functional enough to be released immediately. The tooling available to do this has become pretty easy to set-up and as such the primary overhead of using a technique is writing good-enough tests, not trivial, but something that probably should be done anyway.
 
 So what has this got to do with research. Well, let's have a look at a research flow that I beleive encompasses a least a majority of scientific research.
 
+## Current Research Paradigm
 You collect a dataset, you do some analysis to test a hypothesis, and then try to integrate that hypothesis with current theories. Great, there's your paper, submit it to Journal of $your\_field and move onto the next project. But what happens when someone else collects a dataset that could also be used to test that hypothesis? Or a computational specialist writes a better version of your analysis. Best case scenario they might use your code/data in their papers, otherwise they might just mention or cite you. But the work will never be truly integrated, and many papers might be linked to tens/hundreds of other pieces of research, meaning that using your code/data with their work will not always be possible.
 
-Enter Continuous Research. A paradigm where if the research pipeline is well specified, everyone's work can be built and truly integrated with everyone else's with little manual intervention.
+Enter Continuous Research. A new paradigm where if the research pipeline is well specified, everyone's work can be built and truly integrated with everyone else's with little manual intervention.
 
 ![Research Flow](/assets/images/CCW18.svg)
 
@@ -57,7 +65,8 @@ How many people have had their reserach put down because it was "incremental"? T
 **Fail Fast\*&nbsp;**
 We are reducing the "knowledge cycle" - the time it takes to get feedback and release a project so that you and others can start building on top of it from months to < 1 day.
 
-
+## Technical Considerations
+Have we started building it yet? What would this platform actually look like? Is this even technically feasible? Hope to share with you proper answers to these questions soon but for now I will say: "Kind of", "You tell me!" and "Hell yeah :)". 
 
 
 \* apologies for the use of this aweful tech buzzword, I'm ashamed of myself too.
