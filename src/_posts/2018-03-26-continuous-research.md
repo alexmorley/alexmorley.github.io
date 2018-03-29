@@ -3,7 +3,7 @@ layout: post
 title: "Continuous Research - Beta"
 author: "Alex Morley"
 date: 2018-03-27
-published: false
+published: true
 ---
 
 # This post is a work in progress!
