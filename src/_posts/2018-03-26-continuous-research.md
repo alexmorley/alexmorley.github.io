@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Continuous Research"
+title: "Continuous Research - Beta"
 author: "Alex Morley"
 date: 2018-03-27
 published: true
 ---
+
+# This post is a work in progress!
+**Feel free to have a read / give feedback but it'd be great if you waited until I have a final version before sharing on twitter and the like :)**
 
 ### tl;dr
 - Continuous Research is a new paradigm for Scientific Computing taking inspiration from the use of Continuous Delivery in software development
