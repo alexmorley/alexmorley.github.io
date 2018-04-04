@@ -3,18 +3,51 @@ layout: default
 title: Projects
 ---
 <section class="intro">
-  <div class="container">
-    {% include miniproj-intro.md %}
-  </div>
+	<div class="container">
+		{% include miniproj-intro.md %}
+	</div>
 </section>
 
-<section class="main">
-<div class="container">
-    <a class="button" href="https://github.com/alexmorley/every-data-scientist-should-know">Every Data Scientist Should Know</a>
-    <a class="button" href="{{ 'SSIFellowship' | prepend: site.baseurl }}">Software Sustainability Fellowship</a>
-    <a class="button" href="http://codeofconduct.io">Code of Conduct Builder</a>
-    <a class="button" href="https://julianeuro.github.io/">Julia Neuro</a>
-    <a class="button" href="{{ 'cycle' | prepend: site.baseurl }}">Alex Cycles The World</a>
-</div>
+<section class="container">
+	<div class="container project-icon">
+		<img src="/assets/images/data-sci.svg" class="image project-image">
+		<div class="overlay" >
+			<a href="https://github.com/alexmorley/every-data-scientist-should-know" class="button">
+				Every Data Scientist<br>Should Know
+			</a>
+		</div>
+	</div> 
+	<div class="container project-icon">
+		<img src="/assets/images/ssi_title_light.svg" class="image project-image">
+		<div class="overlay" >
+			<a href="{{ '/projects/SSIFellowship' | prepend: site.baseurl }}" class="button">
+				Software<br>Sustainability<br>Fellowship
+			</a>
+		</div>
+	</div>
+ 	<div class="container project-icon">
+		<img src="/assets/images/coc.png" class="image project-image">
+		<div class="overlay" >
+			<a href="http://codeofconduct.io" class="button">
+				Code of Conduct<br>Builder
+			</a>
+		</div>
+	</div>
+ 	<div class="container project-icon">
+		<img src="/assets/images/julianeurologo.png" class="image project-image">
+		<div class="overlay" >
+			<a href="https://julianeuro.github.io/" class="button">
+				Julia Neuro
+			</a>
+		</div>
+	</div>
+	<div class="container project-icon">
+		<img src="/assets/images/strava-icon.svg" class="image project-image">
+		<div class="overlay" >
+			<a href="{{ 'cycle' | prepend: site.baseurl }}" class="button">
+				Cycle The World<br>Strava
+			</a>
+		</div>
+	</div>
 </section>
 
