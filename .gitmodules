@@ -4,3 +4,6 @@
 [submodule "projects/SSIFellowship"]
 	path = projects/SSIFellowship
 	url = https://github.com/alexmorley/SSIFellowship
+[submodule "src/projects/SSIFellowship"]
+	path = src/projects/SSIFellowship
+	url = git@github.com:alexmorley/SSIFellowship.git
