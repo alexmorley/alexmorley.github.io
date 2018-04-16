@@ -1,12 +1,38 @@
 ## Experience
 
-### Programming
+### Research
+**DPhil in Neuroscience (MRC BNDU at the University of Oxford) 2016-2018** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophyisological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
 
+**FHS Project in Neuroscience (Hotchkiss Brain Institute in Calgary, Canada)** - During my undergraduate I was awarded two scholarships to perform a research project in Canada. I investigated the role of the CRH (Corticotrophin Release Hormone)-positive neurons in the Paraventricular Nucleus by comparing the expression of immediate-early genes in the whole brain in mice following Optogenetic stimulation of these neurons and stressful experiences.
+
+### Open Science & Computing
+**RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for reseachers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLabJS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
+
+**SSI Software Sustainability Fellow 2017-2019** - I was awarded a fellowship by the Software Sustainability Institute to continue working on 3 projects: developing the OS and research software module for an [Open Science MOOC](https://opensciencemooc.eu/about-us/production-team/), continue building a community around using Julia for Neuroscience research ([Julia Neuro](https://julianeuro.github.io/)) and to continue to lead the formation of a Robust Research Initiative in Oxford. 
+
+**MRC BNDU Information Security and Data Access Committee** - On this committee I provide guidance about a Data Sharing Platform that we are currently building so that we are able to more effectively share our (TB+) raw data. I also co-manage the NAS & Compute servers in our local server rack as well as the 20+ linux workstations present in the unit. 
+
+### Presentations
+***Lightning Talk:*** **Continuous Research** - Collaberations Workship 2018  
+
+***Talk:*** **5 Golden Rules for Data and Code Management** [link](http://localhost:4000/projects/SSIFellowship/data-talk/) - MRC BNDU Training Day 2018  
+ 
+***Poster:*** **Disentangling appetitive and aversive memories with overlapping content spanning multiple brain circuits** - Society for Neuroscience 2017  
+
+***Poster:*** **Detecting neuronal assemblies using patterns of cross-correlations** - British Neuroscience Association 2017  
+
+***Poster:*** **Population Coupling in Memory and Reward Processing Circuits** - FENS 2016  
+
+
+## Skills
+### Programming Languages
 #### Confident with & use on a day-to-day basis
 - [Julia](http://julialang.org)
 - Python
 - Bash / Shell Scripting / Awk
 - Version Control (git and [Github](https://github.com/alexmorley))
+- Front-end (JS, HTML & CSS)
+- Back-end (NodeJS)
 
 #### Working knowledge of (e.g. would use for collaberative projects):
 - R
@@ -24,7 +50,8 @@
 #### Programming/Analysis
 - Day-to-day supervision of an Final Honours School Project
 	- taught programming and analysis skills
-- Completed Software Carpentry Instructors Course
+- Software Carpentry Instructor
+- A lot of casual System Administration and programming instruction within the department
 
 #### School/College
 - BMAT/UKCAT/TSA Skills teaching (> 100 hours)
@@ -34,5 +61,5 @@
 	- Small group teaching (> 50 hours)
 - 11+ and 13+ - (> 200 hours)
 
-### [Blogging](http://alexmorley.me/scienceblog/)
-- Still learning, but I think it's important! 
+### [Blogging](http://alexmorley.me/)
+- Still a lot to learn but I enjoy it!
