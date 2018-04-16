@@ -5,78 +5,21 @@
     <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
     <link>https://alexmorley.me/textonly/</link>
     <atom:link href="https://alexmorley.me/textonly/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Apr 2018 20:00:59 +0100</pubDate>
-    <lastBuildDate>Wed, 04 Apr 2018 20:00:59 +0100</lastBuildDate>
+    <pubDate>Mon, 16 Apr 2018 15:50:01 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2018 15:50:01 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Continuous Research - Beta</title>
-        <description>&lt;h1 id=&quot;this-post-is-a-work-in-progress&quot;&gt;This post is a work in progress!&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Feel free to have a read / give feedback but it’d be great if you waited until I have a final version before sharing on twitter and the like :)&lt;/strong&gt;&lt;/p&gt;
+        <title>Continuous Research - Integrating Open Science</title>
+        <description>&lt;p&gt;If you are reading this then maybe I don’t need to convince you that (wherever possible) it would be really great if researchers like me shared their data, their analysis software, and anything else that would allow someone else to verify, and build upon their research. It’s too early to be complacent, but at least as far as I can see, things are moving in the right direction and soon enough I think funders/publishers will mandate it.&lt;/p&gt;
 
-&lt;h3 id=&quot;tldr&quot;&gt;tl;dr&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Continuous Research is a new paradigm for Scientific Computing taking inspiration from the use of Continuous Delivery in software development&lt;/li&gt;
-  &lt;li&gt;Continuous Research will support explicit comparisons betwen datasets, analyses &amp;amp; hypotheses by using a shared pipleine (network) approach&lt;/li&gt;
-  &lt;li&gt;A simple goal of science is to build a theory about how something works. Continious Research keeps track of how much support there is for a particular theory, and make it easier to see exactly what exactly the next experiments/analyses need to be done.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;But the promise of someone finding your data/code and re-using it to make new discoveries will not hold for everyone. The manpower required even to just reproduce the computational aspect of every experiment is simply too much, even when everything is shared. As such I think we really need to start thinking about how we can best use our new-found access to research outputs, and how we can keep integrating this years science with last years.&lt;/p&gt;
 
-&lt;p&gt;Share your data. Share your code. Write some tests. Stop using proprietary formats /software. There are a lot of obvious benefits to doing these things in their own right, not least that they are pretty much essential to ensure the integrity of any research. Without data &amp;amp; code how do I know that you haven’t made a mistake, fudged a figure, or just chosen only the very specific result that supports your hypothesis. Professional software developers don’t trust themselves to write bug-free code, so I never understood why scientists get a pass on this.&lt;/p&gt;
+&lt;p&gt;However I think we’ve already faced some of these challenges, and found solutions, just not in science as such. We have the tools to build massive software projects that contain code that from 10 years and 10 minutes ago but still function correctly. One of they key tools that has enabled this is Continuous Integration, the principle that every change to a code-base is immediately tested against a suite in order to ensure that nothing else has been broken and that the new feature is working as expected.&lt;/p&gt;
 
-&lt;p&gt;But this isn’t about moaning about the &lt;em&gt;problems with not sharing&lt;/em&gt; but instead to tell you about a (intentionally amibitious) project to showcase &lt;em&gt;what we can do&lt;/em&gt; when we share. This is about trying to really push research into the 21st centure.&lt;/p&gt;
+&lt;p&gt;Could we apply this to science? Could we build a framework where every time a new dataset is added, or a better algorithm is developed, this will be immediately tested against all previous results to tell us whether “something has broken”, or something new is found. There are some challenges for sure, both technological and cultural, but I beleive it is possible.&lt;/p&gt;
 
-&lt;h3 id=&quot;background-of-continuous-delivery&quot;&gt;Background of Continuous Delivery&lt;/h3&gt;
-&lt;p&gt;The requirement to maintain large, distributed, and complex projects, along with the high availability of low-cost computing has driven the widespread adoption of “Continuous Delivery” in software development. The mechanics can be complex, but the principle is simple: automated tests are frequently run against the software so that even when a brand new feature is added, you can be sure that the software is still (at least close to) functional enough to be released immediately. The tooling available to do this has become pretty easy to set-up and as such the primary overhead of using a technique is writing good-enough tests, not trivial, but something that probably should be done anyway.&lt;/p&gt;
-
-&lt;p&gt;So what has this got to do with research. Well, let’s have a look at a research flow that I beleive encompasses a least a majority of scientific research.&lt;/p&gt;
-
-&lt;h2 id=&quot;current-research-paradigm&quot;&gt;Current Research Paradigm&lt;/h2&gt;
-&lt;p&gt;You collect a dataset, you do some analysis to test a hypothesis, and then try to integrate that hypothesis with current theories. Great, there’s your paper, submit it to Journal of $your_field and move onto the next project. But what happens when someone else collects a dataset that could also be used to test that hypothesis? Or a computational specialist writes a better version of your analysis. Best case scenario they might use your code/data in their papers, otherwise they might just mention or cite you. But the work will never be truly integrated, and many papers might be linked to tens/hundreds of other pieces of research, meaning that using your code/data with their work will not always be possible.&lt;/p&gt;
-
-&lt;p&gt;Enter Continuous Research. A new paradigm where if the research pipeline is well specified, everyone’s work can be built and truly integrated with everyone else’s with little manual intervention.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/CCW18.svg&quot; alt=&quot;Research Flow&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;example-use-case&quot;&gt;Example Use Case&lt;/h3&gt;
-&lt;p&gt;Let’s do a use case. I’m going to take something from my area of research which includes “place cells”. Place cells are neurons that show high activity in only a specific location in your environment. As a group they are thought to provide a “map” of the world around us, so we know where we are. Let’s look at how this research might fit into our workflow.&lt;/p&gt;
-
-&lt;h4 id=&quot;example-study-framework&quot;&gt;Example Study Framework&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Dataset&lt;/strong&gt; (neural activity + the position of the animal)&lt;br /&gt;
-–&amp;gt;&lt;br /&gt;
-&lt;strong&gt;Analysis&lt;/strong&gt; (divide the environment into a grid then count the number of “spikes” each neuron fires at each place in the grid)&lt;br /&gt;
-–&amp;gt;&lt;br /&gt;
-&lt;strong&gt;Hypothesis&lt;/strong&gt; (Some neurons will show some specificity at a particular location in this grid)&lt;br /&gt;
-–&amp;gt;&lt;br /&gt;
-&lt;strong&gt;Theory&lt;/strong&gt; (Place cells provide animals with a map that enables them to navigate the world around them)&lt;br /&gt;
-^ at this stage you might publish your study and move one&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Then&lt;/strong&gt; (New Data)
-Someone adds a &lt;em&gt;new dataset&lt;/em&gt;, with similar recordings but taken from a different region of the brain. The analyses are automatically repeated. We don’t find place cells here. We refine the hypothesis to “Neurons in the hippocampus will show specificity to a particular location”. &lt;strong&gt;Update our Theory&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Then:&lt;/strong&gt; (New Analysis)
-Someone else thinks that counting the number of spikes might not be a great way of determining locational specificity of neuronal firing. Perhaps we should instead determine the information content that a neuron has about the position of the animal. This analysis is then applied to all applicable datasets. It turns out only a subset of the neurons we thought were place cells actually contain information about where the animal could be. &lt;strong&gt;Update Our Theory&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;so-what-does-this-really-enable-what-other-problems-could-we-solve&quot;&gt;So what does this really enable? What other problems could we solve?&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Indpendent &amp;amp; Explicit comparisons of Model/Algorithm/Software performance&lt;/strong&gt;
-In every field there seems to be at least one problem for which the current paradigm is “look here how our solution to this problem which we have been tuning for a year compares against all these other ones we just downloaded”. With this way of thinking it becomes very difficult to really determine what works best. Within Continuous Research each new algorithm would automatically be benchmarked against all the previous algorithms, with all the previous datasets.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exact Provenance tracking for the effects of changes to models / datasets&lt;/strong&gt;
-Not only are all changes to all parts transparent &amp;amp; version controlled, but we also have the ability to see what the impact of each change was to both the final output, and each intermediate stage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Truly Partipatory Science&lt;/strong&gt;
-The more modularisation we can acheive the more we can lower the barrier for people to contribute to one aspect of a project without knowing the ins and outs of the other parts. And they can see in real time what the impact of there contributions are.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Incremental Progress is Still Progress - Kirstie Whitaker&lt;/strong&gt;
-How many people have had their reserach put down because it was “incremental”? There is very little that annoys me more than this attitude because no research exists in a vacuum and ultimately if we keep making incremental progress then we will move forward just fast enough! The difficultly lies in that currently incremental improvements are lost because publishers, funders, and even other scientists undervalue these advances. With Continuous Reserearch all relevant research is linked in an explicit network improving efficiency by preventing incremental improvements getting lost and/or repeated unecessarily.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fail Fast* &lt;/strong&gt;
-We are reducing the “knowledge cycle” - the time it takes to get feedback and release a project so that you and others can start building on top of it from months to &amp;lt; 1 day.&lt;/p&gt;
-
-&lt;h2 id=&quot;technical-considerations&quot;&gt;Technical Considerations&lt;/h2&gt;
-&lt;p&gt;Have we started building it yet? What would this platform actually look like? Is this even technically feasible? Hope to share with you proper answers to these questions soon but for now I will say: “Kind of”, “You tell me!” and “Hell yeah :)”.&lt;/p&gt;
-
-&lt;p&gt;* apologies for the use of this aweful tech buzzword, I’m ashamed of myself too.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;Here&lt;/a&gt; you can read my whitepaper on how and why we could build a “Continuous Research” platform. It’s a work in progress and I’d really love your thoughts so please comment below or &lt;a href=&quot;https://github.com/alexmorley/ContinuousResearch&quot;&gt;on github&lt;/a&gt; or send me an email (alex0morley@gmail.com).&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
         <link>https://alexmorley.me/textonly/2018/continuous-research/</link>
