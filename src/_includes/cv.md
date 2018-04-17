@@ -13,9 +13,13 @@
 **MRC BNDU Information Security and Data Access Committee** - On this committee I provide guidance about a Data Sharing Platform that we are currently building so that we are able to more effectively share our (TB+) raw data. I also co-manage the NAS & Compute servers in our local server rack as well as the 20+ linux workstations present in the unit. 
 
 ### Presentations
+***Poster:*** **Disentangling neural representations of appetitive and aversive experiences.** - FENS Forum of Neuroscience 2018 (Planned)
+
+***Talk*** **What can Julia do for Neuroscience?** - Julia Con 2018 (Planned)
+
 ***Lightning Talk:*** **Continuous Research** - Collaberations Workship 2018  
 
-***Talk:*** **5 Golden Rules for Data and Code Management** [link](http://localhost:4000/projects/SSIFellowship/data-talk/) - MRC BNDU Training Day 2018  
+***Talk:*** **5 Golden Rules for Data and Code Management** [link](https://alexmorley.me/projects/SSIFellowship/data-talk/) - MRC BNDU Training Day 2018  
  
 ***Poster:*** **Disentangling appetitive and aversive memories with overlapping content spanning multiple brain circuits** - Society for Neuroscience 2017  
 

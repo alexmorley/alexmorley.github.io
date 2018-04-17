@@ -3,10 +3,10 @@
   <channel>
     <title>Alex</title>
     <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
-    <link>https://alexmorley.me/</link>
-    <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Apr 2018 15:50:02 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2018 15:50:02 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Apr 2018 14:03:32 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Apr 2018 14:03:32 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;&lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;Here&lt;/a&gt; you can read my whitepaper on how and why we could build a “Continuous Research” platform. It’s a work in progress and I’d really love your thoughts so please comment below or &lt;a href=&quot;https://github.com/alexmorley/ContinuousResearch&quot;&gt;on github&lt;/a&gt; or send me an email (alex0morley@gmail.com).&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/continuous-research/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/continuous-research/</guid>
+        <link>http://localhost:4000/2018/continuous-research/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/continuous-research/</guid>
         
         
       </item>
@@ -42,8 +42,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2018/every-data-scientist-should-know/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/every-data-scientist-should-know/</guid>
+        <link>http://localhost:4000/2018/every-data-scientist-should-know/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/every-data-scientist-should-know/</guid>
         
         
       </item>
@@ -79,8 +79,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 
 </description>
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2018/GoldenRulesForDataManagement/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/GoldenRulesForDataManagement/</guid>
+        <link>http://localhost:4000/2018/GoldenRulesForDataManagement/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/GoldenRulesForDataManagement/</guid>
         
         
       </item>
@@ -97,8 +97,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;Sound interesting? Read &lt;a href=&quot;https://software.ac.uk/blog/2018-02-09-bridging-gap-convincing-researchers-different-backgrounds-adopt-good-enough&quot;&gt;the post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2018/Mind-The-Gap/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/Mind-The-Gap/</guid>
+        <link>http://localhost:4000/2018/Mind-The-Gap/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/Mind-The-Gap/</guid>
         
         
       </item>
@@ -120,8 +120,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2017/SSI-Fellowship-Update/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Update/</guid>
+        <link>http://localhost:4000/2017/SSI-Fellowship-Update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Update/</guid>
         
         
       </item>
@@ -163,8 +163,8 @@ Funding?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/Julia-Neuro/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/Julia-Neuro/</guid>
+        <link>http://localhost:4000/2017/Julia-Neuro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Julia-Neuro/</guid>
         
         
       </item>
@@ -177,8 +177,8 @@ Funding?&lt;/li&gt;
 &lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/SSI-Fellowship-Application/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Application/</guid>
+        <link>http://localhost:4000/2017/SSI-Fellowship-Application/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Application/</guid>
         
         
       </item>
@@ -206,8 +206,8 @@ Funding?&lt;/li&gt;
 &lt;p&gt;While the Mozilla Science Lab, Software Carpentry, and a multitude of other online resources and communities continue to support scientists’ educational needs, as of yet, there is no one-stop-shop for learning about Open Science. In a massive collaborative project led by paleontologist Jon Tennant, we are proposing the development of a new Open Science Massive Open Online Course (MOOC; &lt;a href=&quot;www.goo.gl/WP9WBw&quot;&gt;website&lt;/a&gt;), which will be designed to equip researchers with those skills that are needed to excel in a modern research setting. It aims to foster students’ agency over their self-representation and identity on the Web, and to create individuals with the ability to collaborate openly. Both these skills are crucial for the participation of future scientists in a global research environment.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/OpenScienceTraining/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/OpenScienceTraining/</guid>
+        <link>http://localhost:4000/2017/OpenScienceTraining/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/OpenScienceTraining/</guid>
         
         
       </item>
@@ -256,8 +256,8 @@ Funding?&lt;/li&gt;
 
 </description>
         <pubDate>Fri, 15 Sep 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/Stories-from-the-Converted/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/Stories-from-the-Converted/</guid>
+        <link>http://localhost:4000/2017/Stories-from-the-Converted/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Stories-from-the-Converted/</guid>
         
         
       </item>
@@ -287,8 +287,8 @@ Pick &amp;amp; Squash (I always forget this one): &lt;code class=&quot;highlight
 &lt;p&gt;Starting to get a hold of how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;@generated&lt;/code&gt; functions properly in julia for writing fast code that works on arrays with unknown dimensions.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/TWIL-August.2/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/TWIL-August.2/</guid>
+        <link>http://localhost:4000/2017/TWIL-August.2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/TWIL-August.2/</guid>
         
         
       </item>
