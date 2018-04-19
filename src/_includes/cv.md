@@ -1,12 +1,12 @@
 ### Roles & Awards
 
 #### Research
-**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2018** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophyisological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
+**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2018** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophysiological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
 
-**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotrophin Release Hormone)-positive neurons in the Paraventricular Nucleus by comparing the expression of immediate-early genes in the whole brain in mice following Optogenetic stimulation of these neurons and stress.
+**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotropin Release Hormone)-positive neurons in the Paraventricular Nucleus by comparing the expression of immediate-early genes in the whole brain in mice following Optogenetic stimulation of these neurons and stress.
 
 #### Open Science & Computing
-**RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for reseachers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLabJS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
+**RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for researchers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLab-JS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
 
 **SSI Software Sustainability Fellow 2017-2019** - I was awarded a fellowship by the Software Sustainability Institute to continue working on 3 projects: developing the OS and research software module for an [Open Science MOOC](https://opensciencemooc.eu/about-us/production-team/), continue building a community around using Julia for Neuroscience research ([Julia Neuro](https://julianeuro.github.io/)) and to continue to lead the formation of a Robust Research Initiative in Oxford. 
 
@@ -21,7 +21,7 @@
 
 ***Talk:*** **What can Julia do for Neuroscience?** - Julia Con 2018 (Planned)
 
-***Lightning Talk:*** **Continuous Research** - Collaberations Workship 2018  
+***Lightning Talk:*** **Continuous Research** - Collaborations Workshop 2018  
 
 ***Talk:*** **5 Golden Rules for Data and Code Management** [link](https://alexmorley.me/projects/SSIFellowship/data-talk/) - MRC BNDU Training Day 2018  
  
@@ -44,7 +44,7 @@
 - Docker
 - Azure
 
-**Working knowledge of (e.g. often used for collaberative projects):**
+**Working knowledge of (e.g. often used for collaborative projects):**
 - R
 - MATLAB
 - C/C++

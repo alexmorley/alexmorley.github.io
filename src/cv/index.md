@@ -32,7 +32,7 @@ title: CV
         <br>Travel Scholarship from Oxford Neuroscience
         <br>Studentship from Alberta Innovates Health Solutions
         <br>Travel Scholarship from University College
-        <br>Acedemic Exhibition from University College
+        <br>Academic Exhibition from University College
         </td>
     </tr>
 </table> 
