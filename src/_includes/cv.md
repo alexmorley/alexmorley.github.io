@@ -62,7 +62,5 @@
 **School/College Level**
 - BMAT/UKCAT/TSA Skills teaching (> 100 hours)
 - A-level Biology, Chemistry and Maths (> 100 hours)
-- GCSE Biology, Chemistry, Physics and Maths
-	- One-one (> 100 hours)
-	- Small group teaching (> 50 hours)
+- GCSE Biology, Chemistry, Physics and Maths (1 on 1 >100 hours, small groups >50 hours)
 - 11+ and 13+ - (> 200 hours)
