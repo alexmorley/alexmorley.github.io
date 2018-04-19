@@ -3,18 +3,18 @@
 #### Research
 **DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2018** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophyisological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
 
-**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotrophin Release Hormone)-positive neurons in the Paraventricular Nucleus by comparing the expression of immediate-early genes in the whole brain in mice following Optogenetic stimulation of these neurons and stressful experiences.
+**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotrophin Release Hormone)-positive neurons in the Paraventricular Nucleus by comparing the expression of immediate-early genes in the whole brain in mice following Optogenetic stimulation of these neurons and stress.
 
 #### Open Science & Computing
 **RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for reseachers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLabJS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
 
 **SSI Software Sustainability Fellow 2017-2019** - I was awarded a fellowship by the Software Sustainability Institute to continue working on 3 projects: developing the OS and research software module for an [Open Science MOOC](https://opensciencemooc.eu/about-us/production-team/), continue building a community around using Julia for Neuroscience research ([Julia Neuro](https://julianeuro.github.io/)) and to continue to lead the formation of a Robust Research Initiative in Oxford. 
 
-**MRC BNDU Information Security and Data Access Committee** - On this committee I provide guidance about a Peta-Scale Data Sharing Platform that we are currently building so that we are able to more effectively share our raw data. I also co-manage the NAS & Compute servers in our local server rack as well as the 20+ linux workstations present in the unit. 
+**MRC BNDU Information Security and Data Access Committee 2017-Present** - I am steering the creation of a Peta-Scale Data Sharing Platform that we are building so that we are able to more effectively share our raw data. I also co-manage the NAS & local compute servers as well as 20+ linux workstations. 
 
-**Julia Contributor** 2017-Present - I contribute bug fixes / features to several Julia packages, as well as the main language itself. I have also authored a few packages myself. These can all be found on [my github](https://github.com/alexmorley).
+**Julia Contributor 2017-Present** - I contribute bug fixes / features to several Julia packages, as well as the main language itself. I have also authored a few packages myself. These can all be found on [my github](https://github.com/alexmorley).
 
-**Stack Overflow Contributor** 2017-Present - I try to give back a bit for all the help I have got on SO.
+**Stack Overflow Contributor 2017-Present** - I try to give back a bit for all the help I have got on SO.
 
 #### Presentations
 ***Poster:*** **Disentangling neural representations of appetitive and aversive experiences.** - FENS Forum of Neuroscience 2018 (Planned)
