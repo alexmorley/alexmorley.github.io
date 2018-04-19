@@ -20,17 +20,19 @@ title: CV
         <td>2015 - Present</td>
         <td><a href="http://www.mrcbndu.ox.ac.uk/">MRC BNDU</a></td>
         <td>MRC 3-year DTA (Dr. David Dupret)
-        <br><br>Microsoft RSE Cloud Computing Fellowship 2018
-        <br><br>SSI Software Sustainability Fellow 2018
-        <br><br>Member of MRC BNDU Information Security Forum and Data Access Committee
+        <br>Microsoft RSE Cloud Computing Fellowship 2018
+        <br>SSI Software Sustainability Fellow 2018
+        <br>Member of MRC BNDU Information Security Forum and Data Access Committee
         </td> 
     </tr>
     <tr>
         <td>2012 - 2015</td>
         <td>University of Oxford</td>
         <td>2:1 in Pre-clinical Medical Sciences
-        <br><br>Travel Scholarship from University College
-        <br><br>Acedemic Exhibition from University College
+        <br>Travel Scholarship from Oxford Neuroscience
+        <br>Studentship from Alberta Innovates Health Solutions
+        <br>Travel Scholarship from University College
+        <br>Acedemic Exhibition from University College
         </td>
     </tr>
 </table> 
