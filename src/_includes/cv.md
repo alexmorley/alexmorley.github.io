@@ -14,6 +14,8 @@
 
 **Julia Contributor** 2017-Present - I contribute bug fixes / features to several Julia packages, as well as the main language itself. I have also authored a few packages myself. These can all be found on [my github](https://github.com/alexmorley).
 
+**Stack Overflow Contributor** 2017-Present - I try to give back a bit for all the help I have got on SO.
+
 #### Presentations
 ***Poster:*** **Disentangling neural representations of appetitive and aversive experiences.** - FENS Forum of Neuroscience 2018 (Planned)
 
@@ -54,10 +56,9 @@
 
 #### Teaching
 **Programming/Analysis**
-- Day-to-day supervision of an Final Honours School Project
-	- taught programming and analysis skills
+- Day-to-day supervision of an analytical Final Honours School Project
 - Software Carpentry Instructor
-- A lot of casual System Administration and programming instruction within the department
+- System Administration and programming instruction within the department
 
 **School/College Level**
 - BMAT/UKCAT/TSA Skills teaching (> 100 hours)
