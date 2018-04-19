@@ -16,6 +16,11 @@
 
 **Stack Overflow Contributor 2017-Present** - I try to give back a bit for all the help I have got on SO.
 
+**
+ 
+ 
+ 
+**
 #### Presentations
 ***Poster:*** **Disentangling neural representations of appetitive and aversive experiences.** - FENS Forum of Neuroscience 2018 (Planned)
 
@@ -35,24 +40,16 @@
 ### Skills
 #### Programming Languages/Technologies
 **Confident with & use on a day-to-day basis**
-- [Julia](http://julialang.org)
-- Python
-- Bash / Shell Scripting / Awk
+- [Julia](http://julialang.org), Python
+- Bash, Shell Scripting, Awk
 - Version Control (git and [Github](https://github.com/alexmorley))
-- Front-end (JS, HTML & CSS)
-- Back-end (NodeJS)
-- Docker
-- Azure
+- Front-end (JS, HTML & CSS), Back-end (NodeJS)
+- Docker, Azure
 
 **Working knowledge of (e.g. often used for collaborative projects):**
-- R
-- MATLAB
-- C/C++
-- Front-end (JS, HTML & CSS)
-- Back-end (PHP)
-- Continuous Integration (Travis CI)
-- Kubernetes
-- AWS
+- R, MATLAB
+- C, C++
+- Continuous Integration (Travis CI), Kubernetes, AWS
 
 #### Teaching
 **Programming/Analysis**
