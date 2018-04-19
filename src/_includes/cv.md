@@ -41,7 +41,7 @@
 #### Programming Languages/Technologies
 **Confident with & use on a day-to-day basis**
 - [Julia](http://julialang.org), Python
-- Bash, Shell Scripting, Awk
+- Bash, Shell Scripting, Awk, Vim, Make
 - Version Control (git and [Github](https://github.com/alexmorley))
 - Front-end (JS, HTML & CSS), Back-end (NodeJS)
 - Docker, Azure
