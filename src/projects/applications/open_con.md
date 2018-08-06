@@ -1,3 +1,8 @@
+---
+layout: post
+title: Open Con Application
+---
+
 ## Open Con 2018
 Status: In progress.
 
