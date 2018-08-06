@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decentralised Git Reposity Sharing and Discovery"
+title: "Decentralised Git Repositry Sharing and Discovery"
 author: "Alex Morley"
 date: 2018-06-19
 ---
