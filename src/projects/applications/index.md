@@ -9,4 +9,8 @@ Most applications to most things get rejected, but we'd all rather focus on the 
 | --- |
 | [Open Con 2018](https://www.opencon2018.org/) | [coming soon](./open_con) | ? |
 | [Mozilla Open Science Fellowship](https://science.mozilla.org/programs/fellowships) | [coming soon]() | ? |
+| [Hired](https://hired.co.uk/) | N/A | No :( |
 | [Open Con 2017](https://www.opencon2018.org/) | [here](./open_con) | Kind Of |
+| [Software Sustainability Fellowshop](https://www.software.ac.uk/about/fellows) | [here](https://alexmorley.me/projects/SSIFellowship/application/) and [source](https://github.com/alexmorley/SSIFellowship/tree/6947b15b55fecd906c69415774cb70e77f533514/application) | Yes :) |
+| [Mozilla Science Lab Mini-Grant](https://science.mozilla.org/blog/first-mini-grant-awards) | coming soon | No :( |
+| [Wellcome Trust PhD Studentship](https://wellcome.ac.uk/funding/four-year-phd-programmes-studentships-basic-scientists) | N/A | Missed the interview due to an admin error :( |

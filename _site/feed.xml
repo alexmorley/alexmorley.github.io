@@ -5,12 +5,27 @@
     <description>A site for me, for you. Neuro/Tech/Open/Inclusivity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Aug 2018 18:48:45 +0100</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 18:48:45 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 09:14:10 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 09:14:10 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Decentralised Git Reposity Sharing and Discovery</title>
+        <title>Open Applications</title>
+        <description>&lt;p&gt;Most applications to most things get rejected, but we’d all rather focus on the times when things went better. By releasing my applications to jobs/grants etc. I am aiming to normalize failing for myself, keep my head on straight, and maybe there will even be some things in there that are useful for other people.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/applications&quot;&gt;My Applications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Unless otherwise stated all applications are &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;. If you need to do something that doesn’t allow then just get in touch :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/open-applications/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/open-applications/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Decentralised Git Repositry Sharing and Discovery</title>
         <description>&lt;p&gt;Decentralised Git Repo Sharing/Storage backed by Dat&lt;/p&gt;
 
 &lt;p&gt;So. Github have &lt;a href=&quot;https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/&quot;&gt;gone rogue&lt;/a&gt;. Ok, not quite, and the way I see it, it was either they got bought-out or shut-down, and I’m glad it was the former. Whatever your feelings on the above may be, it’d be nice to have a full &lt;strong&gt;free&lt;/strong&gt;, &lt;strong&gt;open&lt;/strong&gt; and &lt;strong&gt;decentralised&lt;/strong&gt; place to collaborate on software, and other projects.&lt;/p&gt;
@@ -241,56 +256,6 @@ Funding?&lt;/li&gt;
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2017/OpenScienceTraining/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/OpenScienceTraining/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Stories from the Converted- How I moved on from Matlab</title>
-        <description>&lt;p&gt;I’m not going to go off on one today about why I feel scientific software needs to be open, or rant about all of things I hate about matlab. I never really gave it a chance tbqh so I’m far from impartial when discussing its relative merits or pitfalls. If you wanted to read why maybe it’s not a great thing to teach students then I recommend &lt;a href=&quot;http://neuroplausible.com/matlab&quot;&gt;this post&lt;/a&gt; from Olivia Guest*.&lt;/p&gt;
-
-&lt;p&gt;* who also came up with the idea to share these stories&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I feel like somebody should collect these stories to help others. ✨&lt;/p&gt;&amp;mdash; Olivia Guest (@o_guest) &lt;a href=&quot;https://twitter.com/o_guest/status/908637034964832256&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Instead, I’m just going to share stories/tweets/quotes from people who used to use Matlab, but have now moved on, or are in the process of it. Maybe at some point “for balance” (as if I’m writing for the BBC) I’ll include some stories from people who never switched (or if I can find them people who went the other way). But maybe not. Got a better/different reason. @ me on twitter or comment below and I’ll add it to this post.&lt;/p&gt;
-
-&lt;p&gt;First a convert of Open Science. A good reason me thinks.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I first renounced matlab when embraced &lt;a href=&quot;https://twitter.com/hashtag/openscience?src=hash&quot;&gt;#openscience&lt;/a&gt;. I tried octave but it can&amp;#39;t cope. Then I fell in love with python &amp;amp; no going back.🐍💓&lt;/p&gt;&amp;mdash; Caspar Addyman (@czzpr) &lt;a href=&quot;https://twitter.com/czzpr/status/908635915995795462&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;What’s so good about “open” eh? Err well these things for starters 👇.(I promise you this guy hasn’t received any money from the folks who develop Python.)&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Some MATLAB toolboxes are not open source, which prevents you to check exactly how they are implemented and precludes you to code costumed versions of existing libraries to tackle your own necessities. Python offers incredibly flexible tools, easy interface to other languages, great portability and a huge helpful community. All that for free! The MATLAB-to-Python transition experience might include a couple of months of painful learning, but after the crossing the gains are so immense I ask myself: how come I haven’t moved to Python earlier?&lt;/p&gt;
-
-  &lt;p&gt;— Vitor Lopes dos Santos (Postdoc) who works on oscillations and neuronal dynamics in rodent electrophysiology data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Speed, speed, speed.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;for me it was when &lt;a href=&quot;https://twitter.com/mikedewar&quot;&gt;@mikedewar&lt;/a&gt; wrote a .py script in 2 mins which ran in 20 s, performing the analysis that took me a week to run in matlab&lt;/p&gt;&amp;mdash; Tom Stafford (@tomstafford) &lt;a href=&quot;https://twitter.com/tomstafford/status/908636451000274944&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;and more speed.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Matlab is so incredibly slow”&lt;/p&gt;
-
-  &lt;p&gt;— Vadim Koren (PhD candidate) who switched to R after his masters.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Thanks to the work of all the great people trying to create Open and (way better) neuro-imaging specific packages. e.g. &lt;a href=&quot;https://twitter.com/ChrisFiloG&quot;&gt;Chris Gorgolewski&lt;/a&gt; &amp;amp; co.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;First used Matlab because it was needed for neuroimaging (SPM)...&lt;/p&gt;&amp;mdash; Tom Hartley (@tom_hartley) &lt;a href=&quot;https://twitter.com/tom_hartley/status/908637545671602177&quot;&gt;15 September 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Fri, 15 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/Stories-from-the-Converted/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/Stories-from-the-Converted/</guid>
         
         
       </item>
