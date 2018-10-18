@@ -14,5 +14,5 @@ buildtext:
 
 deploy:
 	git add -A .
-	git commit -m "pre-deploy commit"
+	git commit -m "pre-deploy commit" || echo "nothing to commit"
 	git push origin `git subtree split --prefix _site development`:refs/heads/master --force
