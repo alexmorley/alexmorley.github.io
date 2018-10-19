@@ -3,10 +3,10 @@
   <channel>
     <title>Alex</title>
     <description>*My* corner of the internet</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Oct 2018 17:22:35 +0100</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 17:22:35 +0100</lastBuildDate>
+    <link>https://alexmorley.me/</link>
+    <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Oct 2018 13:01:55 +0100</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 13:01:55 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -46,41 +46,8 @@
 &lt;p&gt;To close off the day three scientists with sociological backgrounds lead discussion groups about cultural and contextual considerations for moving forwards with Data Science for Experimental Design. For me two themes resonated loud and often in these sessions, in terms of what we as scientists should be doing to be effective, 1) we need to actively engage those with expertise in driving institutional change to help us in our efforts 2) we need to make sure we consider the effects of the changes we seek to drive in as many different contexts as possible. The latter point is especially important, what works to increase accessibility to science in one context may not work in another, and without taking these considerations into account we risk not only being ineffective but actively contributing to existing societal inequalities. These considerations might be technical e.g. considering low-bandwidth internet users when you share data, or not, e.g. using graphics to aid those who find large sections of text difficult to understand. This can often be extra work but remember also that the wider the audience you consider the wider the audience you have the potential to reach.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Oct 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/data-science-for-experimental-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/data-science-for-experimental-design/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>1-pre-review</title>
-        <description>&lt;p&gt;Every month or so a group of us in my unit sit down together and discuss a research paper in as much detail as we can for an hour and half. Usually everyone reads it beforehand, but one or two people will present their thoughts on it first before we deep dive into the details. I’d argue that 10 neuroscientists sitting together chatting about a paper is probably the most intense peer review can get. We often find hidden gems, improvements that would make the paper better, and always end up with a bunch of questions to ask the authors. These meetings are usually referred to as “journal clubs” and have been taking place all over the world for some time.&lt;/p&gt;
-
-&lt;p&gt;What usually happens with all this feedback though? Nothing. Even we often forget about the issues we discussed. And unless one of us knows the authors personally the feedback very rarely reaches them. Even if it did, there’s little the authors can do to make improvements on an already published paper, short of issuing a corrigendum*, which isn’t something people tend to like doing.&lt;/p&gt;
-
-&lt;p&gt;This isn’t a great situation. So from now on we are choosing where we can to discuss pre-prints* in our journal clubs. Pre-prints are research papers posted online &lt;em&gt;before&lt;/em&gt; they undergo traditionall peer-review in a journal, and so they are at a stage where changes can often still be made. We may thus choose to email our comments/questions to the authors so they can consider them, but this isn’t an entirely transparent way of doing things, and the authors might not be the only people who would benefit from reading the comments, nor the only people capable of replying to them. So we’d like to find an open forum for sharing our feedback. Enter &lt;a href=&quot;link&quot;&gt;PRE-Review&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;PRE-Review is a #### run by three scientsts #####. They provide a group on &lt;a href=&quot;&quot;&gt;authorea&lt;/a&gt; for sharing reviews, as well as guidlines for writing them and formats for organising journal clubs that focus on reviewing pre-prints. What they do is already cool, but they have their sights on building their own platform for pre-print reviews, based on ######. This will allow #####.&lt;/p&gt;
-
-&lt;p&gt;Importantly, one of the things that attracts me to PRE-review over some &lt;a href=&quot;&quot;&gt;other open forums for sharing reviews&lt;/a&gt; is their explicit aim to provide constructive feedback for the authors and the community, rather than just trying to tear it down. This, I think, as well as their focus on journal clubs, is unique, and puts the projects in good stead to make the biggest, hardest, changes in scientific practice, which surround the cultures of competition and collaboration.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/1-pre-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/1-pre-review/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>open-web-blog-series</title>
-        <description>&lt;p&gt;I loving hearing about what projects other software developers, data scientists, and science scientists are building to make their sphere of the web a better, cooler or weirder place. For the last couple of years I’ve spend most mornings diving into all of my feeds searching for cool stuff before I even get out of bed. Unfortunately, I’m usually cut short by having to go and do my real job, i.e. actually doing research. But this year as a &lt;a href=&quot;https://foundation.mozilla.org/fellowships/&quot;&gt;Mozilla Open Science Fellow&lt;/a&gt; I’m going to be able to set some time to really dive into some of these projects and report back what I’ve found 🎉.&lt;/p&gt;
-
-&lt;p&gt;I’m still trying to work out the best way to do this but planning on having two sections. A couple paragraphs aimed at trying to convince anyone, tech-savvy or not, why the project is exciting. And then the rest will be a deep dive into some of the details that I find interesting.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/open-web-blog-series/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/open-web-blog-series/</guid>
+        <link>https://alexmorley.me/2018/data-science-for-experimental-design/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/data-science-for-experimental-design/</guid>
         
         
       </item>
@@ -94,8 +61,8 @@
 &lt;p&gt;Unless otherwise stated all applications are &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;. If you need to do something that doesn’t allow then just get in touch :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/open-applications/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/open-applications/</guid>
+        <link>https://alexmorley.me/2018/open-applications/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/open-applications/</guid>
         
         
       </item>
@@ -127,8 +94,8 @@ and&lt;/li&gt;
 &lt;p&gt;Number &lt;code class=&quot;highlighter-rouge&quot;&gt;2.&lt;/code&gt; is still up for grabs, but first we need to work out exactly what we want from a p2p git repository browser. So let’s make a wishlist! On github! Fork &lt;a href=&quot;https://github.com/alexmorley/dgit-web&quot;&gt;this page on github&lt;/a&gt; or using &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt; and add your name/handle below plus answers to any of the questions if you have any opinions.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jun 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
+        <link>https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
         
         
       </item>
@@ -146,8 +113,8 @@ and&lt;/li&gt;
 &lt;p&gt;&lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;Here&lt;/a&gt; you can read my whitepaper on how and why we could build a “Continuous Research” platform. It’s a work in progress and I’d really love your thoughts so please comment below or &lt;a href=&quot;https://github.com/alexmorley/ContinuousResearch&quot;&gt;on github&lt;/a&gt; or send me an email (alex0morley@gmail.com).&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/continuous-research/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/continuous-research/</guid>
+        <link>https://alexmorley.me/2018/continuous-research/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/continuous-research/</guid>
         
         
       </item>
@@ -166,8 +133,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/every-data-scientist-should-know/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/every-data-scientist-should-know/</guid>
+        <link>https://alexmorley.me/2018/every-data-scientist-should-know/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/every-data-scientist-should-know/</guid>
         
         
       </item>
@@ -203,8 +170,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 
 </description>
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/GoldenRulesForDataManagement/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/GoldenRulesForDataManagement/</guid>
+        <link>https://alexmorley.me/2018/GoldenRulesForDataManagement/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/GoldenRulesForDataManagement/</guid>
         
         
       </item>
@@ -221,8 +188,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;Sound interesting? Read &lt;a href=&quot;https://software.ac.uk/blog/2018-02-09-bridging-gap-convincing-researchers-different-backgrounds-adopt-good-enough&quot;&gt;the post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2018/Mind-The-Gap/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/Mind-The-Gap/</guid>
+        <link>https://alexmorley.me/2018/Mind-The-Gap/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2018/Mind-The-Gap/</guid>
         
         
       </item>
@@ -244,8 +211,65 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2017/SSI-Fellowship-Update/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Update/</guid>
+        <link>https://alexmorley.me/2017/SSI-Fellowship-Update/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Update/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Julia Neuro</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://julianeuro.github.io/&quot;&gt;&lt;img src=&quot;https://julianeuro.github.io/assets/julianeurologo.png&quot; alt=&quot;Julia Neuro&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;julia-for-neuroscience&quot;&gt;Julia for Neuroscience&lt;/h2&gt;
+
+&lt;p&gt;Since the start of my PhD Julia has been my programming language of choice for doing anything analysis related and a whole lot more. If you haven’t come across it yet then the &lt;strong&gt;tl;dr&lt;/strong&gt; is that Julia solves the “two-language problem” - i.e. we can quickly prototype an analysis in the same language we use for writing a super-performant version. If you want to know more about why Julia Computing (who support enterprise use of the language) just got more than $4 million in funding then have a look &lt;a href=&quot;https://juliacomputing.com/press/2017/06/19/seed-funding.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; … Julia solves the “two-language problem”: It’s Fast &amp;amp; Easy/Concise!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nonetheless, because the language is still pretty new there are still relatively few (cf. Python) well-developed, actively maintained &amp;amp; user-friendly packages for sub-domains like neuroscience. So this coming SFN (Society for Neuroscience conference) a few neuroscientists who have already cottoned on to Julia’s potential in our field will be meeting to have a chat about how to move forward in collating &amp;amp; supporting the maintenance of key neuro-relevant packages for Julia. Exact day/time TBD but if you want to be kept in the loop then please get in touch (email: &lt;a href=&quot;mailto:alex0morley@gmail.com&quot;&gt;alex0morley@gmail.com&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I’ve copied a draft proposal for the project below; and more info can be found at the project’s &lt;a href=&quot;https://julianeuro.github.io/&quot;&gt;website&lt;/a&gt; or on &lt;a href=&quot;https://github.com/JuliaNeuro&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Building a community of both julia users &amp;amp; developers around the field of neuroscience.&lt;/strong&gt;
+Most of the mathematical and analytical techniques that are used in neuroscience are covered under other Julia umbrellas (e.g. Digital Signal Processing, Image Analysis, ML etc.). Thus the aim of this group would be to serve as a hub to show/and develop these in neuro-specific use cases. This might be especially important for attracting new neuroscientists to Julia who might otherwise consider themselves uncatered for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Julia Neuro Could (potentially) Provide:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A channel/tag on the julia discourse group for neuroscience related questions
+-or a gitter/slack channel for collaboration on package-development&lt;/li&gt;
+  &lt;li&gt;Build a bank of tutorials (notebooks) that use julia for neuroscience (these can either be new or translations of old tutorials written in other languages)
+Exposure&lt;/li&gt;
+  &lt;li&gt;A github organisation to host repositories that facilitate any neuroscience related analyses.&lt;/li&gt;
+  &lt;li&gt;A website providing exposure for neuroscience-related packages packages + links to funding, meetups etc.&lt;/li&gt;
+  &lt;li&gt;Building up a list (&amp;amp; a highlights roll) of use-cases for julia in neuroscience. i.e. papers &amp;amp; analyses that have been developed in the language, along with stories of how the specifics of julia-lang helped/hindered along the way.
+Funding?&lt;/li&gt;
+  &lt;li&gt;Obtain and distribute funding for the development &amp;amp; maintenance of neuroscience packages written in Julia&lt;/li&gt;
+  &lt;li&gt;Ditto for meetups&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 00:00:00 +0100</pubDate>
+        <link>https://alexmorley.me/2017/Julia-Neuro/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2017/Julia-Neuro/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Software Sustainability Fellowship Application</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;*Phew* &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; Fellow application submitted with time to spare.&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/917523404483387392?ref_src=twsrc%5Etfw&quot;&gt;9 October 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
+        <link>https://alexmorley.me/2017/SSI-Fellowship-Application/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Application/</guid>
         
         
       </item>

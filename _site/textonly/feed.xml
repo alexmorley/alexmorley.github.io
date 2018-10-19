@@ -5,9 +5,52 @@
     <description>*My* corner of the internet</description>
     <link>https://alexmorley.me/textonly/</link>
     <atom:link href="https://alexmorley.me/textonly/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Sep 2018 16:33:09 +0100</pubDate>
-    <lastBuildDate>Sun, 02 Sep 2018 16:33:09 +0100</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 13:01:53 +0100</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 13:01:53 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Data Science for Experimental Design - loopy stuff</title>
+        <description>&lt;p&gt;It’s not a new concept. But when people talk to me about improving the scientific process it really resonates with me when they talk about feedback loops. This framework is broad enough to encompass most ways in which we can think about improving science, but also makes explicit what actions need to be taken, and where bottlenecks are likely to arise. Here are a few examples of how people have used these cycles to make/explain progress/problems in scientific processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;img src=&quot;/images/C_Chambers_The_Problem.png&quot; alt=&quot;Pre-reg feedback by Chris Chambers&quot; /&gt; Pre-registration prevents hacking of the scientific feedback loop - Chris Chambers. Find out more &lt;a href=&quot;https://osf.io/8mpji/wiki/home/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;img src=&quot;/images/Marta_T_Data_Like_Water.png&quot; alt=&quot;Data like Water&quot; /&gt; Data Production and Re-Use Loop - Marta Teperek.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;img src=&quot;https://alexmorley.me/ContinuousResearch/img/Continous_Circles.svg&quot; alt=&quot;Continuous Research by me&quot; /&gt; Continuous Research aims to shorten the feedback loop, and automatically integrate different aspects of different studies. Find out more &lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So I was super excited when the first thing I saw at the Data Science for Experimental Design workshop, held at the Turing Institue, was Daphne explaining how we were going to cover each part of the cycle.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;img src=&quot;&quot; alt=&quot;Daphne Circle Slide - Actual Slide Coming Soon!&quot; /&gt; Agenda for the workshop in a loop!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loop-number-1---optimising-experimental-design&quot;&gt;Loop Number 1 - Optimising Experimental Design&lt;/h3&gt;
+&lt;p&gt;The first two talks of the day discussed optimisation algorithms for experimental design. Here we focus on how we can implement closed loop systems that enable us to run experiments that make optimal uses of the resources available, both in terms of time and cost. We were told how finding solutions to these systems can be hugely computationally expensive, and discussed some potential avenues to find shortcuts that are just as good. It’s worth noting that this type of work involves collaborating with statistians and data scientists in the &lt;em&gt;planning&lt;/em&gt; stage of an experiment. All too often we reach out for advice try to solve our inference problems after the data is collected, by which time it may already be too late.&lt;/p&gt;
+
+&lt;h3 id=&quot;loop-number-2---automating-the-discovery-loop&quot;&gt;Loop Number 2 - Automating the discovery loop&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://singularityhub.com/wp-content/uploads/2010/03/adam-robot-scientist.jpg&quot; alt=&quot;&quot; /&gt; Adam, the first ever &lt;a href=&quot;https://en.wikipedia.org/wiki/Robot_Scientist&quot;&gt;robot scientist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then we moved on to the next level of abstraction, how much of the scientific process can we automate. Ross King told us about Adam, a machine he claims is the first ever robot scientist. In Richard’s view, one of the key steps to sharing science in a reliable way is to use formal, logical languages, rather than natural ones like english or mandarin. By programming a machine using these languages, Richard’s team could extract all the steps from a high-level goal, e.g. “What does this yeast gene do?”, down each layer of abstraction to the observations made on the sensors of the machine.&lt;/p&gt;
+
+&lt;p&gt;In the last session before lunch, Dr Vishal Sanchania from Synthace, described Antha, a software platform that has a somewhat smaller remit that Richards robot scientists, but works out of the box with a wide range of hardware, and an thoughtful user-interface. This level of abstraction seems appealing, but many members of the audience were concerned about the lack of clarity in the availability of the source code, or whether there would be an open API that would freely allow third party customisation.&lt;/p&gt;
+
+&lt;h3 id=&quot;loop-number-3---sharing-evaluating-and-re-using&quot;&gt;Loop Number 3 - Sharing, Evaluating, and Re-Using&lt;/h3&gt;
+&lt;p&gt;After the break we had the reproducibility crew and Dr Rachael Ainsworth and Dr Sebastien Besson. Dr Besson spoke about his lab’s project &lt;a href=&quot;https://idr.openmicroscopy.org/about/&quot;&gt;The Image Data Resource&lt;/a&gt; and &lt;a href=&quot;https://www.openmicroscopy.org/omero/&quot;&gt;Omero&lt;/a&gt;. One of the key points in the scientific feedback loop is other researchers being able to explore the data that lead the original authors to make the concolusiont that they did. These databases allow anyone to explore all different types of image data and metadata in their web based browsers.&lt;/p&gt;
+
+&lt;p&gt;Dr Ainsworth then took us on a whirlwind tour of open science. From why you should do it, why your worst collaborator is yourself in 6 months time (hint: your past self doesn’t reply to emails), and some great re-mix and re-use of materials from colleagues open science talks.&lt;/p&gt;
+
+&lt;h3 id=&quot;structural-and-cultural-barriers-to-implementing-optimal-feedback-loops&quot;&gt;Structural and Cultural Barriers to Implementing Optimal Feedback Loops&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“we need to make sure we consider the effects of the changes we seek to drive in as many different contexts as possible [or …] we risk not only being ineffective but actively contributing to existing societal inequalities”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To close off the day three scientists with sociological backgrounds lead discussion groups about cultural and contextual considerations for moving forwards with Data Science for Experimental Design. For me two themes resonated loud and often in these sessions, in terms of what we as scientists should be doing to be effective, 1) we need to actively engage those with expertise in driving institutional change to help us in our efforts 2) we need to make sure we consider the effects of the changes we seek to drive in as many different contexts as possible. The latter point is especially important, what works to increase accessibility to science in one context may not work in another, and without taking these considerations into account we risk not only being ineffective but actively contributing to existing societal inequalities. These considerations might be technical e.g. considering low-bandwidth internet users when you share data, or not, e.g. using graphics to aid those who find large sections of text difficult to understand. This can often be extra work but remember also that the wider the audience you consider the wider the audience you have the potential to reach.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://alexmorley.me/textonly/2018/data-science-for-experimental-design/</link>
+        <guid isPermaLink="true">https://alexmorley.me/textonly/2018/data-science-for-experimental-design/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Open Applications</title>
@@ -227,35 +270,6 @@ Funding?&lt;/li&gt;
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
         <link>https://alexmorley.me/textonly/2017/SSI-Fellowship-Application/</link>
         <guid isPermaLink="true">https://alexmorley.me/textonly/2017/SSI-Fellowship-Application/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Levelling-Up your Open Science game</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“[While] technological solutions are maturing, cultural or ideological change is frequently the bottleneck” Open Science MOOC - Force11 &lt;a href=&quot;https://docs.google.com/document/d/1eO1OlJX_5owiaE2gPeEQl5OfSQtjLhtkhlo6UZs1hQQ&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;As the principles of open science gain traction amongst many researchers across the globe and the failures of parts of the current system become more and more difficult to ignore the bottleneck is starting to move from scientists&lt;/em&gt; &lt;strong&gt;wanting&lt;/strong&gt; &lt;em&gt;to work openly to scientists&lt;/em&gt; &lt;strong&gt;being able&lt;/strong&gt; *to do so. Thus, although this was hardly a concious decision on my part, I have found myself somewhat involved with a few different projects aiming to fill the gap in training scientists in 21st century research practices.&lt;/p&gt;
-
-&lt;p&gt;So when one of the editors from the BNA newsletter asked me to write about my take on Open Science at the moment I jumped at the oppurtunity to briefly introduce three of my favourite projects &amp;amp; explain what I think they get right!*&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;networked-communities---building-the-cultural--educational-resources-required-for-a-successful-transition-to-open-science&quot;&gt;Networked Communities - Building the Cultural &amp;amp; Educational Resources Required for a Successful Transition to Open Science.&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Published in the British Neuroscience Newsletter’s autumn edition available &lt;a href=&quot;https://drive.google.com/open?id=0By8OCp4WlQtuTG5BemNfZmlhWlBleVBIX3B1a3RkSmM3blhB&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The tools many of us use on a daily basis would have barely been imaginable this time last century. But the ways in which we report our findings and judge our peers have barely changed at all. Driven by concerns over reproducibility, as well as by a plethora of technological advances such as the widespread availability of the internet, the best research practices are rapidly being remoulded. While these changes, reflected in a movement often referred to as “Open Science”, are increasingly being included in research evaluation frameworks, many universities are failing to provide the training or incentives that would enable young researchers to keep pace.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, in many online spaces and non-traditional organizations opportunities for training and networking are flourishing. My introduction to Open Science involved stumbling across the Mozilla Science Lab’s &lt;a href=&quot;http://www.science.mozilla.org&quot;&gt;website&lt;/a&gt; a few years ago. They support Open Science advocates through “fellowships, mentorship and project-based learning”. For me, the key to their influence in this sphere so far has been their success in facilitating truly inclusive and diverse online communities.&lt;/p&gt;
-
-&lt;p&gt;The benefits of such networked communities are apparent even for developing skills in the classroom. &lt;a href=&quot;http://www.software-carpentry.org&quot;&gt;Software Carpentry&lt;/a&gt; has grown from the frustration of a few computer scientists trying to teach engineers how to parallelize their programs to a global organisation running intensive two-day workshops for tens of thousands of scientists every year. The development of their teaching materials in an open and collaborative environment has led to their continuous refinement by a diverse community. Its impact is visible in lessons having been altered to fit within an evidence-based educational psychology framework. Too many curricula are created without the recognition of how much research has been done on how people learn!&lt;/p&gt;
-
-&lt;p&gt;While the Mozilla Science Lab, Software Carpentry, and a multitude of other online resources and communities continue to support scientists’ educational needs, as of yet, there is no one-stop-shop for learning about Open Science. In a massive collaborative project led by paleontologist Jon Tennant, we are proposing the development of a new Open Science Massive Open Online Course (MOOC; &lt;a href=&quot;www.goo.gl/WP9WBw&quot;&gt;website&lt;/a&gt;), which will be designed to equip researchers with those skills that are needed to excel in a modern research setting. It aims to foster students’ agency over their self-representation and identity on the Web, and to create individuals with the ability to collaborate openly. Both these skills are crucial for the participation of future scientists in a global research environment.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/textonly/2017/OpenScienceTraining/</link>
-        <guid isPermaLink="true">https://alexmorley.me/textonly/2017/OpenScienceTraining/</guid>
         
         
       </item>
