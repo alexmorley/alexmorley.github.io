@@ -1,6 +1,7 @@
 all: install build buildtext
 
 install:
+	sudo gem install bundler
 	bundle install
 
 build: buildtext 

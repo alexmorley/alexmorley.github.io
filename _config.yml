@@ -1,7 +1,7 @@
 # SEO settings
-title: "Alex"
-title2: "Morley" # default: ""
-description: "*My* corner of the internet"
+title: "Alex Morley"
+title2: "" # default: ""
+description: "Alex Morley"
 keywords: "neuroscience, tech, programming, open science, open source, oss, foss"
 url: https://alexmorley.me # site url
 baseurl: null # apply null if repo name is something like username.github.io
