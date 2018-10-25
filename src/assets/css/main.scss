@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+/*@charset "utf-8";
 @import "main";
 
 a:active, a:focus, a:hover {
@@ -18,9 +18,6 @@ a:active, a:focus, a:hover {
 	position: relative;
 	bottom: 0;
 	margin: 0 auto;
-	//right: 0;
-	//height: 100%;
-	//width: 100%;
 	opacity: 0.8;
 	transition: .3s ease;
 }
@@ -28,10 +25,108 @@ a:active, a:focus, a:hover {
 .container:hover .overlay {
 	opacity: 1.0;
 }
-
+*/
 .project-icon {
 	width: 230px;
 	height: auto;
 	position: relative;
     display: inline-block;
 }	
+
+$width: 740px;
+$color_link: blue;
+
+a {
+  color: $color_link;
+  text-decoration-skip-ink: auto;
+}
+
+body {
+  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.5rem;
+  margin: 0 auto;
+  max-width: $width;
+  padding: 1.5rem;
+}
+
+nav {
+  line-height: 1rem;
+}
+
+footer a,
+nav a {
+  color: black;
+}
+
+nav h1 a:visited {
+  color: black;
+}
+
+footer a,
+nav a {
+  text-decoration: none;
+}
+
+footer a:visited,
+nav a:visited {
+  color: $color_link;
+}
+
+li p {
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+footer ul,
+nav ul {
+  list-style-type: none;
+  margin-left: auto;
+  padding-left: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin-right: 0.5rem;
+}
+
+pre {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 12px;
+  padding: 0.5rem;
+  overflow-x: scroll;
+}
+
+p.update {
+  background-color: rgba(255, 255, 0, 0.75);
+  margin: 1.5rem 0;
+  padding: 0.5rem;
+}
+
+img {
+    display: block;
+    float: none;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img + em {
+    display: block;
+    text-align: center;
+    padding-bottom: 15px;
+} 
