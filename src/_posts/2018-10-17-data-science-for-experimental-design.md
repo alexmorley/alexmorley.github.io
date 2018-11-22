@@ -11,11 +11,11 @@ It's not a new concept. But when people talk to me about improving the scientifi
 
 ![Data like Water](/images/Marta_T_Data_Like_Water.png)*Data Production and Re-Use Loop - Marta Teperek.*
 
-![Continuous Research by me]() *Continuous Research aims to shorten the feedback loop, and each scientists process together. Find out more [here](https://alexmorley.me/ContinuousResearch/).*
+![Continuous Research by me](https://alexmorley.me/ContinuousResearch/img/CCW18.svg)*Continuous Research aims to shorten the feedback loop, and each scientists process together. Find out more [here](https://alexmorley.me/ContinuousResearch/).*
 
 So I was super excited when the first thing I saw at the Data Science for Experimental Design workshop, held at the Turing Institue, was Daphne explaining how we were going to cover each part of the cycle. 
 
-![Daphne Circle Slide]() *Agenda for the workshop in a loop!*
+![Dr Daphne Ezer Workshop Agend Slide]() *Agenda for the workshop in a loop!*
 
 ### Loop Number 1 - Optimising Experimental Design
 The first two talks of the day discussed optimisation algorithms for experimental design. Here we focus on how we can implement closed loop systems that enable us to run experiments that make optimal uses of the resources available, both in terms of time and cost. We were told how finding solutions to these systems can be hugely computationally expensive, and discussed some potential avenues to find shortcuts that are just as good. It's worth noting that this type of work involves collaborating with statistians and data scientists in the *planning* stage of an experiment. All too often we reach out for advice try to solve our inference problems after the data is collected, by which time it may already be too late.

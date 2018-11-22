@@ -5,8 +5,8 @@
     <description>Alex Morley</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Oct 2018 14:48:03 +0100</pubDate>
-    <lastBuildDate>Fri, 26 Oct 2018 14:48:03 +0100</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 16:35:16 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 16:35:16 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -17,11 +17,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/Marta_T_Data_Like_Water.png&quot; alt=&quot;Data like Water&quot; /&gt;&lt;em&gt;Data Production and Re-Use Loop - Marta Teperek.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Continuous Research by me&quot; /&gt; &lt;em&gt;Continuous Research aims to shorten the feedback loop, and each scientists process together. Find out more &lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://alexmorley.me/ContinuousResearch/img/CCW18.svg&quot; alt=&quot;Continuous Research by me&quot; /&gt;&lt;em&gt;Continuous Research aims to shorten the feedback loop, and each scientists process together. Find out more &lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;So I was super excited when the first thing I saw at the Data Science for Experimental Design workshop, held at the Turing Institue, was Daphne explaining how we were going to cover each part of the cycle.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Daphne Circle Slide&quot; /&gt; &lt;em&gt;Agenda for the workshop in a loop!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Dr Daphne Ezer Workshop Agend Slide&quot; /&gt; &lt;em&gt;Agenda for the workshop in a loop!&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;loop-number-1---optimising-experimental-design&quot;&gt;Loop Number 1 - Optimising Experimental Design&lt;/h3&gt;
 &lt;p&gt;The first two talks of the day discussed optimisation algorithms for experimental design. Here we focus on how we can implement closed loop systems that enable us to run experiments that make optimal uses of the resources available, both in terms of time and cost. We were told how finding solutions to these systems can be hugely computationally expensive, and discussed some potential avenues to find shortcuts that are just as good. It’s worth noting that this type of work involves collaborating with statistians and data scientists in the &lt;em&gt;planning&lt;/em&gt; stage of an experiment. All too often we reach out for advice try to solve our inference problems after the data is collected, by which time it may already be too late.&lt;/p&gt;
