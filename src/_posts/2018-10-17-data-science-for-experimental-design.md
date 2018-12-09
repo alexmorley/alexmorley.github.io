@@ -7,11 +7,32 @@ date: 2018-10-17
 
 It's not a new concept. But when people talk to me about improving the scientific process it really resonates with me when they talk about feedback loops. This framework is broad enough to encompass most ways in which we can think about improving science, but also makes explicit what actions need to be taken, and where bottlenecks are likely to arise.
 
-![Pre-reg feedback by Chris Chambers](/images/C_Chambers_The_Problem.png)*Pre-registration prevents hacking of the scientific feedback loop - Chris Chambers. Find out more [here](https://osf.io/8mpji/wiki/home/).*
-
-![Data like Water](/images/Marta_T_Data_Like_Water.png)*Data Production and Re-Use Loop - Marta Teperek.*
-
-![Continuous Research by me](https://alexmorley.me/ContinuousResearch/img/CCW18.svg)*Continuous Research aims to shorten the feedback loop, and each scientists process together. Find out more [here](https://alexmorley.me/ContinuousResearch/).*
+<div>
+<script>
+var visible = 1;
+function swap() {
+  let turn_off = document.getElementById("img"+visible);
+  visible = visible >= 3 ? 1 : visible + 1;
+  
+  let turn_on  = document.getElementById("img"+visible);
+  turn_off.style.display = "none";
+  turn_on.style.display = "";
+}
+</script>
+<h4 style="float:left; margin-top:5px">Examples of feedback looks in the scientific process.</h4><button onClick="swap()">Next</button>
+<div id="img1">
+<img src="/images/C_Chambers_The_Problem.png" alt="Pre-reg feedback by Chris Chambers" style="width:60%">
+<em>Pre-registration prevents hacking of the scientific feedback loop - Chris Chambers. Find out more <a href="https://osf.io/8mpji/wiki/home/">here</a>.</em>
+</div>
+<div id="img2" style="display:none">
+<img src="/images/Marta_T_Data_Like_Water.png" alt="Data Like Water by Chris Chambers" style="width:60%">
+<em>Data Production and Re-Use Loop - Marta Teperek.</em>
+</div>
+<div id="img3" style="display:none">
+<img src="https://alexmorley.me/ContinuousResearch/img/CCW18.svg" alt="Continuous Research by me">
+<em>Continuous Research aims to shorten the feedback loop, and automate integration of research. Find out more <a href="https://alexmorley.me/ContinuousResearch/">here</a>.</em>
+</div>
+</div>
 
 So I was super excited when the first thing I saw at the Data Science for Experimental Design workshop, held at the Turing Institue, was Daphne explaining how we were going to cover each part of the cycle. 
 
