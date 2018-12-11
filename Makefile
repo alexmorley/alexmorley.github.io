@@ -1,16 +1,14 @@
-all: install build buildtext
+all: install build 
 
 install:
+	sudo gem install bundler
 	bundle install
 
-build: buildtext 
+build: 
 	bundle exec jekyll build
 	
 serve:
 	JEKYLL_ENV=development bundle exec jekyll serve --unpublished
-
-buildtext:
-	JEKYLL_ENV=text-only bundle exec jekyll build --config _config.yml,_config-text.yml --destination=_site/textonly/
 
 deploy:
 	git add -A .
