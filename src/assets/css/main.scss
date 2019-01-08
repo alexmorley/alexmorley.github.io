@@ -8,12 +8,6 @@ a:active, a:focus, a:hover {
     color: #0645AD;
 }
 
-.button {
-	margin: 5px 5px 5px 5px;
-    text-align: center;
-    font-size: 12px;
-}
-
 .overlay {
 	position: relative;
 	bottom: 0;
@@ -32,6 +26,19 @@ a:active, a:focus, a:hover {
 	position: relative;
     display: inline-block;
 }	
+
+button {
+  //margin: 5px 5px 5px 5px;
+  text-align: center;
+  font-size: 16px;
+  background: none;
+  box-shadow: none;
+  border-radius: 0px;
+  border-width: 3px;
+  float: right;
+}
+
+
 
 $width: 740px;
 $color_link: blue;
@@ -129,4 +136,7 @@ img + em {
     display: block;
     text-align: center;
     padding-bottom: 15px;
-} 
+}
+
+
+
