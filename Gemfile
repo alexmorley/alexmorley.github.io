@@ -1,8 +1,0 @@
-source "https://rubygems.org"
-gem "bourbon"
-gem "jekyll", ">= 3.6.3"
-gem "ffi", ">= 1.9.24"
-gem "jekyll-paginate"
-gem "jekyll-watch"
-gem "kramdown"
-gem "rb-fsevent", "~> 0.9.0"
