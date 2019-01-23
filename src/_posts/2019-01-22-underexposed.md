@@ -3,6 +3,7 @@ layout: post
 title: "Underexposed - What Research Software can Learn from Human-centered Design"
 author: "Alex Morley"
 date: 2019-01-22
+published: false
 ---
 
 Note: A couple weeks ago I went on a week long residency learning about human- or user- centered design. I learnt a lot, but am obviously not an expert thus this post is simply about sharing those learnings, and my opinion about where they could be useful.
