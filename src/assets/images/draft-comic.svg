@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="187.77655mm"
+   height="141.05186mm"
+   viewBox="0 0 187.77655 141.05186"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -20,10 +20,10 @@
      id="defs2">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="9.8273805 : 147.93303 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="228.89881 : 128.65625 : 1"
-       inkscape:persp3d-origin="123.89881 : 79.156249 : 1"
+       inkscape:vp_x="9.8273805 : 147.93301 : 1"
+       inkscape:vp_y="0 : 999.99989 : 0"
+       inkscape:vp_z="228.89881 : 128.65624 : 1"
+       inkscape:persp3d-origin="123.89881 : 79.15624 : 1"
        id="perspective817" />
   </defs>
   <sodipodi:namedview
@@ -34,16 +34,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="621.23671"
-     inkscape:cy="828.9059"
+     inkscape:cx="638.57217"
+     inkscape:cy="349.46959"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
+     inkscape:window-width="958"
      inkscape:window-height="1078"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,14 +56,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-6.1041066,-7.7157142)">
     <g
        id="g1635">
       <g
@@ -312,7 +317,7 @@
                      height="33.0825"
                      width="91.4188"
                      id="rect1395" /></flowRegion><flowPara
-                   style="-inkscape-font-specification:'Asana Math, Normal';font-family:'Asana Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666668px;text-anchor:start;text-align:justify;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Asana Math';-inkscape-font-specification:'Asana Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
                    id="flowPara1399">Aha! I know how to fix it.</flowPara></flowRoot>            </g>
             <g
                id="g1312" />
@@ -765,11 +770,11 @@
              id="path2508" />
           <polygon
              style="fill:#f68e4d"
-             points="105.009,202.827 109.859,219.582 109.859,210.102 "
+             points="109.859,210.102 105.009,202.827 109.859,219.582 "
              id="polygon2510" />
           <polygon
              style="fill:#f68e4d"
-             points="114.318,202.827 109.859,219.582 109.859,210.102 "
+             points="109.859,210.102 114.318,202.827 109.859,219.582 "
              id="polygon2512" />
           <path
              inkscape:connector-curvature="0"
@@ -1079,38 +1084,33 @@
            id="rect4808" />
         <g
            id="g4814">
-	<polygon
-   style="fill:#68c8fc"
-   points="244.428,370.884 244.428,407.718 286.523,437.002 286.523,363.448 "
-   id="polygon4810" />
-
-	<polygon
-   style="fill:#68c8fc"
-   points="202.333,437.002 244.428,407.718 244.428,370.884 202.333,363.448 "
-   id="polygon4812" />
-
-</g>
+          <polygon
+             style="fill:#68c8fc"
+             points="286.523,437.002 286.523,363.448 244.428,370.884 244.428,407.718 "
+             id="polygon4810" />
+          <polygon
+             style="fill:#68c8fc"
+             points="244.428,370.884 202.333,363.448 202.333,437.002 244.428,407.718 "
+             id="polygon4812" />
+        </g>
         <g
            id="g4822">
-	<path
-   inkscape:connector-curvature="0"
-   style="fill:#fa9e3e"
-   d="m 202.333,267.736 v 90.666 c 0,23.248 18.846,42.095 42.095,42.095 v 0 c 23.248,0 42.095,-18.846 42.095,-42.095 v -90.666 z"
-   id="path4816" />
-
-	<path
-   inkscape:connector-curvature="0"
-   style="fill:#fa9e3e"
-   d="m 114.271,223.998 h 49.368 v 56.608 h -49.368 c -15.632,0 -28.304,-12.673 -28.304,-28.304 0,-15.631 12.672,-28.304 28.304,-28.304 z"
-   id="path4818" />
-
-	<path
-   inkscape:connector-curvature="0"
-   style="fill:#fa9e3e"
-   d="m 374.585,223.998 h -49.368 v 56.608 h 49.368 c 15.632,0 28.304,-12.673 28.304,-28.304 0,-15.631 -12.672,-28.304 -28.304,-28.304 z"
-   id="path4820" />
-
-</g>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#fa9e3e"
+             d="m 202.333,267.736 v 90.666 c 0,23.248 18.846,42.095 42.095,42.095 v 0 c 23.248,0 42.095,-18.846 42.095,-42.095 v -90.666 z"
+             id="path4816" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#fa9e3e"
+             d="m 114.271,223.998 h 49.368 v 56.608 h -49.368 c -15.632,0 -28.304,-12.673 -28.304,-28.304 0,-15.631 12.672,-28.304 28.304,-28.304 z"
+             id="path4818" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#fa9e3e"
+             d="m 374.585,223.998 h -49.368 v 56.608 h 49.368 c 15.632,0 28.304,-12.673 28.304,-28.304 0,-15.631 -12.672,-28.304 -28.304,-28.304 z"
+             id="path4820" />
+        </g>
         <path
            inkscape:connector-curvature="0"
            style="fill:#ffb56b"
@@ -1154,50 +1154,35 @@
            d="m 190.106,215.97 c -4.143,0 -7.5,3.358 -7.5,7.5 v 2 c 0,4.142 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.358 7.5,-7.5 v -2 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
            id="path4840" />
         <g
-           id="g4842">
-</g>
+           id="g4842" />
         <g
-           id="g4844">
-</g>
+           id="g4844" />
         <g
-           id="g4846">
-</g>
+           id="g4846" />
         <g
-           id="g4848">
-</g>
+           id="g4848" />
         <g
-           id="g4850">
-</g>
+           id="g4850" />
         <g
-           id="g4852">
-</g>
+           id="g4852" />
         <g
-           id="g4854">
-</g>
+           id="g4854" />
         <g
-           id="g4856">
-</g>
+           id="g4856" />
         <g
-           id="g4858">
-</g>
+           id="g4858" />
         <g
-           id="g4860">
-</g>
+           id="g4860" />
         <g
-           id="g4862">
-</g>
+           id="g4862" />
         <g
-           id="g4864">
-</g>
+           id="g4864" />
         <g
-           id="g4866">
-</g>
+           id="g4866" />
         <g
-           id="g4868">
-</g>
+           id="g4868" />
         <g
-           id="g4870">
-</g>
+           id="g4870" />
       </g>
       <path
          id="path1475-8-9-8"
@@ -1557,7 +1542,7 @@
                  height="82.85714"
                  x="305"
                  y="439.66254" /></flowRegion><flowPara
-               id="flowPara5737"></flowPara></flowRoot>          <rect
+               id="flowPara5737" /></flowRoot>          <rect
              style="fill:#ffffff;fill-opacity:0;stroke-width:0.26458332"
              id="rect6548"
              width="58.019348"
@@ -1804,11 +1789,11 @@
            id="g4814-1">
           <polygon
              style="fill:#68c8fc"
-             points="286.523,437.002 286.523,363.448 244.428,370.884 244.428,407.718 "
+             points="244.428,370.884 244.428,407.718 286.523,437.002 286.523,363.448 "
              id="polygon4810-2" />
           <polygon
              style="fill:#68c8fc"
-             points="244.428,370.884 202.333,363.448 202.333,437.002 244.428,407.718 "
+             points="202.333,437.002 244.428,407.718 244.428,370.884 202.333,363.448 "
              id="polygon4812-4" />
         </g>
         <g
