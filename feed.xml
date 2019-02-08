@@ -5,8 +5,8 @@
     <description>Alex Morley</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Feb 2019 17:26:58 +0100</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 17:26:58 +0100</lastBuildDate>
+    <pubDate>Fri, 08 Feb 2019 17:29:14 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 17:29:14 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,7 +14,7 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/underexposed.png&quot; style=&quot;width: 60%&quot; alt=&quot;underexposed logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;small&gt;&lt;em&gt;Note: A couple weeks ago I went on a week long residency learning about human- or user- centered design. I learnt a lot, but am obviously not an expert. Thus the aim of this post is to share what I learned and my opinion about why a wider consideration of these techniques could be a good thing, rather than tell you how to run your project…&lt;/em&gt;&lt;/small&gt;
-&lt;small&gt;&lt;em&gt;Note2: I drafted this post with research software in mind -as that’s where my background is- but I don’t think anything here is specific to this domain, and so the title has been changed to reflect that.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;&lt;em&gt;Note2: I drafted this post with research software in mind -as that’s where my background is- but I don’t think anything here is specific to this domain, and so the title may be changed to reflect that.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;organic-oss-development&quot;&gt;“Organic OSS” Development&lt;/h2&gt;
 &lt;p&gt;Before we get into what human-centered design is I first want to outline a common pattern that we see in Open Source software development. The pattern in the comic below is not a bad one, indeed it has served many communities extremely well. But it is important to consider the limitations of such a pattern, as well as its strengths.&lt;/p&gt;
