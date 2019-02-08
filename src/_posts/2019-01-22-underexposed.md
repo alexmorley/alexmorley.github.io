@@ -10,7 +10,7 @@ tags:
 <img src="/assets/images/underexposed.png" style="width: 60%" alt="underexposed logo">
 
 <small>*Note: A couple weeks ago I went on a week long residency learning about human- or user- centered design. I learnt a lot, but am obviously not an expert. Thus the aim of this post is to share what I learned and my opinion about why a wider consideration of these techniques could be a good thing, rather than tell you how to run your project...*</small>
-<small>*Note2: I drafted this post with research software in mind -as that's where my background is- but I don't think anything here is specific to this domain, and so the title has been changed to reflect that.*</small>
+<small>*Note2: I drafted this post with research software in mind -as that's where my background is- but I don't think anything here is specific to this domain, and so the title may be changed to reflect that.*</small>
 
 ## "Organic OSS" Development
 Before we get into what human-centered design is I first want to outline a common pattern that we see in Open Source software development. The pattern in the comic below is not a bad one, indeed it has served many communities extremely well. But it is important to consider the limitations of such a pattern, as well as its strengths.
