@@ -3,11 +3,70 @@
   <channel>
     <title>Alex Morley</title>
     <description>Alex Morley</description>
-    <link>https://alexmorley.me/</link>
-    <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Jan 2019 14:09:13 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Jan 2019 14:09:13 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Jan 2019 17:29:36 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 17:29:36 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>What can Research Software Learn from Human-Centered Design?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/underexposed.png&quot; style=&quot;width: 60%&quot; alt=&quot;underexposed logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Note: A couple weeks ago I went on a week long residency learning about human- or user- centered design. I learnt a lot, but am obviously not an expert. Thus the aim of this post is to share what I learned and my opinion about why a wider consideration of these techniques could be a good thing, rather than tell you how to run your project…&lt;/em&gt;&lt;/small&gt;
+&lt;small&gt;&lt;em&gt;Note2: I drafted this post with research software in mind -as that’s where my background is- but I don’t think anything here is specific to this domain, and so the title has been changed to reflect that.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organic-oss-development&quot;&gt;“Organic OSS” Development&lt;/h2&gt;
+&lt;p&gt;Before we get into what human-centered design is I first want to outline a common pattern that we see in Open Source software development. The pattern in the comic below is not a bad one, indeed it has served many communities extremely well. But it is important to consider the limitations of such a pattern, as well as its strengths.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/draft-comic.svg&quot; alt=&quot;Comic&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pros---theres-a-lot-of-cool-stuff-going-on-here&quot;&gt;Pros - there’s a lot of cool stuff going on here&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;“Organic”&lt;/strong&gt; - requires little extra energy or time at the start of a project beyond what would have been required anyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Re-use&lt;/strong&gt; - lot’s of people don’t have to implement the same piece of software because it’s already been done for them and shared.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community Building&lt;/strong&gt; - allowing people to develop the features that &lt;em&gt;they&lt;/em&gt; want, and submit them back to the project is a great way to build community and can be a formative experience for all involved.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons---but-also-some-inherent-limitations&quot;&gt;Cons - but also some inherent limitations&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Feature Choice&lt;/strong&gt; - the features that get implemented are often the ones that &lt;em&gt;developers&lt;/em&gt; want which may or may not overlap with the rest of the user base.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feedback Bias&lt;/strong&gt; - in a similar vein, the feedback that a project will get can be biased towards developers, or those who are more tech-savvy. Furthermore, the &lt;em&gt;absolute limit&lt;/em&gt; of the possible feedback you can get is from your user base, there is little scope for addressing a &lt;em&gt;potential&lt;/em&gt; user.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;User Experience&lt;/strong&gt; - as a result of this, and the rest of the process lack of consideration for users outside of the developer-base can result in a worse experience for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-centered-design&quot;&gt;Human-Centered Design&lt;/h2&gt;
+
+&lt;p&gt;So what is human-centered design and how can it help us reduce some of the cons while keeping the pros of open software development. As the name suggests the aim is to put humans, or users, at the center of the design process. In this context, the key is that users are involved from the very beginning of the process, even in the ideas stage. The goal is to gain a deep understanding of what people need from a piece of software before you commit to building it a certain way. Then as the project evolves, we keep &lt;em&gt;seeking detailed feedback that guides our decision-making&lt;/em&gt;. This is critically different from user research that seeks to validate decisions that have already been made (an almost useless endevour) and not limited to research that just seeks to test which of two or three choices is best (like an A/B test, although these have their place too).&lt;/p&gt;
+
+&lt;h3 id=&quot;user-research&quot;&gt;User Research&lt;/h3&gt;
+&lt;p&gt;As user research is critical to this design process you might be thinking, great we’ve already lost the first “Pro” of OSS development “requires little extra energy at the start”. And to some extent this is true, there is an upfront cost but first I would like to show you that there are ways to do this with a small inital time/resource investment and secondly how the value that you can extract later on will more than offset this investment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nngroup.com/articles/which-ux-research-methods&quot;&gt;&lt;img alt=&quot;Chart of 20 user research methods, classified along 3 dimensions&quot; src=&quot;//s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/user-research-methods.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The graph above is quite a complete overview of what different methods of user-research are possible (click on the image for a description of each of them). Which are available to you will depend on your project. An early-stage project is more likely to benefit from mostly qualitative research such as interviews or ethnographic studies. These sound time-intensive but you can cheat a bit. Instead of recruiting participants and setting up interviews you can just take 10 mins out of a coffee break with a colleague and talk to them about their experiences. Or instead of a full ethnographic field study you can ask a friend if you can spend a bit of time at their workplace with a notebook to observe what their needs are. Needless to say the more seriously you take this the more you will get out of it, but on the other hand something is definitely better than nothing. It is amazing how much more deeply you will understand the problem at hand after spending time listening to people’s frustrations and watching their interactions before you start trying to sell them on your proposed solution. &lt;small&gt;&lt;em&gt;Please make sure to get proper consent and take ethical considerations into account when doing this research!&lt;/em&gt;&lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;As researchers and developers we might have a bias towards quantitative research methods. But, especially in the early stages, limiting yourself to these approaches will constrain the questions you can ask far more than is desirable. Qualtitative techniques such as interviews and observation allow to find answers to questions that you will likely have never even thought to ask, and these answers can be invaluable for the trajectory of your project.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-quasi-quantitative-comparison&quot;&gt;A quasi-quantitative comparison&lt;/h3&gt;
+&lt;p&gt;Still don’t beleive me? Fine I’ll try to explain it using graphs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Graph of user-centered vs normal design&quot; src=&quot;/assets/images/ucd-plot.svg&quot; width=&quot;auto&quot; height=&quot;auto&quot; /&gt;
+&lt;a href=&quot;https://extremely-alpha.iodide.io/notebooks/228/&quot;&gt;View this as an Iodide Notebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These curves assume that the ability to change a core paradigm of the software you are building has an follows an inverse logistic function, and the probability of you finding out that the paradigm needs to change is linearly related to the number of users your project has. For the user centered design curve we are better able to find things that need changing at the very start of the project, when it is easy to be able to make these changes.&lt;/p&gt;
+
+&lt;p&gt;That might be a little contrived but the point stands, human-centered design is not only a great pattern for user experience, but also allows you to -I hate using this phrase- “fail early”, which is presumeable a good thing.&lt;/p&gt;
+
+&lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;I am currently a Mozilla Fellow and my attendance at Simply Secure’s &lt;a href=&quot;https://simplysecure.org/underexposed/&quot;&gt;underexposed&lt;/a&gt; design residency in Berlin was co-sponsored by the Software Sustainability Institute. Check Simply Secure’s &lt;a href=&quot;https://simplysecure.org/knowledge-base/&quot;&gt;page&lt;/a&gt; for more user research (and security) goodies and the SSI’s &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;page&lt;/a&gt; for more research software-related content.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/underexposed/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/underexposed/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Data Science for Experimental Design - loopy stuff</title>
@@ -64,8 +123,8 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
 &lt;p&gt;To close off the day three scientists with sociological backgrounds lead discussion groups about cultural and contextual considerations for moving forwards with Data Science for Experimental Design. For me two themes resonated loud and often in these sessions, in terms of what we as scientists should be doing to be effective, 1) we need to actively engage those with expertise in driving institutional change to help us in our efforts 2) we need to make sure we consider the effects of the changes we seek to drive in as many different contexts as possible. The latter point is especially important, what works to increase accessibility to science in one context may not work in another, and without taking these considerations into account we risk not only being ineffective but actively contributing to existing societal inequalities. These considerations might be technical e.g. considering low-bandwidth internet users when you share data, or not, e.g. using graphics to aid those who find large sections of text difficult to understand. This can often be extra work but remember also that the wider the audience you consider the wider the audience you have the potential to reach.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2018/data-science-for-experimental-design/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/data-science-for-experimental-design/</guid>
+        <link>http://localhost:4000/2018/data-science-for-experimental-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/data-science-for-experimental-design/</guid>
         
         
       </item>
@@ -79,8 +138,8 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
 &lt;p&gt;Unless otherwise stated all applications are &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;. If you need to do something that doesn’t allow then just get in touch :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Aug 2018 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2018/open-applications/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/open-applications/</guid>
+        <link>http://localhost:4000/2018/open-applications/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/open-applications/</guid>
         
         
       </item>
@@ -112,8 +171,8 @@ and&lt;/li&gt;
 &lt;p&gt;Number &lt;code class=&quot;highlighter-rouge&quot;&gt;2.&lt;/code&gt; is still up for grabs, but first we need to work out exactly what we want from a p2p git repository browser. So let’s make a wishlist! On github! Fork &lt;a href=&quot;https://github.com/alexmorley/dgit-web&quot;&gt;this page on github&lt;/a&gt; or using &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt; and add your name/handle below plus answers to any of the questions if you have any opinions.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jun 2018 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
+        <link>http://localhost:4000/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
         
         
       </item>
@@ -131,8 +190,8 @@ and&lt;/li&gt;
 &lt;p&gt;&lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;Here&lt;/a&gt; you can read my whitepaper on how and why we could build a “Continuous Research” platform. It’s a work in progress and I’d really love your thoughts so please comment below or &lt;a href=&quot;https://github.com/alexmorley/ContinuousResearch&quot;&gt;on github&lt;/a&gt; or send me an email (alex0morley@gmail.com).&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2018/continuous-research/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/continuous-research/</guid>
+        <link>http://localhost:4000/2018/continuous-research/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/continuous-research/</guid>
         
         
       </item>
@@ -150,8 +209,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/every-data-scientist-should-know/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/every-data-scientist-should-know/</guid>
+        <link>http://localhost:4000/2018/every-data-scientist-should-know/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/every-data-scientist-should-know/</guid>
         
         
       </item>
@@ -187,8 +246,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 
 </description>
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/GoldenRulesForDataManagement/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/GoldenRulesForDataManagement/</guid>
+        <link>http://localhost:4000/2018/GoldenRulesForDataManagement/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/GoldenRulesForDataManagement/</guid>
         
         
       </item>
@@ -205,8 +264,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;Sound interesting? Read &lt;a href=&quot;https://software.ac.uk/blog/2018-02-09-bridging-gap-convincing-researchers-different-backgrounds-adopt-good-enough&quot;&gt;the post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Feb 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/Mind-The-Gap/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/Mind-The-Gap/</guid>
+        <link>http://localhost:4000/2018/Mind-The-Gap/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/Mind-The-Gap/</guid>
         
         
       </item>
@@ -228,8 +287,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2017/SSI-Fellowship-Update/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Update/</guid>
+        <link>http://localhost:4000/2017/SSI-Fellowship-Update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/SSI-Fellowship-Update/</guid>
         
         
       </item>
@@ -271,22 +330,8 @@ Funding?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2017/Julia-Neuro/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/Julia-Neuro/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Software Sustainability Fellowship Application</title>
-        <description>&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;*Phew* &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt; Fellow application submitted with time to spare.&lt;/p&gt;&amp;mdash; Alexander Morley (@alex__morley) &lt;a href=&quot;https://twitter.com/alex__morley/status/917523404483387392?ref_src=twsrc%5Etfw&quot;&gt;9 October 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I submitted my application to the Software Sustainability Institute yesterday! You can see my application &lt;a href=&quot;http://alexmorley.me/SSIFellowship/application/&quot;&gt;here&lt;/a&gt; - or the full repo on &lt;a href=&quot;https://github.com/alexmorley/SSIFellowship&quot;&gt;github&lt;/a&gt;. And you can find out more about why the SSI is awesome &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Oct 2017 00:00:00 +0200</pubDate>
-        <link>https://alexmorley.me/2017/SSI-Fellowship-Application/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2017/SSI-Fellowship-Application/</guid>
+        <link>http://localhost:4000/2017/Julia-Neuro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Julia-Neuro/</guid>
         
         
       </item>
