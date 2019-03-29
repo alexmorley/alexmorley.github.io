@@ -17,7 +17,10 @@ Up-to-date links of related work are kept [here](https://github.com/alexmorley/m
 
  
 ### Neuroscience Research
-**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2019** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophysiological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
+**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2019** - During my first year and half I designed and performed electrophysiological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
+
+During this time I also co-implemented a continuous algorithm-benchmarking application & website with collaborators at the Flatiron Institute which, while still in alpha, handles the application of a diverse range of software to many datasets that are 100s of TB each. I also gained a lot of experience using a wide variety of machine learning approaches, from linear models & bayesian approaches to multilinear tensor models such as MPCA. I applied these to neural data in order to predict behaviour, and interrogated the models’ parameters in order to better understand the underlying neural processes.
+
 
 **FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotropin Release Hormone)-positive neurons in the hypothalamus using immunohistochemistry, optogenetics and behavioural testing.
  
