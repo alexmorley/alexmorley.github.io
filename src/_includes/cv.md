@@ -1,57 +1,74 @@
-### Roles & Awards
+## Roles & Awards
 
-#### Research
-**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2018** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophysiological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
+### Open Research & Computing
+**Mozilla Fellow 2018-2019** - I am currently a Mozilla Fellow. I'm primarily working on several aspects of research software. With [Spikeforest]() and [Continuous Research]() I'm applying best practices in software development such as continuous delivery to data-heavy research problems. With [Jupyter Span](https://github.com/alexmorley/graphical-notebooks) I'm developing an experimental user interface that focusses on Jupyter's use as an IDE, instead of it's use of generating reports. And with [Back Your Scientific Stack](https://github.com/alexmorley/Back-Your-Scientific-Stack) I'm working on ways to make projects that are used by a large number of people more robust and financially sustainable.  
 
-**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotropin Release Hormone)-positive neurons in the hypothalamus using immunohistochemistry, optogenetics and behavioural testing.
+Up-to-date links of related work are kept [here](https://github.com/alexmorley/mozilla-open-fellowship).
 
-#### Open Science & Computing
+
 **RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for researchers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLab-JS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
 
 **SSI Software Sustainability Fellow 2017-2019** - I was awarded a fellowship by the Software Sustainability Institute to continue working on 3 projects: developing the OS and research software module for an [Open Science MOOC](https://opensciencemooc.eu/about-us/production-team/), continue building a community around using Julia for Neuroscience research ([Julia Neuro](https://julianeuro.github.io/)) and to continue to lead the formation of a Robust Research Initiative in Oxford. 
 
 **MRC BNDU Information Security and Data Access Committee 2017-Present** - I am steering the creation of a Peta-Scale Data Sharing Platform that we are building so that we are able to more effectively share our raw data. I also co-manage the NAS & local compute servers as well as 20+ linux workstations. 
 
-**Julia Contributor 2017-Present** - I contribute bug fixes / features to several Julia packages, as well as the main language itself. I have also authored a few packages myself. These can all be found on [my github](https://github.com/alexmorley).
+**Open Source Contributor 2017-Present** Alongisde my main projects I contribute bug fixes / features to lots of the software that I use. I also try to maintain a presence on forums such as Stack Overflow where I feel I can be helpful. All of this can be seen on [my github](https://github.com/alexmorley).
 
-**Stack Overflow Contributor 2017-Present** - I try to give back a bit for all the help I have got on SO.
 
-**
  
+### Neuroscience Research
+**DPhil in Neuroscience (MRC BNDU, University of Oxford) 2016-2019** - I am currently performing research for my DPhil that is expected to be completed by September 2018. During my first year and half I designed and performed electrophysiological recording experiments in freely behaving mice. During that time, and since, I have been analysing the data from those experiments, as well as supervising the collection of more data and analysing data for other projects in the lab.
+
+**FHS Project in Neuroscience (Hotchkiss Brain Institute, Calgary, Canada)** - During my undergraduate I was awarded a scholarship to perform a research project in Canada. I investigated the role of the CRH (Corticotropin Release Hormone)-positive neurons in the hypothalamus using immunohistochemistry, optogenetics and behavioural testing.
  
- 
-**
-#### Presentations
-***Poster:*** **Disentangling neural representations of appetitive and aversive experiences.** - FENS Forum of Neuroscience 2018 (Planned)
+<center> * * * </center>
 
-***Talk:*** **What can Julia do for Neuroscience?** - Julia Con 2018 (Planned)
+## Presentations
 
-***Lightning Talk:*** **Continuous Research** - Collaborations Workshop 2018  
+### 2019
+**Zero to Binderhub** *Kubernetes & Binder Workshop at Sheffield University* [slides here](https://docs.google.com/presentation/d/1Z3qyiM1y42-e4atUjlIfDPrLEx9dD2wQ1PGv78m3x7Q/edit?usp=sharing)
 
-***Talk:*** **5 Golden Rules for Data and Code Management** [link](https://alexmorley.me/projects/SSIFellowship/data-talk/) - MRC BNDU Training Day 2018  
- 
-***Poster:*** **Disentangling appetitive and aversive memories with overlapping content spanning multiple brain circuits** - Society for Neuroscience 2017  
+**Sustainable Development of Research Software** *Mozilla Science Fellows Presentation at the Siegel Foundation in New York* [website here](http://mozillasciencefellows.com/) and [slides here](http://mozillasciencefellows.com/)  
 
-***Poster:*** **Detecting neuronal assemblies using patterns of cross-correlations** - British Neuroscience Association 2017  
+**Feed.Me - Social Media Feed Manipulation for Good** *Underexposed, Berlin* [slides here](https://docs.google.com/presentation/d/1pAyjMlwWsv6bYku0BHe9AIC3lLt7Q2zV3oGypD1Rfpo/edit?usp=sharing)
 
-***Poster:*** **Population Coupling in Memory and Reward Processing Circuits** - FENS 2016  
+### 2018
+**Continuous Research** *Mozilla Fellowship Introduction* [slides here](https://docs.google.com/presentation/d/1PBTY_4cH308vnJOmYTkzlN3T0yOJcqvXGUyiBa1bw7c/edit?usp=sharing)  
 
+**Continuous Research** *Lightning Talk at Collborations Workshop* [write up here](https://alexmorley.me/2018/continuous-research/)  
 
-### Skills
-#### Programming Languages/Technologies
+**5 Golden Rules for Data Management** *University of Oxford Training Day* [slides here](https://alexmorley.me/SSIFellowship/data-talk/)
+
+**Disentangling neural representations of appetitive and aversive experiences.** *Poster at FENS Forum of Neuroscience*
+
+### 2017
+**SSI** *Software Sustainability Institute Application* [slides here](https://alexmorley.me/SSIFellowship/application/)
+
+**Disentangling appetitive and aversive memories with overlapping content spanning multiple brain circuits** *Poster at the Society for Neuroscience*
+
+**Detecting neuronal assemblies using patterns of cross-correlations** *Poster at British Neuroscience Association 2017*
+
+### 2016
+
+**Population Coupling in Memory and Reward Processing Circuits** *Poster at FENS* 
+
+<center> * * * </center>
+
+## Skills
+### Programming Languages/Technologies
 **Confident with & use on a day-to-day basis**
-- [Julia](http://julialang.org), Python
-- Bash, Shell Scripting, Awk, Vim, Make
+- Python, [Julia](http://julialang.org)
+- Web Development: Front-end (JS, HTML & CSS) & Back-end (NodeJS)
+- Bash, Shell Scripting, Vim, Make
 - Version Control (git and [Github](https://github.com/alexmorley))
-- Front-end (JS, HTML & CSS), Back-end (NodeJS)
-- Docker, Azure
+- Docker, Azure, CI (Travis & Drone)
 
 **Working knowledge of (e.g. often used for collaborative projects):**
 - R, MATLAB
-- C, C++
-- Continuous Integration (Travis CI), Kubernetes, AWS
+- Rust, C, C++
+- Kubernetes, AWS
 
-#### Teaching
+### Teaching
 **Programming/Analysis**
 - Day-to-day supervision of an analytical Final Honours School Project
 - Software Carpentry Instructor
