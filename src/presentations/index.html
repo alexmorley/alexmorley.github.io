@@ -1,0 +1,9 @@
+---
+layout: default
+markdown: kramdown
+title: Presentations
+---
+<div class="container">
+{% capture my-include %}{% include presentations.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+</div>
