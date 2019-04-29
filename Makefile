@@ -8,7 +8,7 @@ build:
 	bundle exec jekyll build
 	
 serve:
-	JEKYLL_ENV=development bundle exec jekyll serve --unpublished
+	JEKYLL_ENV=development bundle exec jekyll serve --unpublished --port 4010
 
 deploy:
 	git add -A .
