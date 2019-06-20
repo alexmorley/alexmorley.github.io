@@ -7,6 +7,8 @@ Most applications to most things get rejected, but we'd all rather focus on the 
 
 | Name | Link to App | Success |
 | --- |
+| [Samsung NEXT](https://samsungnext.com/whats-next/category/podcasts/decentralization-samsung-next-stack-zero-grant-recipients/) | N/A | Nope :( |
+| [Hired](https://hired.co.uk/) | N/A | Yes, third time lucky!  |
 | [Open Con 2018](https://www.opencon2018.org/) | [coming soon](./open_con) | Yes but unable to attend again, very :( |
 | [Mozilla Fellowship](https://science.mozilla.org/programs/fellowships) | [coming soon]() | Yes |
 | [Hired](https://hired.co.uk/) | N/A | No :( |
