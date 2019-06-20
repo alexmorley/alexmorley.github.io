@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Job Alert: Work with me on jupyter notebook interfaces"
+title: "Job Alert: Get paid to work on jupyter notebook interfaces"
 author: "Alex Morley"
 date: 2019-06-20
 ---
