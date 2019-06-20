@@ -5,12 +5,12 @@
     <description>Alex Morley</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2019 10:26:18 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 10:26:18 +0100</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2019 10:37:58 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2019 10:37:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Job Alert: Work with me on jupyter notebook interfaces</title>
+        <title>Job Alert: Get paid to work on jupyter notebook interfaces</title>
         <description>&lt;p&gt;Want to hack on some crazy ideas for taking &lt;code class=&quot;highlighter-rouge&quot;&gt;.ipynb&lt;/code&gt;’s to the next level? I’d like someone to help me iterate on a few prototypes for extensions on the jupyterlab interface.&lt;/p&gt;
 
 &lt;h4 id=&quot;soft-requirements&quot;&gt;(Soft) Requirements:&lt;/h4&gt;
@@ -90,11 +90,98 @@ Boo your browser doesn't support the video tag. Try &lt;a href=&quot;https://ale
     
       <item>
         <title>Jupyter Flow</title>
-        <description>&lt;h3 id=&quot;prototype&quot;&gt;Prototype&lt;/h3&gt;
+        <description>&lt;h1 id=&quot;jupyter-span--graphical-notebooks&quot;&gt;Jupyter Span / Graphical Notebooks&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Computational notebooks that reflect the mental model of humans&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A core tenet of user-centered design is that user interfaces should, as much as possible, reflect the prior mental model that the user has of a process. Just as syscall API hides hardware-specific details from programmers developing applications, abstractions at each level of a user interface offer an opportunity to reduce the mental load on the user, enabling them to perform more complex tasks and make fewer mistakes. However these abstractions, however well implemented, will often have tradeoffs in terms of the complexity or performance of the application.&lt;/p&gt;
+
+&lt;p&gt;Computational notebooks, such as Jupyter and Wolfram, have had broad success by reflecting in their interface an existing user model i.e. “this code produces this visualisation” by allowing multimedia to be embedded as part of a script. Jupyter has arguably had more success not only because it is free software, but also by piggybacking on existing programming languages which allows users to transfer previously applied models into a new context, rather than having to learn something new. Both types of computational notebooks also reflect the modularity inherent in analysis pipelines, reading in some files might take more than one line of code but most of the time we just want to think about the process as “reading in the files”. In programming language design this is solved using functions, modules and namespaces, in computational notebooks it is reflected in the UI in the form of code cells.&lt;/p&gt;
+
+&lt;p&gt;Through personal experience, and observations of wider usage patterns of Jupyter notebooks we have gleaned that there is still room for moving even closer to the user’s mental model of how code should be organised for data analysis. We propose design a new user interface that capitalizes on what Jupyter already does well, and fills in the gaps where they exist. In our first prototype we aim to support:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Branching Paths: reflecting the generally non-linear flow of exploratory analysis and testing&lt;/li&gt;
+  &lt;li&gt;Hierarchical Modularity: Allow collapsing and grouping of cells for organisation. Indeed, whole notebooks can be included as one unit of computation in another notebook using this framework.&lt;/li&gt;
+  &lt;li&gt;Modularity II: Allow naming and documenting to be explicitly linked to code cells. Allow decoration of code cells for easy recognition while they are collapsed.&lt;/li&gt;
+  &lt;li&gt;Horizontal (left to right * ) progression model: Take advantage of modern widescreen hardware, and the natural reading pattern to specify workflows that flow across the screen, with branches being represented by vertical splits. * or right to left depending on locale&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many of the concepts here are well validated in current / past software, the next section discusses some of this prior art as well as the goals underlying other work on the Jupyter UI.&lt;/p&gt;
+
+&lt;h2 id=&quot;prior-art&quot;&gt;Prior Art&lt;/h2&gt;
+&lt;h3 id=&quot;visual-programming&quot;&gt;Visual Programming&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Visual_programming_language&quot;&gt;Wiki page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;examples&quot;&gt;Examples:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Max_(software)&quot;&gt;Max&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/KNIME&quot;&gt;KNIME&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/LabVIEW&quot;&gt;LabView&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/WebML&quot;&gt;WebML&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Orange_(software)&quot;&gt;Orange&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pages.alteryx.com/Alteryx-Overview-Demo-ty.html?aliId=230367714&quot;&gt;Alteryx&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Alteryx/comments/5tvp5i/opensource_alteryx_alternative/&quot;&gt;Open Source Alteryx Alternatives&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;other-directions-for-improving-notebook-interfaces&quot;&gt;Other directions for improving notebook interfaces&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/search?client=ubuntu&amp;amp;channel=fs&amp;amp;q=jupyterlab&amp;amp;ie=utf-8&amp;amp;oe=utf-8&quot;&gt;JupyterLab&lt;/a&gt; - Desktop environment in the browser&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/&quot;&gt;Collab&lt;/a&gt; - Easy connection to cheap/free cloud compute resources inluding GPU support.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.usenix.org/system/files/conference/tapp2018/tapp2018-paper-petricek.pdf&quot;&gt;Wrattler&lt;/a&gt; - Data Dependency graph allowing polyglot notebooks and cacheable cells.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposed-interface&quot;&gt;Proposed Interface&lt;/h2&gt;
+&lt;p&gt;See Prototype &lt;a href=&quot;https://www.figma.com/file/Ig0NLRbmKqqPpbG3M8sit8Ws/Jupyter-Span&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
 &lt;iframe style=&quot;border:none; width:90vw; margin-left:-30vw; height:80vh&quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIg0NLRbmKqqPpbG3M8sit8Ws%2FJupyter-Span%3Fnode-id%3D59%253A2373%26scaling%3Dcontain&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
-&lt;iframe style=&quot;border: none; width:90vw; margin-left:-30vw; height:80vh&quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIg0NLRbmKqqPpbG3M8sit8Ws%2FJupyter-Span%3Fnode-id%3D59%253A2373%26scaling%3Dcontain&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&quot;design/design2.png&quot; alt=&quot;Sketch2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;design/ideas1.png&quot; alt=&quot;Sketch&quot; /&gt;&lt;/p&gt;
+
+&lt;details&gt;&lt;summary&gt;Branching Paths:&lt;/summary&gt;
+reflecting the generally non-linear flow of exploratory analysis and testing
+&lt;/details&gt;
+
+&lt;h3 id=&quot;feature-spec&quot;&gt;Feature Spec&lt;/h3&gt;
+&lt;details&gt;&lt;summary&gt;Hierarchical Modularity:&lt;/summary&gt;
+Allow collapsing and grouping of cells for organisation. Indeed, whole notebooks can be included as one unit of computation in another notebook using this framework.
+&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;Modularity II:&lt;/summary&gt;
+Allow naming and documenting to be explicitly linked to code cells. Allow decoration of code cells for easy recognition while they are collapsed.
+&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;Horizontal (left to right * ) progression model:&lt;/summary&gt;
+Take advantage of modern widescreen hardware, and the natural reading pattern to specify workflows that flow across the screen, with branches being represented by vertical splits. * or right to left depending on locale
+&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;Explicit linking of figure to code diff&lt;/summary&gt;
+In a given session, it should always be possible to view the answer to the question: what were the code changes between Figure (state) A and Figure (state) B? Importantly Figures (states) A and B can be any Figure (or explicitly saved state) generated during the session.
+&lt;/details&gt;
+
+&lt;h2 id=&quot;process-and-design-principles&quot;&gt;Process and Design Principles&lt;/h2&gt;
+&lt;h3 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ease of sharing&lt;/li&gt;
+  &lt;li&gt;First-Class support for Offline / Limited Connectivity scenarios&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;user-centered&quot;&gt;User Centered&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Always aiming to reflect mental model that people already have.&lt;/li&gt;
+  &lt;li&gt;Finding current pain points in notebook use.&lt;/li&gt;
+  &lt;li&gt;Get user feedback early (from now) and often.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-to-fork--branch&quot;&gt;How to fork / branch?&lt;/h3&gt;
+&lt;p&gt;Simplest implementation is to run from start until the branch point then update cells on the new branch after the branch point only when selected.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Communication between branches: No they should be independent&lt;/li&gt;
+  &lt;li&gt;Threads vs. Seperate instances: Seperate instances for backend to start. In browser should be sandboxed as well.&lt;/li&gt;
+  &lt;li&gt;Copy memory vs Run from start: Run from start for now. Copy could be implemented later on as an optimization.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Where&lt;/em&gt; is the logic implemented: Front-end? Will work for iodide and jupyter. Back-end? Easier and maybe more powerful, + will need &lt;em&gt;some&lt;/em&gt; backend logic for jupyter either way.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 26 Apr 2019 00:00:00 +0100</pubDate>
         <link>https://alexmorley.me/2019/jupyter-flow/</link>
