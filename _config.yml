@@ -1,8 +1,8 @@
 # SEO settings
-title: "Alex Morley"
+title: "Alex Morley, PhD"
 title2: "" # default: ""
 description: "Alex Morley"
-keywords: "neuroscience, tech, programming, open science, open source, oss, foss"
+keywords: "medicine, ethics, neuroscience, tech, programming, open science, open source, oss, foss"
 url: https://alexmorley.me # site url
 baseurl: null # apply null if repo name is something like username.github.io
 
@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Alex Morley"
-  job      : "Mozilla Fellow and Neuroscientist"
-  bio      : "Trying to make research healthier."
+  job      : "Software Engineer at Babylon Health"
+  bio      : "I have previously been a Mozilla Fellow and Neuroscientist. I want tech to do Good (TM)."
   thumb    : /images/author.jpg
   email    : alex0morley@gmail.com
   url      : https://alexmorley.me

@@ -1,7 +1,7 @@
 ## Roles & Awards
 
 ### Open Research & Computing
-**Mozilla Fellow 2018-2019** - I am currently a Mozilla Fellow. I'm primarily working on several aspects of research software. With [Spikeforest]() and [Continuous Research]() I'm applying best practices in software development such as continuous delivery to data-heavy research problems. With [Jupyter Span](https://github.com/alexmorley/graphical-notebooks) I'm developing an experimental user interface that focusses on Jupyter's use as an IDE, instead of it's use of generating reports. And with [Back Your Scientific Stack](https://github.com/alexmorley/Back-Your-Scientific-Stack) I'm working on ways to make projects that are used by a large number of people more robust and financially sustainable.  
+**Mozilla Fellow 2018-2019** - As a Mozilla Fellow worked on several aspects of research software. With [Spikeforest](https://spikeforest.flatironinstitute.org/) and [Continuous Research](https://alexmorley.me/2018/continuous-research/) I'm applying best practices in software development such as continuous delivery to data-heavy research problems. With [Jupyter Span](https://github.com/alexmorley/graphical-notebooks) I'm developing an experimental user interface that focusses on Jupyter's use as an IDE, instead of it's use of generating reports. And with [Back Your Scientific Stack](https://github.com/alexmorley/Back-Your-Scientific-Stack) I worked on ways to make projects that are used by a large number of people more robust and financially sustainable.  
 
 Up-to-date links of related work are kept [here](https://github.com/alexmorley/mozilla-open-fellowship).
 
@@ -29,6 +29,8 @@ During this time I also co-implemented a continuous algorithm-benchmarking appli
 ## Presentations
 
 ### 2019
+**What's next after notebooks?** *csv,conf,v4 in Portland* [slides here](https://zenodo.org/record/2771413#.XNiP_y-ZNQI) and [watch here](https://www.youtube.com/watch?v=1AJ8NPxzONE&feature=youtu.be).
+
 **Zero to Binderhub** *Kubernetes & Binder Workshop at Sheffield University* [slides here](https://docs.google.com/presentation/d/1Z3qyiM1y42-e4atUjlIfDPrLEx9dD2wQ1PGv78m3x7Q/edit?usp=sharing)
 
 **Sustainable Development of Research Software** *Mozilla Science Fellows Presentation at the Siegel Foundation in New York* [website here](http://mozillasciencefellows.com/) and [slides here](http://mozillasciencefellows.com/)  

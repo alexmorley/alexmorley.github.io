@@ -18,9 +18,25 @@ title: CV
         <th>Achievements / Roles</th>
     </tr>
     <tr>
+        <td>2019 - Present</td>
+        <td><b><a href="https://www.babylonhealth.com/">Babylon Health</a></b></td>
+        <td>
+        <p>AI Software Engineer (Digital Twin)</p>
+        </td> 
+    </tr>
+    <tr>
+        <td>2018 - 2019</td>
+        <td><b><a href="https://foundation.mozilla.org">Mozilla </a></b></td>
+        <td>
+        <p>Mozilla Fellow</p>
+        </td> 
+    </tr>
+
+    <tr>
         <td>2015 - 2019</td>
         <td><b><a href="http://www.mrcbndu.ox.ac.uk/">MRC BNDU</a></b></td>
         <td>
+        <p>PhD (DPhil) in Neuroscience</p>
         <p>MRC 3-year DTA (Dr. David Dupret)</p>
         <p>Microsoft RSE Cloud Computing Fellowship 2018</p>
         <p>SSI Software Sustainability Fellow 2018</p>

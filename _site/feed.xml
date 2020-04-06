@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Morley</title>
+    <title>Alex Morley, PhD</title>
     <description>Alex Morley</description>
-    <link>https://alexmorley.me/</link>
-    <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2019 10:41:05 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 10:41:05 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://localhost:4010/</link>
+    <atom:link href="http://localhost:4010/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Jan 2020 12:24:28 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2020 12:24:28 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Job Alert: Get paid to work on jupyter notebook interfaces</title>
@@ -82,8 +82,8 @@ Boo your browser doesn't support the video tag. Try &lt;a href=&quot;https://ale
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 20 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2019/jupyter-job-posting/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2019/jupyter-job-posting/</guid>
+        <link>http://localhost:4010/2019/jupyter-job-posting/</link>
+        <guid isPermaLink="true">http://localhost:4010/2019/jupyter-job-posting/</guid>
         
         
       </item>
@@ -184,8 +184,8 @@ In a given session, it should always be possible to view the answer to the quest
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 26 Apr 2019 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2019/jupyter-flow/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2019/jupyter-flow/</guid>
+        <link>http://localhost:4010/2019/jupyter-flow/</link>
+        <guid isPermaLink="true">http://localhost:4010/2019/jupyter-flow/</guid>
         
         
       </item>
@@ -228,8 +228,8 @@ A framework supporting continuous benchmarking of spike sorting software. Design
 
 </description>
         <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2019/mozilla-fellowship-update/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2019/mozilla-fellowship-update/</guid>
+        <link>http://localhost:4010/2019/mozilla-fellowship-update/</link>
+        <guid isPermaLink="true">http://localhost:4010/2019/mozilla-fellowship-update/</guid>
         
         
       </item>
@@ -287,8 +287,8 @@ A framework supporting continuous benchmarking of spike sorting software. Design
 &lt;p&gt;I am currently a Mozilla Fellow and my attendance at Simply Secure’s &lt;a href=&quot;https://simplysecure.org/underexposed/&quot;&gt;underexposed&lt;/a&gt; design residency in Berlin was co-sponsored by the Software Sustainability Institute. Check Simply Secure’s &lt;a href=&quot;https://simplysecure.org/knowledge-base/&quot;&gt;page&lt;/a&gt; for more user research (and security) goodies and the SSI’s &lt;a href=&quot;https://www.software.ac.uk/&quot;&gt;page&lt;/a&gt; for more research software-related content.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2019/underexposed/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2019/underexposed/</guid>
+        <link>http://localhost:4010/2019/underexposed/</link>
+        <guid isPermaLink="true">http://localhost:4010/2019/underexposed/</guid>
         
         <category>draft</category>
         
@@ -350,8 +350,8 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
 &lt;p&gt;To close off the day three scientists with sociological backgrounds lead discussion groups about cultural and contextual considerations for moving forwards with Data Science for Experimental Design. For me two themes resonated loud and often in these sessions, in terms of what we as scientists should be doing to be effective, 1) we need to actively engage those with expertise in driving institutional change to help us in our efforts 2) we need to make sure we consider the effects of the changes we seek to drive in as many different contexts as possible. The latter point is especially important, what works to increase accessibility to science in one context may not work in another, and without taking these considerations into account we risk not only being ineffective but actively contributing to existing societal inequalities. These considerations might be technical e.g. considering low-bandwidth internet users when you share data, or not, e.g. using graphics to aid those who find large sections of text difficult to understand. This can often be extra work but remember also that the wider the audience you consider the wider the audience you have the potential to reach.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Oct 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/data-science-for-experimental-design/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/data-science-for-experimental-design/</guid>
+        <link>http://localhost:4010/2018/data-science-for-experimental-design/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/data-science-for-experimental-design/</guid>
         
         
       </item>
@@ -365,8 +365,8 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
 &lt;p&gt;Unless otherwise stated all applications are &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;. If you need to do something that doesn’t allow then just get in touch :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/open-applications/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/open-applications/</guid>
+        <link>http://localhost:4010/2018/open-applications/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/open-applications/</guid>
         
         
       </item>
@@ -398,8 +398,8 @@ and&lt;/li&gt;
 &lt;p&gt;Number &lt;code class=&quot;highlighter-rouge&quot;&gt;2.&lt;/code&gt; is still up for grabs, but first we need to work out exactly what we want from a p2p git repository browser. So let’s make a wishlist! On github! Fork &lt;a href=&quot;https://github.com/alexmorley/dgit-web&quot;&gt;this page on github&lt;/a&gt; or using &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt; and add your name/handle below plus answers to any of the questions if you have any opinions.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jun 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
+        <link>http://localhost:4010/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
         
         
       </item>
@@ -417,8 +417,8 @@ and&lt;/li&gt;
 &lt;p&gt;&lt;a href=&quot;https://alexmorley.me/ContinuousResearch/&quot;&gt;Here&lt;/a&gt; you can read my whitepaper on how and why we could build a “Continuous Research” platform. It’s a work in progress and I’d really love your thoughts so please comment below or &lt;a href=&quot;https://github.com/alexmorley/ContinuousResearch&quot;&gt;on github&lt;/a&gt; or send me an email (alex0morley@gmail.com).&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/continuous-research/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/continuous-research/</guid>
+        <link>http://localhost:4010/2018/continuous-research/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/continuous-research/</guid>
         
         
       </item>
@@ -436,8 +436,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2018/every-data-scientist-should-know/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/every-data-scientist-should-know/</guid>
+        <link>http://localhost:4010/2018/every-data-scientist-should-know/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/every-data-scientist-should-know/</guid>
         
         
       </item>
@@ -473,8 +473,8 @@ I just stole the title from someone else ¯\\\_(ツ)\_/¯
 
 </description>
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-        <link>https://alexmorley.me/2018/GoldenRulesForDataManagement/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/GoldenRulesForDataManagement/</guid>
+        <link>http://localhost:4010/2018/GoldenRulesForDataManagement/</link>
+        <guid isPermaLink="true">http://localhost:4010/2018/GoldenRulesForDataManagement/</guid>
         
         
       </item>
