@@ -16,4 +16,4 @@ deploy_no_push:
 	git push origin `git subtree split --prefix _site development`:refs/heads/master --force
 
 deploy: deploy_no_push
-	git push development master
+	git push origin development
