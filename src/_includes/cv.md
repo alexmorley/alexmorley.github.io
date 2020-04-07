@@ -1,7 +1,8 @@
 ## Roles & Awards
 
 ### Open Research & Computing
-**Mozilla Fellow 2018-2019** - As a Mozilla Fellow worked on several aspects of research software. With [Spikeforest](https://spikeforest.flatironinstitute.org/) and [Continuous Research](https://alexmorley.me/2018/continuous-research/) I'm applying best practices in software development such as continuous delivery to data-heavy research problems. With [Jupyter Span](https://github.com/alexmorley/graphical-notebooks) I'm developing an experimental user interface that focusses on Jupyter's use as an IDE, instead of it's use of generating reports. And with [Back Your Scientific Stack](https://github.com/alexmorley/Back-Your-Scientific-Stack) I worked on ways to make projects that are used by a large number of people more robust and financially sustainable.  
+<a id="mozillafellow"></a>
+**Mozilla Fellow 2018-2019** - As a Mozilla Fellow I worked on several aspects of research software. With [Spikeforest](https://spikeforest.flatironinstitute.org/) and [Continuous Research](https://alexmorley.me/2018/continuous-research/) I'm applying best practices in software development such as continuous delivery to data-heavy research problems. With [Jupyter Span](https://github.com/alexmorley/graphical-notebooks) I'm developing an experimental user interface that focusses on Jupyter's use as an IDE, instead of it's use of generating reports. And with [Back Your Scientific Stack](https://github.com/alexmorley/Back-Your-Scientific-Stack) I worked on ways to make projects that are used by a large number of people more robust and financially sustainable.  
 
 Up-to-date links of related work are kept [here](https://github.com/alexmorley/mozilla-open-fellowship).
 

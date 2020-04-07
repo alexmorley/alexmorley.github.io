@@ -21,14 +21,14 @@ title: CV
         <td>2019 - Present</td>
         <td><b><a href="https://www.babylonhealth.com/">Babylon Health</a></b></td>
         <td>
-        <p>AI Software Engineer (Digital Twin)</p>
+        <p>AI Software Engineer (Digital Twin and Simulations)</p>
         </td> 
     </tr>
     <tr>
         <td>2018 - 2019</td>
         <td><b><a href="https://foundation.mozilla.org">Mozilla </a></b></td>
         <td>
-        <p>Mozilla Fellow</p>
+        <p>Mozilla Fellow (see <a href="#mozillafellow">Roles & Awards</a>)</p>
         </td> 
     </tr>
 

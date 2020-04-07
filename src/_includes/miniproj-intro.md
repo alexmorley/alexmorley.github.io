@@ -1,1 +1,1 @@
-Hey! Here are links to some projects I've been working on recently.
+Hey! Here are links to some mini-projects I've done for fun over the years as the sole or main contributer. You can find more of my (better) work in my [CV](cv/) that includes collaborative and grant-funded projects.

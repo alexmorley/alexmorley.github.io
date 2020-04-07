@@ -44,9 +44,13 @@ og_locale: "en_UK"
 twitter_card: "summary_large_image"
 twitter_site: "@alex__morley"
 
+plugins:
+  - jemoji
+
 gems:
   - bourbon
   - jekyll-paginate
+  - jemoji
 
 # navbar pages
 navbar:
