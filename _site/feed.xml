@@ -5,9 +5,111 @@
     <description>Alex Morley</description>
     <link>http://localhost:4010/</link>
     <atom:link href="http://localhost:4010/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Apr 2020 19:59:36 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2020 19:59:36 +0100</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2020 18:37:14 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2020 18:37:14 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>More ramblings; maybe interesting</title>
+        <description>&lt;p&gt;Hey 👋. Going to be writing some things down over the next few weeks to work on the art and maybe provide something slightly less boring that sitting at home staring at the wall.&lt;/p&gt;
+
+&lt;p&gt;Thinking about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;On moving from acedemia to “industry”. How no one, even the people that are reading our work, has a clue what we* do as scientists or how we do it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Coding and art. Am a total newbie but loving playing around with new languages and concepts and making things that you could almost call art (a bar which my hand-drawn drawings do not meet).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Why organizations should be hiring more junior developers. A lot of devs are finding their way in freelance work at the moment. That works for some but I think everyone would win if there were more opportunities for junior devs to work as part of a bigger team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CU L8R&lt;/p&gt;
+
+&lt;p&gt;* I’m still a scientist, right?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4010/2020/writing-things-maybe-interesting/</link>
+        <guid isPermaLink="true">http://localhost:4010/2020/writing-things-maybe-interesting/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hire junior developers</title>
+        <description>&lt;p&gt;Medium to large organizations with software at the core of their offering all run into the same sets of problems:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;We are spending 10X the amount on engineering salaries compared to what we use to. Why are we building so slowly?&lt;/li&gt;
+  &lt;li&gt;We have a massive backlog of small tasks that never get done.&lt;/li&gt;
+  &lt;li&gt;We are spending a fortune on hiring.&lt;/li&gt;
+  &lt;li&gt;Most of our engineers are leaving after a year or two.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are countless causes for any ones of these problems so I can’t tell you what the solutions are. But I can tell you what they are not. Your engineers are not too junior. In fact, maybe you have the opposite problem. Your engineers aren’t junior &lt;em&gt;enough&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why do we hire senior engineers?&lt;/em&gt;&lt;br /&gt;
+As an engineering manager, I only want to hire the best for my team. We have a headcount limit and senior engineers will get more done. We don’t have the capacity to train and mentor junior engineers. As a recruiter or talent manager, I want to show that I can bring in the best talent. As a CEO I want to be able to say that we only hire the best, that we have higher standards than our competitors.&lt;/p&gt;
+
+&lt;p&gt;We hire senior engineers because we want what’s best for ourselves and those around us. But while these decisions might be locally optimal they can be harmful to your organisation as a whole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blind-man-elephant.jpeg&quot; alt=&quot;Comic depiction of the parable of the blind man and an elephant.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So let’s zoom out. From an organizational perspective why would it be worth paying (a lot) more for senior developers? &lt;strong&gt;We assume that they can do 2x the work while costing less than 2x (including salary and overheads).&lt;/strong&gt;*&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2x what work?&lt;/strong&gt; Can a senior engineer design a major new component faster than a junior one? Sure probably way more than 2x faster and probably much better too. Experience is really important here. But what about debugging an issue that has come in from a client? Sometimes they might be faster but sometimes it won’t make a difference who is looking at the issue. What about propagating a configuration change across some services? Adding an endpoint to expose some existing functionality?&lt;/p&gt;
+
+&lt;p&gt;The size and complexity of the tasks for engineers in a typical organisation vary a lot. There will be a few big tasks and lots of small tasks. With too few junior engineers the people working on the big tasks will be distracted by the small ones. People tend to not just be more efficient when they can just focus on one task at a time but also less stressed. If I can use a clunky hardware analogy here: GPUs offer much better value per core than CPUs but are better suited to a very specific type of workload. In a modern system, we make sure that we have a GPU for the “embarrassingly parallel” problems while reserving the GPU for single-core performance.&lt;/p&gt;
+
+&lt;p&gt;So, as always, it depends. In some scenarios having an engineer with 10 years of experience under your belt will be invaluable. For other things, it won’t. The question becomes how many experienced engineers do you need. For how much of the work that’s done every day in your org will our 2x work &amp;gt; 2x cost assumption hold? If you can honestly tell me that most of the work that its done is complex or high-level enough that experience matters that much then great. Your systems are probably &lt;em&gt;very&lt;/em&gt; well designed.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are spending 10X the amount on engineering salaries compared to what we use to. Why are we building so slowly?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Are your senior engineers are distracted by all of the smaller tasks they have to do? Are they are unhappy because the work they are doing is unsatisfying? Or is (see below) everything is being slowed down by the small tasks that never get done?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have a massive backlog of small tasks that never get done.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The type of work that is exciting changes for each developer as the move through their career. When I started as a dev I loved making changes that I could see the result of quickly, even if they weren’t complex or massively challenging. I had a phase where I loved cleaning up bits of code that hadn’t seen some love in a while. Now I would much rather be doing “design heavy” programming where the goal isn’t just to get something working but to make sure it’s going to be usable and extensible for years to come. If you have all of these different types of tasks to be done then the best (and kindest!) way to make sure they get done is to hire people at all career stages. And remember that most people are happier to stretch themselves with a task than they are to sit and do easy things all day.&lt;/p&gt;
+
+&lt;p&gt;What about the other two problems I mentioned at the start?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We are spending a fortune on hiring.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Senior developers are hard to recruit. Their salaries are in the ranges where larger sums of money make less of a difference to them than their junior counterparts. Hiring is always going to be hard. And hiring junior developers is not easy (especially as they have less on their CV for the initial filtering stage) but it is easier to hire them once you have found them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Most of our engineers are leaving after a year or two.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hiring mostly senior engineers is a recipe for dis-satisfaction. Not only due because they’ll end up working on tasks that don’t stretch them enough but also because it inhibits their growth in other areas: it decreases the opportunity for mentor-mentee relationships which tend to benefit both parties and it reduces the chances of them getting good leadership opportunities. These are both often high on the list of a senior developer’s desires and sooner or later they will realise they have to move in order to fulfil them.&lt;/p&gt;
+
+&lt;p&gt;Flat structures are great but people need a path forward for their careers and that usually requires leadership opportunities whether you’re are on the management or individual contributor track.&lt;/p&gt;
+
+&lt;p&gt;* Replace 2x with whatever multiplier takes your fancy ¯\_(ツ)_/¯&lt;/p&gt;
+
+&lt;!--
+- Why aren't are teams collaborating effectively?
+- Why aren't are teams integrating?
+
+OK this one might be a bit of a long-shot. But I have a pretty strong hunch that having more junior devs would help. Integration between teams within an organisation is usually a good idea long-term but the incentive of the teams to do so is often lacking. The time of each senior dev is often seen as so valuable by decision makers that they are reluctant to sacrifice it for these internal projects. These projects are often ideal fits for junior devs and can provide serious value to the org long-term.
+--&gt;
+</description>
+        <pubDate>Mon, 20 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4010/2020/hire-junior-developers/</link>
+        <guid isPermaLink="true">http://localhost:4010/2020/hire-junior-developers/</guid>
+        
+        <category>draft</category>
+        
+        
+      </item>
     
       <item>
         <title>Job Alert: Get paid to work on jupyter notebook interfaces</title>
@@ -419,62 +521,6 @@ and&lt;/li&gt;
         <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4010/2018/continuous-research/</link>
         <guid isPermaLink="true">http://localhost:4010/2018/continuous-research/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>every-data-scientist-should-know</title>
-        <description>&lt;p&gt;OK so my job title isn’t actually “data scientist”. But by the end of this year it might be, and while a lot of what I do research-wise is pretty much “data science” there are also a fair few aspects that get ignored in acedemia. While trying to keep growing as a software developer I was super happy to come across &lt;a href=&quot;https://github.com/mtdvio/every-programmer-should-know&quot;&gt;every-programmer-should-know&lt;/a&gt; - a github repo that acts as a highly curated list of things that are super useful to know as a programmer.&lt;/p&gt;
-
-&lt;p&gt;So, while trying to fill in a few of the (many) gaps in my data-sci skill stack I decided to create a &lt;code class=&quot;highlighter-rouge&quot;&gt;s/programmer/data-scientist&lt;/code&gt; version of the list! I’ve started filling it in with a few of my favourite resources but I don’t have enough experience to really fill this out. So if you’ve got an awesome resource that covers something new then add it to the list; or if you’ve found something that you feel is better than what I’ve put there already then replace it! I will try to spend a some time to give every PR a proper look through.&lt;/p&gt;
-
-&lt;p&gt;Anyway here it is at &lt;a href=&quot;https://github.com/alexmorley/every-data-scientist-should-know&quot;&gt;every-data-scientist-should-know&lt;/a&gt;, let me know what you think!&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PS. By &quot;should-know&quot; I don't really mean &quot;should&quot;. I mean, you can learn whatever you feel like.
-I just stole the title from someone else ¯\\\_(ツ)\_/¯
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4010/2018/every-data-scientist-should-know/</link>
-        <guid isPermaLink="true">http://localhost:4010/2018/every-data-scientist-should-know/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Golden Rules For Data (and Code) Management</title>
-        <description>&lt;p&gt;If Nature News and Comment are writing about it, it must be the next big thing eh?&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“Data management is inevitably going to be an essential skill in the open-science era.&amp;quot; &lt;a href=&quot;https://t.co/SrjnAW46na&quot;&gt;https://t.co/SrjnAW46na&lt;/a&gt;&lt;/p&gt;&amp;mdash; Nature News &amp;amp; Comment (@NatureNews) &lt;a href=&quot;https://twitter.com/NatureNews/status/974339459381645314?ref_src=twsrc%5Etfw&quot;&gt;15 March 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Hot topic or not managing your data properly is super important for scientific/commercial integrity, and most importantly, your own sanity. It’s so important that my department invited their most bestest PhD student to give &lt;a href=&quot;/projects/SSIFellowship/data-talk&quot;&gt;a talk&lt;/a&gt; on it at our last training day.&lt;/p&gt;
-
-&lt;p&gt;If you couldn’t be bothered to flick through all ten slides then here are said Golden Rules, according to yours truly:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Don’t Touch the Raw Data&lt;/strong&gt; - back it up and keep read-only copy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Have a plan!&lt;/strong&gt; - Decide where your data is going to be stored, what its called, when/if it needs to be deleted BEFORE you start collecting it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Document Everything&lt;/strong&gt; - You know who the worst person at replying to emails is about what the sampling frequency of channel X was. Nope not him, it actually yourself from a year ago. Keep the documentation with the data!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Create the data you want to see in the word&lt;/strong&gt; - Imagine someone was about to give you a dataset that you needed to analyse well in order to get that job you’ve been dreaming about. What would you want it to look like? That’s how yours should look.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Try not to re-invent the wheel.&lt;/strong&gt; Before you start creating some crazy new schema, storage format or naming protocol - have a quick google, ask your colleagues. Something that’s already being used is likely going to be better in the long run even if you think there’s a better solution.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4010/2018/GoldenRulesForDataManagement/</link>
-        <guid isPermaLink="true">http://localhost:4010/2018/GoldenRulesForDataManagement/</guid>
         
         
       </item>
