@@ -2,10 +2,8 @@
 layout: post
 title: "Hire junior developers"
 author: "Alex Morley"
-date: "2020-04-20"
-published: false
-tags:
-- draft
+date: "2020-05-01"
+published: true
 ---
 
 Medium to large organizations with software at the core of their offering all run into the same sets of problems:

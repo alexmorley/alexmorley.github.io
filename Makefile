@@ -10,7 +10,7 @@ build:
 serve:
 	JEKYLL_ENV=development bundle exec jekyll serve --unpublished --trace --port 4010
 
-deploy_no_push:
+deploy_no_push: build
 	git add -A .
 	git commit -m "pre-deploy commit" || echo "nothing to commit"
 	git push origin `git subtree split --prefix _site development`:refs/heads/master --force
