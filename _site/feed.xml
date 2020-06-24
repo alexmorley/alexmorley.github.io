@@ -5,9 +5,30 @@
     <description>Alex Morley</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 13:05:58 +0100</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 13:05:58 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2020 22:20:48 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2020 22:20:48 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>the-best-parts-of-the-internet</title>
+        <description>&lt;p&gt;Seen some cool thingz pop up on recently which remind that I actually don’t hate the whole of the internet (or the whole of hackernews). Also that maybe I &lt;em&gt;do&lt;/em&gt; get art. Just not the kind of art that I was exposed to as a kid.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nopaint.art/&quot;&gt;No paint&lt;/a&gt; - I’m no artist but everything that this the produces is a masterpiece IMO.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://loglo.app/2020-06-16/&quot;&gt;Loglo&lt;/a&gt; - As with no paint you have to click through to event have a tiny clue what this is about but basically its a programming environment for drawing usings stacks of commands in rows and columns in a spreadsheet. Crazy, stupid brilliant stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tts-mp3.glitch.me/tts.mp3?text=yeah%20well%20the%20drone%20cost%20a%20thousand%20dollars&quot;&gt;TTS.mp3&lt;/a&gt; - If your on a mac you can use &lt;code class=&quot;highlighter-rouge&quot;&gt;say&lt;/code&gt;. But this you can send as a link.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dougengelbart.org/content/view/374/464/&quot;&gt;Doug Engelbart’s Demo&lt;/a&gt; - Amazing to see how far we haven’t come since this famous demo. I’d heard about it years ago but never sat down and watched the whole thing. Steve Jobs ain’t got nothing on this.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jun 2020 00:00:00 +0100</pubDate>
+        <link>https://alexmorley.me/2020/the-best-parts-of-the-internet/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2020/the-best-parts-of-the-internet/</guid>
+        
+        <category>chill</category>
+        
+        
+      </item>
     
       <item>
         <title>Hire junior developers</title>
@@ -537,39 +558,6 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
         <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
         <link>https://alexmorley.me/2018/open-applications/</link>
         <guid isPermaLink="true">https://alexmorley.me/2018/open-applications/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Decentralised Git Repositry Sharing and Discovery</title>
-        <description>&lt;p&gt;Decentralised Git Repo Sharing/Storage backed by Dat&lt;/p&gt;
-
-&lt;p&gt;So. Github have &lt;a href=&quot;https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/&quot;&gt;gone rogue&lt;/a&gt;. Ok, not quite, and the way I see it, it was either they got bought-out or shut-down, and I’m glad it was the former. Whatever your feelings on the above may be, it’d be nice to have a full &lt;strong&gt;free&lt;/strong&gt;, &lt;strong&gt;open&lt;/strong&gt; and &lt;strong&gt;decentralised&lt;/strong&gt; place to collaborate on software, and other projects.&lt;/p&gt;
-
-&lt;p&gt;But before we decide to build it it’d be good to know what’s out there! In terms of (fully) Open Source Git Repository Browsers there’s:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/google/gitiles&quot;&gt;Gitiles&lt;/a&gt; a super minimal browser written in Go.
-and&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://git.kernel.org/pub/scm/git/git.git/tree/gitweb&quot;&gt;GitWeb&lt;/a&gt; which is decentralised using the &lt;a href=&quot;https://github.com/dominictarr/scuttlebutt&quot;&gt;scuttlebut&lt;/a&gt; protocol.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While GitWeb looks really cool, scuttlebutt isn’t a super mature project, and wasn’t greated with file storage in mind, so while it’s great for the repo-browsing interface, it’s not as well suited to hosting the git repositories themselves. Enter &lt;a href=&quot;https://datproject.org/&quot;&gt;Dat&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When I first thought of using Dat for sharing git repo’s I tried to hack something together. I very quickly realised a) it was a bit more complicated than I thought it was going to be and b) there’s no way I was the first person to try and do this. And most importantly c) I was actually trying to do two things at once.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Use the dat protocol as peer-to-peer git remote (on the same levele as http(s) and ssh)&lt;/li&gt;
-  &lt;li&gt;Create an interface for sharing/discovery of git repositories.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As it turns out number &lt;code class=&quot;highlighter-rouge&quot;&gt;1.&lt;/code&gt; has already been put together very neatly by @noffle (github and twitter) in a protocol called &lt;a href=&quot;https://github.com/noffle/hypergit&quot;&gt;hypergit&lt;/a&gt;. “But wait I thought you said you wanted to use the dat protocol?”, well yes, Dat is actually a wrapper around hyperdrive which itself will soon be written on top of hyperdb which is what hypergit is built on. Confusing? A little. But what matter is that hypergit is using the same core technologies as day, but for now is much faster when dealing with large numbers (thousands) or files - which is especially important for a git repo.&lt;/p&gt;
-
-&lt;p&gt;Number &lt;code class=&quot;highlighter-rouge&quot;&gt;2.&lt;/code&gt; is still up for grabs, but first we need to work out exactly what we want from a p2p git repository browser. So let’s make a wishlist! On github! Fork &lt;a href=&quot;https://github.com/alexmorley/dgit-web&quot;&gt;this page on github&lt;/a&gt; or using &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt; and add your name/handle below plus answers to any of the questions if you have any opinions.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jun 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/Decentralised-Git-Reposity-Sharing-and-Discovery/</guid>
         
         
       </item>
