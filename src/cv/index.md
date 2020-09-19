@@ -21,6 +21,7 @@ title: CV
         <td>2019 - Present</td>
         <td><b><a href="https://www.babylonhealth.com/">Babylon Health</a></b></td>
         <td>
+        <p>Senior Engineer (Self-Care)</p>
         <p>AI Software Engineer (Digital Twin and Simulations)</p>
         </td> 
     </tr>

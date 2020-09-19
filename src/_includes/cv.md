@@ -6,7 +6,6 @@
 
 Up-to-date links of related work are kept [here](https://github.com/alexmorley/mozilla-open-fellowship).
 
-
 **RSE Cloud Computing Fellow 2017-2018** - I have been awarded a fellowship to develop solutions to make it easier for researchers to make use of cloud computing resources. My main project here will be allowing users to perform spike-sorting in the cloud using [MountainLab-JS](https://github.com/flatironinstitute/mountainlab-js). So far we have added an API so that we can add, remove and interface with pods from a Kubernetes cluster.
 
 **SSI Software Sustainability Fellow 2017-2019** - I was awarded a fellowship by the Software Sustainability Institute to continue working on 3 projects: developing the OS and research software module for an [Open Science MOOC](https://opensciencemooc.eu/about-us/production-team/), continue building a community around using Julia for Neuroscience research ([Julia Neuro](https://julianeuro.github.io/)) and to continue to lead the formation of a Robust Research Initiative in Oxford. 
@@ -62,14 +61,14 @@ During this time I also co-implemented a continuous algorithm-benchmarking appli
 
 ## Skills
 ### Programming Languages/Technologies
-**Confident with & use on a day-to-day basis**
+**"Fluent"**
 - Python, [Julia](http://julialang.org)
 - Web Development: Front-end (JS, HTML & CSS) & Back-end (NodeJS)
-- Bash, Shell Scripting, Vim, Make
+- Bash, Shell Scripting, Make
 - Version Control (git and [Github](https://github.com/alexmorley))
-- Docker, Azure, CI (Travis & Drone)
+- Docker, Container 
 
-**Working knowledge of (e.g. often used for collaborative projects):**
+**Working knowledge of (e.g. use often but not daily):**
 - R, MATLAB
 - Rust, C, C++
 - Kubernetes, AWS
