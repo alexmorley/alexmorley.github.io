@@ -5,9 +5,43 @@
     <description>Alex Morley</description>
     <link>https://alexmorley.me/</link>
     <atom:link href="https://alexmorley.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Sep 2020 21:53:16 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2020 21:53:16 +0100</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2020 15:22:30 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2020 15:22:30 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Healthcare Tech Substacks</title>
+        <description>&lt;p&gt;So substack is allowing writers to avoid having their content &lt;a href=&quot;&quot;&gt;moderated&lt;/a&gt; or &lt;a href=&quot;&quot;&gt;edited&lt;/a&gt; which has some less than savoury implications. But it also represents pushback against advertising-driven revenue models and lets content creators earn a living independently. So the jury (at least my internal jury) is still out about the net benefits of the new platform to society as a whole. Regardless I have enjoyed reading quite a bit of content on it recently especially around healthcare technology that I wanted to share.&lt;/p&gt;
+
+&lt;h3 id=&quot;health-trends&quot;&gt;&lt;a href=&quot;https://healthtrends.substack.com/people/15774343-health-trends&quot;&gt;Health Trends&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;…is written by a medical Doctor who has experience working in healthcare startups as well as the NHS. Each week they break down a trend in healthcare tech into the problem being solved, solutions, a glossary, history, opportunities and predictions for the future along with links to external resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read if:&lt;/strong&gt; You want a highly digested and well researched overview of a topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t read if:&lt;/strong&gt; You are looking for a story or conversational tone.
+&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;grenz-on-health&quot;&gt;&lt;a href=&quot;https://chrisgrenz.substack.com/&quot;&gt;Grenz on Health&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;…is a newsletter by Chris Grenz (shock) who was an early contributor to, and advocate of &lt;a href=&quot;https://www.hl7.org/fhir&quot;&gt;FHIR&lt;/a&gt; (an open standard for the exchange of healthcare data). In his newsletter Chris dives into some operation details about FHIR, some novel usecases as well as some more general discussions about data in healthcare such as trust and interoperability.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read if:&lt;/strong&gt; You work with health data professionally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t read if:&lt;/strong&gt; You aren’t comfortable / interested in diving into some technical details.
+&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;insight&quot;&gt;&lt;a href=&quot;https://zeynep.substack.com/&quot;&gt;Insight&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;…is Zeynep Tufekci’s newsletter. OK it’s not actually dedicated to healthcare or tech. But most of the time (especially) recently it is about healthcare or tech. Zeynep is a sociologist focusing on technology and policy. Recent articles discuss &lt;a href=&quot;https://zeynep.substack.com/p/on-randomized-trials-and-medicine&quot;&gt;randomised controlled trials&lt;/a&gt;, &lt;a href=&quot;https://zeynep.substack.com/p/stop-refreshing-that-forecast&quot;&gt;US election forecasting&lt;/a&gt; and the &lt;a href=&quot;https://zeynep.substack.com/p/the-problem-with-all-the-tech-hearings&quot;&gt;Tech Hearings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read if:&lt;/strong&gt; You have time. Articles are often long form.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t read if:&lt;/strong&gt; You want to keep a simple view on world events.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://alexmorley.me/2020/substack-health/</link>
+        <guid isPermaLink="true">https://alexmorley.me/2020/substack-health/</guid>
+        
+        
+      </item>
     
       <item>
         <title>the-best-parts-of-the-internet</title>
@@ -543,21 +577,6 @@ Then we moved on to the next level of abstraction, how much of the scientific pr
         <pubDate>Wed, 17 Oct 2018 00:00:00 +0100</pubDate>
         <link>https://alexmorley.me/2018/data-science-for-experimental-design/</link>
         <guid isPermaLink="true">https://alexmorley.me/2018/data-science-for-experimental-design/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Open Applications</title>
-        <description>&lt;p&gt;Most applications to most things get rejected, but we’d all rather focus on the times when things went better. By releasing my applications to jobs/grants etc. I am aiming to normalize failing for myself, keep my head on straight, and maybe there will even be some things in there that are useful for other people.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/applications&quot;&gt;My Applications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Unless otherwise stated all applications are &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;. If you need to do something that doesn’t allow then just get in touch :)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
-        <link>https://alexmorley.me/2018/open-applications/</link>
-        <guid isPermaLink="true">https://alexmorley.me/2018/open-applications/</guid>
         
         
       </item>
